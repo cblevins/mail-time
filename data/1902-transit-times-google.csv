@@ -1,0 +1,1657 @@
+origin-city,origin-state,destination,hours
+Boston,Mass.,Decatur, Alabama,40.50
+New York,N.Y.,Decatur, Alabama,33.50
+Philadelphia,Pa.,Decatur, Alabama,29.00
+Baltimore,Md.,Decatur, Alabama,27.42
+Washington,D.C.,Decatur, Alabama,26.50
+Pittsburg,Pa.,Decatur, Alabama,33.67
+Chicago,Ill.,Decatur, Alabama,24.00
+Charleston,S.C.,Decatur, Alabama,30.08
+Cincinnati,Ohio,Decatur, Alabama,20.00
+Saint Louis,Mo.,Decatur, Alabama,17.00
+Omaha,Nebr.,Decatur, Alabama,32.50
+San Francisco,Cal.,Decatur, Alabama,91.58
+Boston,Mass.,Mobile, Alabama,49.00
+New York,N.Y.,Mobile, Alabama,35.50
+Philadelphia,Pa.,Mobile, Alabama,33.00
+Baltimore,Md.,Mobile, Alabama,32.00
+Washington,D.C.,Mobile, Alabama,31.00
+Pittsburg,Pa.,Mobile, Alabama,38.00
+Chicago,Ill.,Mobile, Alabama,40.00
+Charleston,S.C.,Mobile, Alabama,28.58
+Cincinnati,Ohio,Mobile, Alabama,25.67
+Saint Louis,Mo.,Mobile, Alabama,29.42
+Omaha,Nebr.,Mobile, Alabama,47.50
+San Francisco,Cal.,Mobile, Alabama,105.75
+Boston,Mass.,Montgomery, Alabama,39.00
+New York,N.Y.,Montgomery, Alabama,30.50
+Philadelphia,Pa.,Montgomery, Alabama,28.00
+Baltimore,Md.,Montgomery, Alabama,26.00
+Washington,D.C.,Montgomery, Alabama,24.00
+Pittsburg,Pa.,Montgomery, Alabama,35.00
+Chicago,Ill.,Montgomery, Alabama,31.00
+Charleston,S.C.,Montgomery, Alabama,21.83
+Cincinnati,Ohio,Montgomery, Alabama,22.67
+Saint Louis,Mo.,Montgomery, Alabama,24.00
+Omaha,Nebr.,Montgomery, Alabama,41.50
+San Francisco,Cal.,Montgomery, Alabama,95.75
+Boston,Mass.,Prescott, Arizona Territory,102.83
+New York,N.Y.,Prescott, Arizona Territory,94.00
+Philadelphia,Pa.,Prescott, Arizona Territory,94.00
+Baltimore,Md.,Prescott, Arizona Territory,94.50
+Washington,D.C.,Prescott, Arizona Territory,95.33
+Pittsburg,Pa.,Prescott, Arizona Territory,87.00
+Chicago,Ill.,Prescott, Arizona Territory,85.92
+Charleston,S.C.,Prescott, Arizona Territory,120.75
+Cincinnati,Ohio,Prescott, Arizona Territory,84.83
+Saint Louis,Mo.,Prescott, Arizona Territory,65.50
+Omaha,Nebr.,Prescott, Arizona Territory,70.00
+San Francisco,Cal.,Prescott, Arizona Territory,40.58
+Boston,Mass.,Tucson, Arizona Territory,108.83
+New York,N.Y.,Tucson, Arizona Territory,100.83
+Philadelphia,Pa.,Tucson, Arizona Territory,100.67
+Baltimore,Md.,Tucson, Arizona Territory,100.92
+Washington,D.C.,Tucson, Arizona Territory,101.92
+Pittsburg,Pa.,Tucson, Arizona Territory,90.65
+Chicago,Ill.,Tucson, Arizona Territory,89.67
+Charleston,S.C.,Tucson, Arizona Territory,115.00
+Cincinnati,Ohio,Tucson, Arizona Territory,90.50
+Saint Louis,Mo.,Tucson, Arizona Territory,70.67
+Omaha,Nebr.,Tucson, Arizona Territory,76.50
+San Francisco,Cal.,Tucson, Arizona Territory,42.25
+Boston,Mass.,Fort Smith, Arkansas,66.83
+New York,N.Y.,Fort Smith, Arkansas,58.00
+Philadelphia,Pa.,Fort Smith, Arkansas,55.00
+Baltimore,Md.,Fort Smith, Arkansas,57.00
+Washington,D.C.,Fort Smith, Arkansas,56.00
+Pittsburg,Pa.,Fort Smith, Arkansas,41.83
+Chicago,Ill.,Fort Smith, Arkansas,37.50
+Charleston,S.C.,Fort Smith, Arkansas,78.75
+Cincinnati,Ohio,Fort Smith, Arkansas,36.50
+Saint Louis,Mo.,Fort Smith, Arkansas,20.50
+Omaha,Nebr.,Fort Smith, Arkansas,29.50
+San Francisco,Cal.,Fort Smith, Arkansas,88.75
+Boston,Mass.,Helena, Arkansas,71.83
+New York,N.Y.,Helena, Arkansas,64.00
+Philadelphia,Pa.,Helena, Arkansas,62.00
+Baltimore,Md.,Helena, Arkansas,63.50
+Washington,D.C.,Helena, Arkansas,62.33
+Pittsburg,Pa.,Helena, Arkansas,50.00
+Chicago,Ill.,Helena, Arkansas,39.25
+Charleston,S.C.,Helena, Arkansas,76.75
+Cincinnati,Ohio,Helena, Arkansas,38.83
+Saint Louis,Mo.,Helena, Arkansas,28.00
+Omaha,Nebr.,Helena, Arkansas,38.00
+San Francisco,Cal.,Helena, Arkansas,96.75
+Boston,Mass.,Hot Springs, Arkansas,53.83
+New York,N.Y.,Hot Springs, Arkansas,55.00
+Philadelphia,Pa.,Hot Springs, Arkansas,52.00
+Baltimore,Md.,Hot Springs, Arkansas,54.00
+Washington,D.C.,Hot Springs, Arkansas,53.00
+Pittsburg,Pa.,Hot Springs, Arkansas,40.83
+Chicago,Ill.,Hot Springs, Arkansas,34.50
+Charleston,S.C.,Hot Springs, Arkansas,58.75
+Cincinnati,Ohio,Hot Springs, Arkansas,33.50
+Saint Louis,Mo.,Hot Springs, Arkansas,21.50
+Omaha,Nebr.,Hot Springs, Arkansas,42.50
+San Francisco,Cal.,Hot Springs, Arkansas,90.75
+Boston,Mass.,Little Rock, Arkansas,50.83
+New York,N.Y.,Little Rock, Arkansas,45.00
+Philadelphia,Pa.,Little Rock, Arkansas,43.00
+Baltimore,Md.,Little Rock, Arkansas,41.00
+Washington,D.C.,Little Rock, Arkansas,40.00
+Pittsburg,Pa.,Little Rock, Arkansas,32.83
+Chicago,Ill.,Little Rock, Arkansas,24.50
+Charleston,S.C.,Little Rock, Arkansas,51.75
+Cincinnati,Ohio,Little Rock, Arkansas,25.50
+Saint Louis,Mo.,Little Rock, Arkansas,12.50
+Omaha,Nebr.,Little Rock, Arkansas,36.50
+San Francisco,Cal.,Little Rock, Arkansas,94.58
+Boston,Mass.,Los Angeles, California,115.00
+New York,N.Y.,Los Angeles, California,114.00
+Philadelphia,Pa.,Los Angeles, California,112.00
+Baltimore,Md.,Los Angeles, California,111.00
+Washington,D.C.,Los Angeles, California,112.50
+Pittsburg,Pa.,Los Angeles, California,96.50
+Chicago,Ill.,Los Angeles, California,84.50
+Charleston,S.C.,Los Angeles, California,119.50
+Cincinnati,Ohio,Los Angeles, California,95.83
+Saint Louis,Mo.,Los Angeles, California,83.50
+Omaha,Nebr.,Los Angeles, California,80.50
+San Francisco,Cal.,Los Angeles, California,20.08
+Boston,Mass.,Sacramento, California,105.50
+New York,N.Y.,Sacramento, California,103.50
+Philadelphia,Pa.,Sacramento, California,101.67
+Baltimore,Md.,Sacramento, California,100.00
+Washington,D.C.,Sacramento, California,101.00
+Pittsburg,Pa.,Sacramento, California,104.83
+Chicago,Ill.,Sacramento, California,77.00
+Charleston,S.C.,Sacramento, California,120.00
+Cincinnati,Ohio,Sacramento, California,101.50
+Saint Louis,Mo.,Sacramento, California,100.00
+Omaha,Nebr.,Sacramento, California,75.67
+San Francisco,Cal.,Sacramento, California,3.17
+Boston,Mass.,San Francisco, California,108.50
+New York,N.Y.,San Francisco, California,106.00
+Philadelphia,Pa.,San Francisco, California,104.67
+Baltimore,Md.,San Francisco, California,103.00
+Washington,D.C.,San Francisco, California,104.00
+Pittsburg,Pa.,San Francisco, California,107.83
+Chicago,Ill.,San Francisco, California,80.00
+Charleston,S.C.,San Francisco, California,120.00
+Cincinnati,Ohio,San Francisco, California,115.50
+Saint Louis,Mo.,San Francisco, California,99.00
+Omaha,Nebr.,San Francisco, California,70.67
+Boston,Mass.,San Diego, California,120.00
+New York,N.Y.,San Diego, California,117.00
+Philadelphia,Pa.,San Diego, California,114.00
+Baltimore,Md.,San Diego, California,114.00
+Washington,D.C.,San Diego, California,116.00
+Pittsburg,Pa.,San Diego, California,102.00
+Chicago,Ill.,San Diego, California,90.83
+Charleston,S.C.,San Diego, California,125.00
+Cincinnati,Ohio,San Diego, California,103.00
+Saint Louis,Mo.,San Diego, California,89.50
+Omaha,Nebr.,San Diego, California,105.50
+San Francisco,Cal.,San Diego, California,24.75
+Boston,Mass.,Denver, Colorado,64.33
+New York,N.Y.,Denver, Colorado,61.50
+Philadelphia,Pa.,Denver, Colorado,61.00
+Baltimore,Md.,Denver, Colorado,58.50
+Washington,D.C.,Denver, Colorado,57.50
+Pittsburg,Pa.,Denver, Colorado,47.83
+Chicago,Ill.,Denver, Colorado,32.92
+Charleston,S.C.,Denver, Colorado,65.00
+Cincinnati,Ohio,Denver, Colorado,42.00
+Saint Louis,Mo.,Denver, Colorado,32.00
+Omaha,Nebr.,Denver, Colorado,18.50
+San Francisco,Cal.,Denver, Colorado,62.75
+Boston,Mass.,Pueblo, Colorado,71.33
+New York,N.Y.,Pueblo, Colorado,70.50
+Philadelphia,Pa.,Pueblo, Colorado,66.67
+Baltimore,Md.,Pueblo, Colorado,63.50
+Washington,D.C.,Pueblo, Colorado,62.50
+Pittsburg,Pa.,Pueblo, Colorado,50.83
+Chicago,Ill.,Pueblo, Colorado,37.42
+Charleston,S.C.,Pueblo, Colorado,70.00
+Cincinnati,Ohio,Pueblo, Colorado,48.00
+Saint Louis,Mo.,Pueblo, Colorado,37.00
+Omaha,Nebr.,Pueblo, Colorado,24.50
+San Francisco,Cal.,Pueblo, Colorado,59.75
+Boston,Mass.,Hartford, Connecticut,3.00
+New York,N.Y.,Hartford, Connecticut,4.00
+Philadelphia,Pa.,Hartford, Connecticut,7.33
+Baltimore,Md.,Hartford, Connecticut,11.33
+Washington,D.C.,Hartford, Connecticut,12.50
+Pittsburg,Pa.,Hartford, Connecticut,18.00
+Chicago,Ill.,Hartford, Connecticut,30.33
+Charleston,S.C.,Hartford, Connecticut,30.50
+Cincinnati,Ohio,Hartford, Connecticut,30.58
+Saint Louis,Mo.,Hartford, Connecticut,34.33
+Omaha,Nebr.,Hartford, Connecticut,47.58
+San Francisco,Cal.,Hartford, Connecticut,99.75
+Boston,Mass.,New Haven, Connecticut,4.00
+New York,N.Y.,New Haven, Connecticut,2.00
+Philadelphia,Pa.,New Haven, Connecticut,5.00
+Baltimore,Md.,New Haven, Connecticut,9.33
+Washington,D.C.,New Haven, Connecticut,10.50
+Pittsburg,Pa.,New Haven, Connecticut,16.00
+Chicago,Ill.,New Haven, Connecticut,30.33
+Charleston,S.C.,New Haven, Connecticut,27.50
+Cincinnati,Ohio,New Haven, Connecticut,30.58
+Saint Louis,Mo.,New Haven, Connecticut,32.33
+Omaha,Nebr.,New Haven, Connecticut,45.58
+San Francisco,Cal.,New Haven, Connecticut,97.75
+Boston,Mass.,Willimantic, Connecticut,3.00
+New York,N.Y.,Willimantic, Connecticut,2.00
+Philadelphia,Pa.,Willimantic, Connecticut,5.00
+Baltimore,Md.,Willimantic, Connecticut,9.33
+Washington,D.C.,Willimantic, Connecticut,10.50
+Pittsburg,Pa.,Willimantic, Connecticut,16.00
+Chicago,Ill.,Willimantic, Connecticut,30.50
+Charleston,S.C.,Willimantic, Connecticut,27.50
+Cincinnati,Ohio,Willimantic, Connecticut,37.00
+Saint Louis,Mo.,Willimantic, Connecticut,32.50
+Omaha,Nebr.,Willimantic, Connecticut,48.58
+San Francisco,Cal.,Willimantic, Connecticut,98.92
+Boston,Mass.,Bismarck, Dakota,64.83
+New York,N.Y.,Bismarck, Dakota,60.50
+Philadelphia,Pa.,Bismarck, Dakota,62.67
+Baltimore,Md.,Bismarck, Dakota,61.00
+Washington,D.C.,Bismarck, Dakota,62.00
+Pittsburg,Pa.,Bismarck, Dakota,50.83
+Chicago,Ill.,Bismarck, Dakota,35.83
+Charleston,S.C.,Bismarck, Dakota,77.75
+Cincinnati,Ohio,Bismarck, Dakota,41.83
+Saint Louis,Mo.,Bismarck, Dakota,42.00
+Omaha,Nebr.,Bismarck, Dakota,30.92
+San Francisco,Cal.,Bismarck, Dakota,94.75
+Boston,Mass.,Deadwood, Dakota,68.83
+New York,N.Y.,Deadwood, Dakota,65.50
+Philadelphia,Pa.,Deadwood, Dakota,67.67
+Baltimore,Md.,Deadwood, Dakota,65.50
+Washington,D.C.,Deadwood, Dakota,66.50
+Pittsburg,Pa.,Deadwood, Dakota,50.83
+Chicago,Ill.,Deadwood, Dakota,39.83
+Charleston,S.C.,Deadwood, Dakota,90.75
+Cincinnati,Ohio,Deadwood, Dakota,47.00
+Saint Louis,Mo.,Deadwood, Dakota,40.00
+Omaha,Nebr.,Deadwood, Dakota,25.33
+San Francisco,Cal.,Deadwood, Dakota,89.75
+Boston,Mass.,Yankton, Dakota,54.83
+New York,N.Y.,Yankton, Dakota,50.50
+Philadelphia,Pa.,Yankton, Dakota,50.17
+Baltimore,Md.,Yankton, Dakota,48.50
+Washington,D.C.,Yankton, Dakota,50.00
+Pittsburg,Pa.,Yankton, Dakota,35.33
+Chicago,Ill.,Yankton, Dakota,26.33
+Charleston,S.C.,Yankton, Dakota,60.25
+Cincinnati,Ohio,Yankton, Dakota,37.50
+Saint Louis,Mo.,Yankton, Dakota,24.50
+Omaha,Nebr.,Yankton, Dakota,9.25
+San Francisco,Cal.,Yankton, Dakota,75.75
+Boston,Mass.,Dover, Delaware,12.00
+New York,N.Y.,Dover, Delaware,6.00
+Philadelphia,Pa.,Dover, Delaware,3.00
+Baltimore,Md.,Dover, Delaware,2.50
+Washington,D.C.,Dover, Delaware,3.50
+Pittsburg,Pa.,Dover, Delaware,14.00
+Chicago,Ill.,Dover, Delaware,26.00
+Charleston,S.C.,Dover, Delaware,22.00
+Cincinnati,Ohio,Dover, Delaware,22.00
+Saint Louis,Mo.,Dover, Delaware,32.00
+Omaha,Nebr.,Dover, Delaware,44.00
+San Francisco,Cal.,Dover, Delaware,96.75
+Boston,Mass.,Wilmington, Delaware,10.00
+New York,N.Y.,Wilmington, Delaware,5.00
+Philadelphia,Pa.,Wilmington, Delaware,1.00
+Baltimore,Md.,Wilmington, Delaware,2.00
+Washington,D.C.,Wilmington, Delaware,4.00
+Pittsburg,Pa.,Wilmington, Delaware,14.00
+Chicago,Ill.,Wilmington, Delaware,25.00
+Charleston,S.C.,Wilmington, Delaware,21.00
+Cincinnati,Ohio,Wilmington, Delaware,19.58
+Saint Louis,Mo.,Wilmington, Delaware,30.67
+Omaha,Nebr.,Wilmington, Delaware,42.00
+San Francisco,Cal.,Wilmington, Delaware,94.42
+Boston,Mass.,Washington, District of Columbia,13.00
+New York,N.Y.,Washington, District of Columbia,6.50
+Philadelphia,Pa.,Washington, District of Columbia,4.50
+Baltimore,Md.,Washington, District of Columbia,1.00
+Pittsburg,Pa.,Washington, District of Columbia,13.00
+Chicago,Ill.,Washington, District of Columbia,25.00
+Charleston,S.C.,Washington, District of Columbia,18.00
+Cincinnati,Ohio,Washington, District of Columbia,16.50
+Saint Louis,Mo.,Washington, District of Columbia,24.00
+Omaha,Nebr.,Washington, District of Columbia,39.00
+San Francisco,Cal.,Washington, District of Columbia,94.08
+Boston,Mass.,Cedar Keys, Florida,55.50
+New York,N.Y.,Cedar Keys, Florida,48.83
+Philadelphia,Pa.,Cedar Keys, Florida,44.00
+Baltimore,Md.,Cedar Keys, Florida,41.00
+Washington,D.C.,Cedar Keys, Florida,40.00
+Pittsburg,Pa.,Cedar Keys, Florida,59.92
+Chicago,Ill.,Cedar Keys, Florida,60.50
+Charleston,S.C.,Cedar Keys, Florida,20.00
+Cincinnati,Ohio,Cedar Keys, Florida,48.67
+Saint Louis,Mo.,Cedar Keys, Florida,59.42
+Omaha,Nebr.,Cedar Keys, Florida,72.50
+San Francisco,Cal.,Cedar Keys, Florida,124.75
+Boston,Mass.,Jacksonville, Florida,38.50
+New York,N.Y.,Jacksonville, Florida,31.83
+Philadelphia,Pa.,Jacksonville, Florida,29.00
+Baltimore,Md.,Jacksonville, Florida,26.00
+Washington,D.C.,Jacksonville, Florida,24.00
+Pittsburg,Pa.,Jacksonville, Florida,46.92
+Chicago,Ill.,Jacksonville, Florida,50.50
+Charleston,S.C.,Jacksonville, Florida,11.00
+Cincinnati,Ohio,Jacksonville, Florida,41.67
+Saint Louis,Mo.,Jacksonville, Florida,50.42
+Omaha,Nebr.,Jacksonville, Florida,65.50
+San Francisco,Cal.,Jacksonville, Florida,117.75
+Boston,Mass.,Keywest, Florida,63.83
+New York,N.Y.,Keywest, Florida,55.67
+Philadelphia,Pa.,Keywest, Florida,53.25
+Baltimore,Md.,Keywest, Florida,50.50
+Washington,D.C.,Keywest, Florida,48.50
+Pittsburg,Pa.,Keywest, Florida,70.08
+Chicago,Ill.,Keywest, Florida,70.50
+Charleston,S.C.,Keywest, Florida,35.00
+Cincinnati,Ohio,Keywest, Florida,65.50
+Saint Louis,Mo.,Keywest, Florida,83.25
+Omaha,Nebr.,Keywest, Florida,93.83
+San Francisco,Cal.,Keywest, Florida,144.75
+Boston,Mass.,Tallahassee, Florida,47.50
+New York,N.Y.,Tallahassee, Florida,38.83
+Philadelphia,Pa.,Tallahassee, Florida,35.00
+Baltimore,Md.,Tallahassee, Florida,22.00
+Washington,D.C.,Tallahassee, Florida,31.00
+Pittsburg,Pa.,Tallahassee, Florida,53.92
+Chicago,Ill.,Tallahassee, Florida,57.50
+Charleston,S.C.,Tallahassee, Florida,18.00
+Cincinnati,Ohio,Tallahassee, Florida,48.67
+Saint Louis,Mo.,Tallahassee, Florida,59.42
+Omaha,Nebr.,Tallahassee, Florida,72.50
+San Francisco,Cal.,Tallahassee, Florida,124.75
+Boston,Mass.,Tampa, Florida,50.83
+New York,N.Y.,Tampa, Florida,43.67
+Philadelphia,Pa.,Tampa, Florida,41.25
+Baltimore,Md.,Tampa, Florida,38.50
+Washington,D.C.,Tampa, Florida,36.50
+Pittsburg,Pa.,Tampa, Florida,50.08
+Chicago,Ill.,Tampa, Florida,61.50
+Charleston,S.C.,Tampa, Florida,21.00
+Cincinnati,Ohio,Tampa, Florida,52.50
+Saint Louis,Mo.,Tampa, Florida,62.25
+Omaha,Nebr.,Tampa, Florida,77.83
+San Francisco,Cal.,Tampa, Florida,129.75
+Boston,Mass.,Atlanta, Georgia,30.50
+New York,N.Y.,Atlanta, Georgia,24.33
+Philadelphia,Pa.,Atlanta, Georgia,22.00
+Baltimore,Md.,Atlanta, Georgia,21.58
+Washington,D.C.,Atlanta, Georgia,20.00
+Pittsburg,Pa.,Atlanta, Georgia,34.33
+Chicago,Ill.,Atlanta, Georgia,35.42
+Charleston,S.C.,Atlanta, Georgia,13.75
+Cincinnati,Ohio,Atlanta, Georgia,17.08
+Saint Louis,Mo.,Atlanta, Georgia,30.17
+Omaha,Nebr.,Atlanta, Georgia,50.42
+San Francisco,Cal.,Atlanta, Georgia,102.75
+Boston,Mass.,Augusta, Georgia,32.50
+New York,N.Y.,Augusta, Georgia,26.33
+Philadelphia,Pa.,Augusta, Georgia,23.00
+Baltimore,Md.,Augusta, Georgia,21.58
+Washington,D.C.,Augusta, Georgia,20.00
+Pittsburg,Pa.,Augusta, Georgia,34.33
+Chicago,Ill.,Augusta, Georgia,35.42
+Charleston,S.C.,Augusta, Georgia,5.75
+Cincinnati,Ohio,Augusta, Georgia,21.08
+Saint Louis,Mo.,Augusta, Georgia,36.17
+Omaha,Nebr.,Augusta, Georgia,50.42
+San Francisco,Cal.,Augusta, Georgia,102.75
+Boston,Mass.,Macon, Georgia,36.50
+New York,N.Y.,Macon, Georgia,30.33
+Philadelphia,Pa.,Macon, Georgia,27.00
+Baltimore,Md.,Macon, Georgia,24.58
+Washington,D.C.,Macon, Georgia,25.00
+Pittsburg,Pa.,Macon, Georgia,32.33
+Chicago,Ill.,Macon, Georgia,30.42
+Charleston,S.C.,Macon, Georgia,12.00
+Cincinnati,Ohio,Macon, Georgia,24.08
+Saint Louis,Mo.,Macon, Georgia,30.17
+Omaha,Nebr.,Macon, Georgia,50.42
+San Francisco,Cal.,Macon, Georgia,102.75
+Boston,Mass.,Savannah, Georgia,32.37
+New York,N.Y.,Savannah, Georgia,26.20
+Philadelphia,Pa.,Savannah, Georgia,24.70
+Baltimore,Md.,Savannah, Georgia,22.13
+Washington,D.C.,Savannah, Georgia,20.03
+Pittsburg,Pa.,Savannah, Georgia,35.25
+Chicago,Ill.,Savannah, Georgia,37.17
+Charleston,S.C.,Savannah, Georgia,5.00
+Cincinnati,Ohio,Savannah, Georgia,30.33
+Saint Louis,Mo.,Savannah, Georgia,34.08
+Omaha,Nebr.,Savannah, Georgia,53.00
+San Francisco,Cal.,Savannah, Georgia,105.75
+Boston,Mass.,Boise, Idaho,94.50
+New York,N.Y.,Boise, Idaho,92.50
+Philadelphia,Pa.,Boise, Idaho,94.67
+Baltimore,Md.,Boise, Idaho,93.00
+Washington,D.C.,Boise, Idaho,92.00
+Pittsburg,Pa.,Boise, Idaho,83.00
+Chicago,Ill.,Boise, Idaho,67.83
+Charleston,S.C.,Boise, Idaho,104.83
+Cincinnati,Ohio,Boise, Idaho,82.50
+Saint Louis,Mo.,Boise, Idaho,70.50
+Omaha,Nebr.,Boise, Idaho,52.67
+San Francisco,Cal.,Boise, Idaho,54.75
+Boston,Mass.,Cairo, Illinois,40.83
+New York,N.Y.,Cairo, Illinois,38.00
+Philadelphia,Pa.,Cairo, Illinois,35.50
+Baltimore,Md.,Cairo, Illinois,36.50
+Washington,D.C.,Cairo, Illinois,37.33
+Pittsburg,Pa.,Cairo, Illinois,27.00
+Chicago,Ill.,Cairo, Illinois,10.33
+Charleston,S.C.,Cairo, Illinois,42.75
+Cincinnati,Ohio,Cairo, Illinois,19.83
+Saint Louis,Mo.,Cairo, Illinois,7.50
+Omaha,Nebr.,Cairo, Illinois,30.00
+San Francisco,Cal.,Cairo, Illinois,79.00
+Boston,Mass.,Chicago, Illinois,29.00
+New York,N.Y.,Chicago, Illinois,25.00
+Philadelphia,Pa.,Chicago, Illinois,23.17
+Baltimore,Md.,Chicago, Illinois,25.50
+Washington,D.C.,Chicago, Illinois,24.50
+Pittsburg,Pa.,Chicago, Illinois,13.00
+Charleston,S.C.,Chicago, Illinois,40.25
+Cincinnati,Ohio,Chicago, Illinois,11.50
+Saint Louis,Mo.,Chicago, Illinois,11.08
+Omaha,Nebr.,Chicago, Illinois,17.00
+San Francisco,Cal.,Chicago, Illinois,69.42
+Boston,Mass.,Rock Island, Illinois,39.25
+New York,N.Y.,Rock Island, Illinois,35.25
+Philadelphia,Pa.,Rock Island, Illinois,33.42
+Baltimore,Md.,Rock Island, Illinois,35.00
+Washington,D.C.,Rock Island, Illinois,36.00
+Pittsburg,Pa.,Rock Island, Illinois,21.58
+Chicago,Ill.,Rock Island, Illinois,7.58
+Charleston,S.C.,Rock Island, Illinois,47.00
+Cincinnati,Ohio,Rock Island, Illinois,20.75
+Saint Louis,Mo.,Rock Island, Illinois,11.50
+Omaha,Nebr.,Rock Island, Illinois,14.00
+San Francisco,Cal.,Rock Island, Illinois,76.42
+Boston,Mass.,Springfield, Illinois,37.00
+New York,N.Y.,Springfield, Illinois,35.00
+Philadelphia,Pa.,Springfield, Illinois,33.50
+Baltimore,Md.,Springfield, Illinois,34.50
+Washington,D.C.,Springfield, Illinois,36.33
+Pittsburg,Pa.,Springfield, Illinois,21.00
+Chicago,Ill.,Springfield, Illinois,7.33
+Charleston,S.C.,Springfield, Illinois,60.75
+Cincinnati,Ohio,Springfield, Illinois,10.75
+Saint Louis,Mo.,Springfield, Illinois,3.50
+Omaha,Nebr.,Springfield, Illinois,20.00
+San Francisco,Cal.,Springfield, Illinois,76.58
+Boston,Mass.,Evansville, Indiana,40.50
+New York,N.Y.,Evansville, Indiana,33.00
+Philadelphia,Pa.,Evansville, Indiana,32.50
+Baltimore,Md.,Evansville, Indiana,32.50
+Washington,D.C.,Evansville, Indiana,33.33
+Pittsburg,Pa.,Evansville, Indiana,20.92
+Chicago,Ill.,Evansville, Indiana,8.83
+Charleston,S.C.,Evansville, Indiana,41.17
+Cincinnati,Ohio,Evansville, Indiana,12.83
+Saint Louis,Mo.,Evansville, Indiana,6.25
+Omaha,Nebr.,Evansville, Indiana,22.50
+San Francisco,Cal.,Evansville, Indiana,77.75
+Boston,Mass.,Fort Wayne, Indiana,30.83
+New York,N.Y.,Fort Wayne, Indiana,20.00
+Philadelphia,Pa.,Fort Wayne, Indiana,19.67
+Baltimore,Md.,Fort Wayne, Indiana,19.00
+Washington,D.C.,Fort Wayne, Indiana,20.00
+Pittsburg,Pa.,Fort Wayne, Indiana,7.83
+Chicago,Ill.,Fort Wayne, Indiana,6.00
+Charleston,S.C.,Fort Wayne, Indiana,46.75
+Cincinnati,Ohio,Fort Wayne, Indiana,7.58
+Saint Louis,Mo.,Fort Wayne, Indiana,12.58
+Omaha,Nebr.,Fort Wayne, Indiana,21.00
+San Francisco,Cal.,Fort Wayne, Indiana,75.75
+Boston,Mass.,Indianapolis, Indiana,30.33
+New York,N.Y.,Indianapolis, Indiana,23.00
+Philadelphia,Pa.,Indianapolis, Indiana,21.50
+Baltimore,Md.,Indianapolis, Indiana,23.00
+Washington,D.C.,Indianapolis, Indiana,24.00
+Pittsburg,Pa.,Indianapolis, Indiana,10.50
+Chicago,Ill.,Indianapolis, Indiana,7.50
+Charleston,S.C.,Indianapolis, Indiana,42.67
+Cincinnati,Ohio,Indianapolis, Indiana,4.00
+Saint Louis,Mo.,Indianapolis, Indiana,6.75
+Omaha,Nebr.,Indianapolis, Indiana,22.00
+San Francisco,Cal.,Indianapolis, Indiana,75.25
+Boston,Mass.,Vinita, Indian Territory,48.67
+New York,N.Y.,Vinita, Indian Territory,42.00
+Philadelphia,Pa.,Vinita, Indian Territory,39.67
+Baltimore,Md.,Vinita, Indian Territory,39.00
+Washington,D.C.,Vinita, Indian Territory,40.00
+Pittsburg,Pa.,Vinita, Indian Territory,28.83
+Chicago,Ill.,Vinita, Indian Territory,27.50
+Charleston,S.C.,Vinita, Indian Territory,50.75
+Cincinnati,Ohio,Vinita, Indian Territory,25.50
+Saint Louis,Mo.,Vinita, Indian Territory,15.50
+Omaha,Nebr.,Vinita, Indian Territory,18.00
+San Francisco,Cal.,Vinita, Indian Territory,96.25
+Boston,Mass.,Burlington, Iowa,37.00
+New York,N.Y.,Burlington, Iowa,31.50
+Philadelphia,Pa.,Burlington, Iowa,31.67
+Baltimore,Md.,Burlington, Iowa,31.00
+Washington,D.C.,Burlington, Iowa,30.00
+Pittsburg,Pa.,Burlington, Iowa,20.83
+Chicago,Ill.,Burlington, Iowa,5.83
+Charleston,S.C.,Burlington, Iowa,50.75
+Cincinnati,Ohio,Burlington, Iowa,17.00
+Saint Louis,Mo.,Burlington, Iowa,10.42
+Omaha,Nebr.,Burlington, Iowa,9.00
+San Francisco,Cal.,Burlington, Iowa,64.75
+Boston,Mass.,Des Moines, Iowa,43.50
+New York,N.Y.,Des Moines, Iowa,37.50
+Philadelphia,Pa.,Des Moines, Iowa,42.67
+Baltimore,Md.,Des Moines, Iowa,44.00
+Washington,D.C.,Des Moines, Iowa,45.00
+Pittsburg,Pa.,Des Moines, Iowa,30.17
+Chicago,Ill.,Des Moines, Iowa,10.83
+Charleston,S.C.,Des Moines, Iowa,63.75
+Cincinnati,Ohio,Des Moines, Iowa,27.00
+Saint Louis,Mo.,Des Moines, Iowa,14.00
+Omaha,Nebr.,Des Moines, Iowa,9.00
+San Francisco,Cal.,Des Moines, Iowa,60.75
+Boston,Mass.,Dubuque, Iowa,42.00
+New York,N.Y.,Dubuque, Iowa,36.00
+Philadelphia,Pa.,Dubuque, Iowa,38.17
+Baltimore,Md.,Dubuque, Iowa,40.50
+Washington,D.C.,Dubuque, Iowa,40.50
+Pittsburg,Pa.,Dubuque, Iowa,27.07
+Chicago,Ill.,Dubuque, Iowa,9.33
+Charleston,S.C.,Dubuque, Iowa,59.25
+Cincinnati,Ohio,Dubuque, Iowa,20.50
+Saint Louis,Mo.,Dubuque, Iowa,14.00
+Omaha,Nebr.,Dubuque, Iowa,18.50
+San Francisco,Cal.,Dubuque, Iowa,60.75
+Boston,Mass.,Sioux City, Iowa,56.50
+New York,N.Y.,Sioux City, Iowa,51.50
+Philadelphia,Pa.,Sioux City, Iowa,51.67
+Baltimore,Md.,Sioux City, Iowa,53.00
+Washington,D.C.,Sioux City, Iowa,54.00
+Pittsburg,Pa.,Sioux City, Iowa,40.00
+Chicago,Ill.,Sioux City, Iowa,22.83
+Charleston,S.C.,Sioux City, Iowa,72.75
+Cincinnati,Ohio,Sioux City, Iowa,33.00
+Saint Louis,Mo.,Sioux City, Iowa,22.00
+Omaha,Nebr.,Sioux City, Iowa,5.50
+San Francisco,Cal.,Sioux City, Iowa,62.75
+Boston,Mass.,Atchison, Kansas,50.00
+New York,N.Y.,Atchison, Kansas,45.00
+Philadelphia,Pa.,Atchison, Kansas,46.00
+Baltimore,Md.,Atchison, Kansas,47.00
+Washington,D.C.,Atchison, Kansas,45.00
+Pittsburg,Pa.,Atchison, Kansas,30.83
+Chicago,Ill.,Atchison, Kansas,16.00
+Charleston,S.C.,Atchison, Kansas,60.75
+Cincinnati,Ohio,Atchison, Kansas,24.50
+Saint Louis,Mo.,Atchison, Kansas,12.67
+Omaha,Nebr.,Atchison, Kansas,6.50
+San Francisco,Cal.,Atchison, Kansas,63.75
+Boston,Mass.,Leavenworth, Kansas,47.00
+New York,N.Y.,Leavenworth, Kansas,41.00
+Philadelphia,Pa.,Leavenworth, Kansas,41.67
+Baltimore,Md.,Leavenworth, Kansas,42.00
+Washington,D.C.,Leavenworth, Kansas,43.00
+Pittsburg,Pa.,Leavenworth, Kansas,30.83
+Chicago,Ill.,Leavenworth, Kansas,17.00
+Charleston,S.C.,Leavenworth, Kansas,61.75
+Cincinnati,Ohio,Leavenworth, Kansas,25.50
+Saint Louis,Mo.,Leavenworth, Kansas,11.67
+Omaha,Nebr.,Leavenworth, Kansas,7.50
+San Francisco,Cal.,Leavenworth, Kansas,61.75
+Boston,Mass.,Topeka, Kansas,50.00
+New York,N.Y.,Topeka, Kansas,48.00
+Philadelphia,Pa.,Topeka, Kansas,44.67
+Baltimore,Md.,Topeka, Kansas,46.00
+Washington,D.C.,Topeka, Kansas,46.00
+Pittsburg,Pa.,Topeka, Kansas,32.83
+Chicago,Ill.,Topeka, Kansas,19.00
+Charleston,S.C.,Topeka, Kansas,64.75
+Cincinnati,Ohio,Topeka, Kansas,26.50
+Saint Louis,Mo.,Topeka, Kansas,13.67
+Omaha,Nebr.,Topeka, Kansas,11.50
+San Francisco,Cal.,Topeka, Kansas,68.75
+Boston,Mass.,Frankfort, Kentucky,36.00
+New York,N.Y.,Frankfort, Kentucky,30.00
+Philadelphia,Pa.,Frankfort, Kentucky,34.50
+Baltimore,Md.,Frankfort, Kentucky,31.00
+Washington,D.C.,Frankfort, Kentucky,32.00
+Pittsburg,Pa.,Frankfort, Kentucky,17.00
+Chicago,Ill.,Frankfort, Kentucky,14.83
+Charleston,S.C.,Frankfort, Kentucky,48.75
+Cincinnati,Ohio,Frankfort, Kentucky,7.00
+Saint Louis,Mo.,Frankfort, Kentucky,14.00
+Omaha,Nebr.,Frankfort, Kentucky,30.00
+San Francisco,Cal.,Frankfort, Kentucky,83.75
+Boston,Mass.,Henderson, Kentucky,38.50
+New York,N.Y.,Henderson, Kentucky,34.00
+Philadelphia,Pa.,Henderson, Kentucky,32.50
+Baltimore,Md.,Henderson, Kentucky,33.50
+Washington,D.C.,Henderson, Kentucky,32.33
+Pittsburg,Pa.,Henderson, Kentucky,21.92
+Chicago,Ill.,Henderson, Kentucky,20.50
+Charleston,S.C.,Henderson, Kentucky,50.25
+Cincinnati,Ohio,Henderson, Kentucky,12.83
+Saint Louis,Mo.,Henderson, Kentucky,6.25
+Omaha,Nebr.,Henderson, Kentucky,25.50
+San Francisco,Cal.,Henderson, Kentucky,89.75
+Boston,Mass.,Louisville, Kentucky,36.00
+New York,N.Y.,Louisville, Kentucky,20.00
+Philadelphia,Pa.,Louisville, Kentucky,31.50
+Baltimore,Md.,Louisville, Kentucky,28.00
+Washington,D.C.,Louisville, Kentucky,28.00
+Pittsburg,Pa.,Louisville, Kentucky,14.00
+Chicago,Ill.,Louisville, Kentucky,11.67
+Charleston,S.C.,Louisville, Kentucky,45.75
+Cincinnati,Ohio,Louisville, Kentucky,3.67
+Saint Louis,Mo.,Louisville, Kentucky,11.00
+Omaha,Nebr.,Louisville, Kentucky,27.25
+San Francisco,Cal.,Louisville, Kentucky,80.75
+Boston,Mass.,Morgan City, Louisiana,56.00
+New York,N.Y.,Morgan City, Louisiana,49.50
+Philadelphia,Pa.,Morgan City, Louisiana,46.50
+Baltimore,Md.,Morgan City, Louisiana,44.42
+Washington,D.C.,Morgan City, Louisiana,43.00
+Pittsburg,Pa.,Morgan City, Louisiana,42.00
+Chicago,Ill.,Morgan City, Louisiana,41.50
+Charleston,S.C.,Morgan City, Louisiana,55.75
+Cincinnati,Ohio,Morgan City, Louisiana,30.67
+Saint Louis,Mo.,Morgan City, Louisiana,30.00
+Omaha,Nebr.,Morgan City, Louisiana,46.00
+San Francisco,Cal.,Morgan City, Louisiana,103.75
+Boston,Mass.,New Orleans, Louisiana,46.50
+New York,N.Y.,New Orleans, Louisiana,40.00
+Philadelphia,Pa.,New Orleans, Louisiana,37.00
+Baltimore,Md.,New Orleans, Louisiana,35.92
+Washington,D.C.,New Orleans, Louisiana,31.50
+Pittsburg,Pa.,New Orleans, Louisiana,38.50
+Chicago,Ill.,New Orleans, Louisiana,30.00
+Charleston,S.C.,New Orleans, Louisiana,52.25
+Cincinnati,Ohio,New Orleans, Louisiana,29.17
+Saint Louis,Mo.,New Orleans, Louisiana,24.50
+Omaha,Nebr.,New Orleans, Louisiana,42.50
+San Francisco,Cal.,New Orleans, Louisiana,94.25
+Boston,Mass.,Shreveport, Louisiana,64.00
+New York,N.Y.,Shreveport, Louisiana,58.83
+Philadelphia,Pa.,Shreveport, Louisiana,56.17
+Baltimore,Md.,Shreveport, Louisiana,53.77
+Washington,D.C.,Shreveport, Louisiana,52.22
+Pittsburg,Pa.,Shreveport, Louisiana,44.00
+Chicago,Ill.,Shreveport, Louisiana,42.33
+Charleston,S.C.,Shreveport, Louisiana,53.75
+Cincinnati,Ohio,Shreveport, Louisiana,33.67
+Saint Louis,Mo.,Shreveport, Louisiana,31.00
+Omaha,Nebr.,Shreveport, Louisiana,53.00
+San Francisco,Cal.,Shreveport, Louisiana,99.92
+Boston,Mass.,Augusta, Maine,7.00
+New York,N.Y.,Augusta, Maine,15.00
+Philadelphia,Pa.,Augusta, Maine,18.00
+Baltimore,Md.,Augusta, Maine,20.83
+Washington,D.C.,Augusta, Maine,21.50
+Pittsburg,Pa.,Augusta, Maine,27.50
+Chicago,Ill.,Augusta, Maine,37.75
+Charleston,S.C.,Augusta, Maine,39.00
+Cincinnati,Ohio,Augusta, Maine,33.00
+Saint Louis,Mo.,Augusta, Maine,45.75
+Omaha,Nebr.,Augusta, Maine,47.00
+San Francisco,Cal.,Augusta, Maine,106.75
+Boston,Mass.,Eastport, Maine,24.00
+New York,N.Y.,Eastport, Maine,34.50
+Philadelphia,Pa.,Eastport, Maine,37.50
+Baltimore,Md.,Eastport, Maine,40.50
+Washington,D.C.,Eastport, Maine,41.50
+Pittsburg,Pa.,Eastport, Maine,50.83
+Chicago,Ill.,Eastport, Maine,60.75
+Charleston,S.C.,Eastport, Maine,59.50
+Cincinnati,Ohio,Eastport, Maine,55.83
+Saint Louis,Mo.,Eastport, Maine,64.00
+Omaha,Nebr.,Eastport, Maine,70.00
+San Francisco,Cal.,Eastport, Maine,122.75
+Boston,Mass.,Portland, Maine,4.00
+New York,N.Y.,Portland, Maine,12.00
+Philadelphia,Pa.,Portland, Maine,15.00
+Baltimore,Md.,Portland, Maine,18.00
+Washington,D.C.,Portland, Maine,19.50
+Pittsburg,Pa.,Portland, Maine,25.50
+Chicago,Ill.,Portland, Maine,37.75
+Charleston,S.C.,Portland, Maine,40.00
+Cincinnati,Ohio,Portland, Maine,30.00
+Saint Louis,Mo.,Portland, Maine,43.75
+Omaha,Nebr.,Portland, Maine,48.00
+San Francisco,Cal.,Portland, Maine,107.75
+Boston,Mass.,Annapolis, Maryland,13.00
+New York,N.Y.,Annapolis, Maryland,7.00
+Philadelphia,Pa.,Annapolis, Maryland,4.00
+Baltimore,Md.,Annapolis, Maryland,1.00
+Washington,D.C.,Annapolis, Maryland,2.00
+Pittsburg,Pa.,Annapolis, Maryland,11.00
+Chicago,Ill.,Annapolis, Maryland,26.00
+Charleston,S.C.,Annapolis, Maryland,20.00
+Cincinnati,Ohio,Annapolis, Maryland,24.50
+Saint Louis,Mo.,Annapolis, Maryland,39.00
+Omaha,Nebr.,Annapolis, Maryland,38.00
+San Francisco,Cal.,Annapolis, Maryland,95.75
+Boston,Mass.,Baltimore, Maryland,12.00
+New York,N.Y.,Baltimore, Maryland,6.00
+Philadelphia,Pa.,Baltimore, Maryland,3.00
+Washington,D.C.,Baltimore, Maryland,1.00
+Pittsburg,Pa.,Baltimore, Maryland,10.00
+Chicago,Ill.,Baltimore, Maryland,25.00
+Charleston,S.C.,Baltimore, Maryland,19.67
+Cincinnati,Ohio,Baltimore, Maryland,23.42
+Saint Louis,Mo.,Baltimore, Maryland,38.00
+Omaha,Nebr.,Baltimore, Maryland,37.00
+San Francisco,Cal.,Baltimore, Maryland,94.75
+Boston,Mass.,Cumberland, Maryland,18.00
+New York,N.Y.,Cumberland, Maryland,12.00
+Philadelphia,Pa.,Cumberland, Maryland,9.00
+Baltimore,Md.,Cumberland, Maryland,6.00
+Washington,D.C.,Cumberland, Maryland,5.00
+Pittsburg,Pa.,Cumberland, Maryland,5.00
+Chicago,Ill.,Cumberland, Maryland,20.00
+Charleston,S.C.,Cumberland, Maryland,23.25
+Cincinnati,Ohio,Cumberland, Maryland,20.00
+Saint Louis,Mo.,Cumberland, Maryland,33.00
+Omaha,Nebr.,Cumberland, Maryland,30.33
+San Francisco,Cal.,Cumberland, Maryland,87.75
+New York,N.Y.,Boston, Massachusetts,7.00
+Philadelphia,Pa.,Boston, Massachusetts,10.83
+Baltimore,Md.,Boston, Massachusetts,13.00
+Washington,D.C.,Boston, Massachusetts,14.00
+Pittsburg,Pa.,Boston, Massachusetts,22.00
+Chicago,Ill.,Boston, Massachusetts,29.00
+Charleston,S.C.,Boston, Massachusetts,32.00
+Cincinnati,Ohio,Boston, Massachusetts,30.00
+Saint Louis,Mo.,Boston, Massachusetts,40.00
+Omaha,Nebr.,Boston, Massachusetts,40.00
+San Francisco,Cal.,Boston, Massachusetts,99.75
+Boston,Mass.,Springfield, Massachusetts,3.00
+New York,N.Y.,Springfield, Massachusetts,4.00
+Philadelphia,Pa.,Springfield, Massachusetts,7.00
+Baltimore,Md.,Springfield, Massachusetts,10.00
+Washington,D.C.,Springfield, Massachusetts,11.00
+Pittsburg,Pa.,Springfield, Massachusetts,18.00
+Chicago,Ill.,Springfield, Massachusetts,30.00
+Charleston,S.C.,Springfield, Massachusetts,29.00
+Cincinnati,Ohio,Springfield, Massachusetts,29.00
+Saint Louis,Mo.,Springfield, Massachusetts,38.00
+Omaha,Nebr.,Springfield, Massachusetts,40.00
+San Francisco,Cal.,Springfield, Massachusetts,100.75
+Boston,Mass.,Bay City, Michigan,32.67
+New York,N.Y.,Bay City, Michigan,29.00
+Philadelphia,Pa.,Bay City, Michigan,27.00
+Baltimore,Md.,Bay City, Michigan,26.00
+Washington,D.C.,Bay City, Michigan,27.00
+Pittsburg,Pa.,Bay City, Michigan,15.00
+Chicago,Ill.,Bay City, Michigan,15.00
+Charleston,S.C.,Bay City, Michigan,45.33
+Cincinnati,Ohio,Bay City, Michigan,15.00
+Saint Louis,Mo.,Bay City, Michigan,25.00
+Omaha,Nebr.,Bay City, Michigan,25.00
+San Francisco,Cal.,Bay City, Michigan,82.75
+Boston,Mass.,Detroit, Michigan,27.33
+New York,N.Y.,Detroit, Michigan,21.08
+Philadelphia,Pa.,Detroit, Michigan,25.00
+Baltimore,Md.,Detroit, Michigan,26.00
+Washington,D.C.,Detroit, Michigan,25.00
+Pittsburg,Pa.,Detroit, Michigan,12.75
+Chicago,Ill.,Detroit, Michigan,9.00
+Charleston,S.C.,Detroit, Michigan,42.00
+Cincinnati,Ohio,Detroit, Michigan,11.63
+Saint Louis,Mo.,Detroit, Michigan,18.75
+Omaha,Nebr.,Detroit, Michigan,23.25
+San Francisco,Cal.,Detroit, Michigan,80.75
+Boston,Mass.,Kalamazoo, Michigan,29.87
+New York,N.Y.,Kalamazoo, Michigan,25.00
+Philadelphia,Pa.,Kalamazoo, Michigan,28.00
+Baltimore,Md.,Kalamazoo, Michigan,32.00
+Washington,D.C.,Kalamazoo, Michigan,31.00
+Pittsburg,Pa.,Kalamazoo, Michigan,19.00
+Chicago,Ill.,Kalamazoo, Michigan,4.50
+Charleston,S.C.,Kalamazoo, Michigan,49.75
+Cincinnati,Ohio,Kalamazoo, Michigan,17.80
+Saint Louis,Mo.,Kalamazoo, Michigan,17.75
+Omaha,Nebr.,Kalamazoo, Michigan,18.00
+San Francisco,Cal.,Kalamazoo, Michigan,74.75
+Boston,Mass.,Lansing, Michigan,30.75
+New York,N.Y.,Lansing, Michigan,26.67
+Philadelphia,Pa.,Lansing, Michigan,28.67
+Baltimore,Md.,Lansing, Michigan,31.00
+Washington,D.C.,Lansing, Michigan,32.00
+Pittsburg,Pa.,Lansing, Michigan,19.67
+Chicago,Ill.,Lansing, Michigan,11.25
+Charleston,S.C.,Lansing, Michigan,50.00
+Cincinnati,Ohio,Lansing, Michigan,22.00
+Saint Louis,Mo.,Lansing, Michigan,21.75
+Omaha,Nebr.,Lansing, Michigan,22.00
+San Francisco,Cal.,Lansing, Michigan,80.75
+Boston,Mass.,Duluth, Minnesota,48.00
+New York,N.Y.,Duluth, Minnesota,41.00
+Philadelphia,Pa.,Duluth, Minnesota,39.67
+Baltimore,Md.,Duluth, Minnesota,38.00
+Washington,D.C.,Duluth, Minnesota,39.00
+Pittsburg,Pa.,Duluth, Minnesota,28.00
+Chicago,Ill.,Duluth, Minnesota,16.00
+Charleston,S.C.,Duluth, Minnesota,50.00
+Cincinnati,Ohio,Duluth, Minnesota,26.00
+Saint Louis,Mo.,Duluth, Minnesota,27.00
+Omaha,Nebr.,Duluth, Minnesota,20.00
+San Francisco,Cal.,Duluth, Minnesota,85.75
+Boston,Mass.,Saint Paul, Minnesota,40.00
+New York,N.Y.,Saint Paul, Minnesota,37.00
+Philadelphia,Pa.,Saint Paul, Minnesota,34.00
+Baltimore,Md.,Saint Paul, Minnesota,33.00
+Washington,D.C.,Saint Paul, Minnesota,34.00
+Pittsburg,Pa.,Saint Paul, Minnesota,25.00
+Chicago,Ill.,Saint Paul, Minnesota,12.83
+Charleston,S.C.,Saint Paul, Minnesota,46.00
+Cincinnati,Ohio,Saint Paul, Minnesota,21.00
+Saint Louis,Mo.,Saint Paul, Minnesota,23.42
+Omaha,Nebr.,Saint Paul, Minnesota,14.00
+San Francisco,Cal.,Saint Paul, Minnesota,83.75
+Boston,Mass.,Winona, Minnesota,38.00
+New York,N.Y.,Winona, Minnesota,35.00
+Philadelphia,Pa.,Winona, Minnesota,32.00
+Baltimore,Md.,Winona, Minnesota,34.00
+Washington,D.C.,Winona, Minnesota,35.00
+Pittsburg,Pa.,Winona, Minnesota,22.00
+Chicago,Ill.,Winona, Minnesota,10.00
+Charleston,S.C.,Winona, Minnesota,43.00
+Cincinnati,Ohio,Winona, Minnesota,20.00
+Saint Louis,Mo.,Winona, Minnesota,20.00
+Omaha,Nebr.,Winona, Minnesota,17.00
+San Francisco,Cal.,Winona, Minnesota,84.75
+Boston,Mass.,Jackson, Mississippi,54.00
+New York,N.Y.,Jackson, Mississippi,50.33
+Philadelphia,Pa.,Jackson, Mississippi,43.00
+Baltimore,Md.,Jackson, Mississippi,48.00
+Washington,D.C.,Jackson, Mississippi,46.00
+Pittsburg,Pa.,Jackson, Mississippi,42.27
+Chicago,Ill.,Jackson, Mississippi,30.50
+Charleston,S.C.,Jackson, Mississippi,42.75
+Cincinnati,Ohio,Jackson, Mississippi,30.25
+Saint Louis,Mo.,Jackson, Mississippi,21.00
+Omaha,Nebr.,Jackson, Mississippi,38.00
+San Francisco,Cal.,Jackson, Mississippi,95.75
+Boston,Mass.,Vicksburg, Mississippi,56.00
+New York,N.Y.,Vicksburg, Mississippi,50.00
+Philadelphia,Pa.,Vicksburg, Mississippi,48.00
+Baltimore,Md.,Vicksburg, Mississippi,46.50
+Washington,D.C.,Vicksburg, Mississippi,45.00
+Pittsburg,Pa.,Vicksburg, Mississippi,42.00
+Chicago,Ill.,Vicksburg, Mississippi,30.00
+Charleston,S.C.,Vicksburg, Mississippi,44.75
+Cincinnati,Ohio,Vicksburg, Mississippi,30.00
+Saint Louis,Mo.,Vicksburg, Mississippi,21.00
+Omaha,Nebr.,Vicksburg, Mississippi,41.00
+San Francisco,Cal.,Vicksburg, Mississippi,96.75
+Boston,Mass.,Hannibal, Missouri,42.00
+New York,N.Y.,Hannibal, Missouri,38.00
+Philadelphia,Pa.,Hannibal, Missouri,34.00
+Baltimore,Md.,Hannibal, Missouri,37.00
+Washington,D.C.,Hannibal, Missouri,38.00
+Pittsburg,Pa.,Hannibal, Missouri,24.00
+Chicago,Ill.,Hannibal, Missouri,11.00
+Charleston,S.C.,Hannibal, Missouri,57.83
+Cincinnati,Ohio,Hannibal, Missouri,16.00
+Saint Louis,Mo.,Hannibal, Missouri,5.00
+Omaha,Nebr.,Hannibal, Missouri,18.00
+San Francisco,Cal.,Hannibal, Missouri,79.75
+Boston,Mass.,Jefferson City, Missouri,43.00
+New York,N.Y.,Jefferson City, Missouri,39.00
+Philadelphia,Pa.,Jefferson City, Missouri,38.00
+Baltimore,Md.,Jefferson City, Missouri,38.00
+Washington,D.C.,Jefferson City, Missouri,39.17
+Pittsburg,Pa.,Jefferson City, Missouri,27.08
+Chicago,Ill.,Jefferson City, Missouri,17.92
+Charleston,S.C.,Jefferson City, Missouri,55.75
+Cincinnati,Ohio,Jefferson City, Missouri,16.83
+Saint Louis,Mo.,Jefferson City, Missouri,5.00
+Omaha,Nebr.,Jefferson City, Missouri,12.00
+San Francisco,Cal.,Jefferson City, Missouri,70.75
+Boston,Mass.,Kansas City, Missouri,42.00
+New York,N.Y.,Kansas City, Missouri,38.25
+Philadelphia,Pa.,Kansas City, Missouri,36.00
+Baltimore,Md.,Kansas City, Missouri,40.00
+Washington,D.C.,Kansas City, Missouri,40.00
+Pittsburg,Pa.,Kansas City, Missouri,27.42
+Chicago,Ill.,Kansas City, Missouri,16.92
+Charleston,S.C.,Kansas City, Missouri,61.00
+Cincinnati,Ohio,Kansas City, Missouri,18.08
+Saint Louis,Mo.,Kansas City, Missouri,8.92
+Omaha,Nebr.,Kansas City, Missouri,7.00
+San Francisco,Cal.,Kansas City, Missouri,65.25
+Boston,Mass.,Saint Louis, Missouri,35.00
+New York,N.Y.,Saint Louis, Missouri,29.00
+Philadelphia,Pa.,Saint Louis, Missouri,29.00
+Baltimore,Md.,Saint Louis, Missouri,28.00
+Washington,D.C.,Saint Louis, Missouri,27.00
+Pittsburg,Pa.,Saint Louis, Missouri,17.83
+Chicago,Ill.,Saint Louis, Missouri,11.00
+Charleston,S.C.,Saint Louis, Missouri,36.17
+Cincinnati,Ohio,Saint Louis, Missouri,10.50
+Omaha,Nebr.,Saint Louis, Missouri,15.00
+San Francisco,Cal.,Saint Louis, Missouri,74.75
+Boston,Mass.,Helena, Montana,91.50
+New York,N.Y.,Helena, Montana,89.00
+Philadelphia,Pa.,Helena, Montana,80.00
+Baltimore,Md.,Helena, Montana,86.00
+Washington,D.C.,Helena, Montana,87.00
+Pittsburg,Pa.,Helena, Montana,75.00
+Chicago,Ill.,Helena, Montana,64.33
+Charleston,S.C.,Helena, Montana,105.25
+Cincinnati,Ohio,Helena, Montana,70.00
+Saint Louis,Mo.,Helena, Montana,74.00
+Omaha,Nebr.,Helena, Montana,59.00
+San Francisco,Cal.,Helena, Montana,54.75
+Boston,Mass.,Lincoln, Nebraska,46.50
+New York,N.Y.,Lincoln, Nebraska,42.50
+Philadelphia,Pa.,Lincoln, Nebraska,43.50
+Baltimore,Md.,Lincoln, Nebraska,41.08
+Washington,D.C.,Lincoln, Nebraska,42.00
+Pittsburg,Pa.,Lincoln, Nebraska,30.83
+Chicago,Ill.,Lincoln, Nebraska,15.17
+Charleston,S.C.,Lincoln, Nebraska,60.00
+Cincinnati,Ohio,Lincoln, Nebraska,27.00
+Saint Louis,Mo.,Lincoln, Nebraska,19.00
+Omaha,Nebr.,Lincoln, Nebraska,2.00
+San Francisco,Cal.,Lincoln, Nebraska,60.75
+Boston,Mass.,Omaha, Nebraska,45.00
+New York,N.Y.,Omaha, Nebraska,42.92
+Philadelphia,Pa.,Omaha, Nebraska,42.42
+Baltimore,Md.,Omaha, Nebraska,46.42
+Washington,D.C.,Omaha, Nebraska,47.00
+Pittsburg,Pa.,Omaha, Nebraska,29.08
+Chicago,Ill.,Omaha, Nebraska,15.08
+Charleston,S.C.,Omaha, Nebraska,61.58
+Cincinnati,Ohio,Omaha, Nebraska,25.42
+Saint Louis,Mo.,Omaha, Nebraska,15.00
+San Francisco,Cal.,Omaha, Nebraska,52.50
+Boston,Mass.,Carson City, Nevada,113.58
+New York,N.Y.,Carson City, Nevada,109.25
+Philadelphia,Pa.,Carson City, Nevada,109.00
+Baltimore,Md.,Carson City, Nevada,108.00
+Washington,D.C.,Carson City, Nevada,109.00
+Pittsburg,Pa.,Carson City, Nevada,97.92
+Chicago,Ill.,Carson City, Nevada,84.42
+Charleston,S.C.,Carson City, Nevada,127.75
+Cincinnati,Ohio,Carson City, Nevada,95.00
+Saint Louis,Mo.,Carson City, Nevada,85.00
+Omaha,Nebr.,Carson City, Nevada,70.00
+San Francisco,Cal.,Carson City, Nevada,19.75
+Boston,Mass.,Elko, Nevada,91.50
+New York,N.Y.,Elko, Nevada,88.50
+Philadelphia,Pa.,Elko, Nevada,89.42
+Baltimore,Md.,Elko, Nevada,90.00
+Washington,D.C.,Elko, Nevada,89.00
+Pittsburg,Pa.,Elko, Nevada,75.83
+Chicago,Ill.,Elko, Nevada,61.83
+Charleston,S.C.,Elko, Nevada,107.00
+Cincinnati,Ohio,Elko, Nevada,78.00
+Saint Louis,Mo.,Elko, Nevada,68.50
+Omaha,Nebr.,Elko, Nevada,48.00
+San Francisco,Cal.,Elko, Nevada,31.75
+Boston,Mass.,Concord, New Hampshire,1.00
+New York,N.Y.,Concord, New Hampshire,9.42
+Philadelphia,Pa.,Concord, New Hampshire,11.33
+Baltimore,Md.,Concord, New Hampshire,14.83
+Washington,D.C.,Concord, New Hampshire,15.83
+Pittsburg,Pa.,Concord, New Hampshire,24.50
+Chicago,Ill.,Concord, New Hampshire,35.75
+Charleston,S.C.,Concord, New Hampshire,33.67
+Cincinnati,Ohio,Concord, New Hampshire,35.50
+Saint Louis,Mo.,Concord, New Hampshire,42.50
+Omaha,Nebr.,Concord, New Hampshire,48.65
+San Francisco,Cal.,Concord, New Hampshire,105.75
+Boston,Mass.,Manchester, New Hampshire,2.00
+New York,N.Y.,Manchester, New Hampshire,9.00
+Philadelphia,Pa.,Manchester, New Hampshire,12.83
+Baltimore,Md.,Manchester, New Hampshire,15.33
+Washington,D.C.,Manchester, New Hampshire,16.33
+Pittsburg,Pa.,Manchester, New Hampshire,24.00
+Chicago,Ill.,Manchester, New Hampshire,82.25
+Charleston,S.C.,Manchester, New Hampshire,34.17
+Cincinnati,Ohio,Manchester, New Hampshire,35.00
+Saint Louis,Mo.,Manchester, New Hampshire,42.00
+Omaha,Nebr.,Manchester, New Hampshire,48.00
+San Francisco,Cal.,Manchester, New Hampshire,105.75
+Boston,Mass.,Cape May, New Jersey,12.08
+New York,N.Y.,Cape May, New Jersey,5.00
+Philadelphia,Pa.,Cape May, New Jersey,2.50
+Baltimore,Md.,Cape May, New Jersey,6.00
+Washington,D.C.,Cape May, New Jersey,7.00
+Pittsburg,Pa.,Cape May, New Jersey,17.00
+Chicago,Ill.,Cape May, New Jersey,27.83
+Charleston,S.C.,Cape May, New Jersey,25.17
+Cincinnati,Ohio,Cape May, New Jersey,27.08
+Saint Louis,Mo.,Cape May, New Jersey,34.33
+Omaha,Nebr.,Cape May, New Jersey,44.00
+San Francisco,Cal.,Cape May, New Jersey,96.00
+Boston,Mass.,Trenton, New Jersey,9.00
+New York,N.Y.,Trenton, New Jersey,2.00
+Philadelphia,Pa.,Trenton, New Jersey,1.00
+Baltimore,Md.,Trenton, New Jersey,4.45
+Washington,D.C.,Trenton, New Jersey,6.12
+Pittsburg,Pa.,Trenton, New Jersey,12.12
+Chicago,Ill.,Trenton, New Jersey,23.87
+Charleston,S.C.,Trenton, New Jersey,24.28
+Cincinnati,Ohio,Trenton, New Jersey,21.12
+Saint Louis,Mo.,Trenton, New Jersey,28.37
+Omaha,Nebr.,Trenton, New Jersey,40.62
+San Francisco,Cal.,Trenton, New Jersey,92.75
+Boston,Mass.,Las Cruces, New Mexico Territory,96.83
+New York,N.Y.,Las Cruces, New Mexico Territory,89.00
+Philadelphia,Pa.,Las Cruces, New Mexico Territory,87.67
+Baltimore,Md.,Las Cruces, New Mexico Territory,87.00
+Washington,D.C.,Las Cruces, New Mexico Territory,88.00
+Pittsburg,Pa.,Las Cruces, New Mexico Territory,80.83
+Chicago,Ill.,Las Cruces, New Mexico Territory,67.75
+Charleston,S.C.,Las Cruces, New Mexico Territory,103.75
+Cincinnati,Ohio,Las Cruces, New Mexico Territory,69.50
+Saint Louis,Mo.,Las Cruces, New Mexico Territory,57.50
+Omaha,Nebr.,Las Cruces, New Mexico Territory,54.50
+San Francisco,Cal.,Las Cruces, New Mexico Territory,43.75
+Boston,Mass.,Santa Fe, New Mexico Territory,89.17
+New York,N.Y.,Santa Fe, New Mexico Territory,82.00
+Philadelphia,Pa.,Santa Fe, New Mexico Territory,80.58
+Baltimore,Md.,Santa Fe, New Mexico Territory,80.92
+Washington,D.C.,Santa Fe, New Mexico Territory,81.42
+Pittsburg,Pa.,Santa Fe, New Mexico Territory,70.92
+Chicago,Ill.,Santa Fe, New Mexico Territory,60.92
+Charleston,S.C.,Santa Fe, New Mexico Territory,95.75
+Cincinnati,Ohio,Santa Fe, New Mexico Territory,60.92
+Saint Louis,Mo.,Santa Fe, New Mexico Territory,50.50
+Omaha,Nebr.,Santa Fe, New Mexico Territory,47.50
+San Francisco,Cal.,Santa Fe, New Mexico Territory,34.08
+Boston,Mass.,Albuquerque, New Mexico Territory,89.83
+New York,N.Y.,Albuquerque, New Mexico Territory,82.00
+Philadelphia,Pa.,Albuquerque, New Mexico Territory,80.58
+Baltimore,Md.,Albuquerque, New Mexico Territory,80.92
+Washington,D.C.,Albuquerque, New Mexico Territory,81.42
+Pittsburg,Pa.,Albuquerque, New Mexico Territory,70.92
+Chicago,Ill.,Albuquerque, New Mexico Territory,60.92
+Charleston,S.C.,Albuquerque, New Mexico Territory,96.75
+Cincinnati,Ohio,Albuquerque, New Mexico Territory,60.83
+Saint Louis,Mo.,Albuquerque, New Mexico Territory,48.50
+Omaha,Nebr.,Albuquerque, New Mexico Territory,47.50
+San Francisco,Cal.,Albuquerque, New Mexico Territory,36.75
+Boston,Mass.,Albany, New York,6.00
+New York,N.Y.,Albany, New York,3.58
+Philadelphia,Pa.,Albany, New York,9.00
+Baltimore,Md.,Albany, New York,13.00
+Washington,D.C.,Albany, New York,14.00
+Pittsburg,Pa.,Albany, New York,18.25
+Chicago,Ill.,Albany, New York,20.25
+Charleston,S.C.,Albany, New York,82.00
+Cincinnati,Ohio,Albany, New York,24.25
+Saint Louis,Mo.,Albany, New York,26.00
+Omaha,Nebr.,Albany, New York,37.00
+San Francisco,Cal.,Albany, New York,89.25
+Boston,Mass.,Buffalo, New York,16.00
+New York,N.Y.,Buffalo, New York,11.50
+Philadelphia,Pa.,Buffalo, New York,15.50
+Baltimore,Md.,Buffalo, New York,18.00
+Washington,D.C.,Buffalo, New York,19.00
+Pittsburg,Pa.,Buffalo, New York,11.00
+Chicago,Ill.,Buffalo, New York,16.75
+Charleston,S.C.,Buffalo, New York,88.00
+Cincinnati,Ohio,Buffalo, New York,16.00
+Saint Louis,Mo.,Buffalo, New York,23.00
+Omaha,Nebr.,Buffalo, New York,31.15
+San Francisco,Cal.,Buffalo, New York,83.75
+Boston,Mass.,New York, New York,6.00
+Philadelphia,Pa.,New York, New York,2.00
+Baltimore,Md.,New York, New York,5.00
+Washington,D.C.,New York, New York,6.00
+Pittsburg,Pa.,New York, New York,12.00
+Chicago,Ill.,New York, New York,23.25
+Charleston,S.C.,New York, New York,25.00
+Cincinnati,Ohio,New York, New York,23.00
+Saint Louis,Mo.,New York, New York,33.83
+Omaha,Nebr.,New York, New York,45.75
+San Francisco,Cal.,New York, New York,97.75
+Boston,Mass.,Rome, New York,12.50
+New York,N.Y.,Rome, New York,9.15
+Philadelphia,Pa.,Rome, New York,12.00
+Baltimore,Md.,Rome, New York,13.00
+Washington,D.C.,Rome, New York,14.00
+Pittsburg,Pa.,Rome, New York,16.00
+Chicago,Ill.,Rome, New York,17.27
+Charleston,S.C.,Rome, New York,32.00
+Cincinnati,Ohio,Rome, New York,25.50
+Saint Louis,Mo.,Rome, New York,27.25
+Omaha,Nebr.,Rome, New York,36.50
+San Francisco,Cal.,Rome, New York,88.75
+Boston,Mass.,Westpoint, New York,9.83
+New York,N.Y.,Westpoint, New York,2.00
+Philadelphia,Pa.,Westpoint, New York,5.00
+Baltimore,Md.,Westpoint, New York,8.00
+Washington,D.C.,Westpoint, New York,9.00
+Pittsburg,Pa.,Westpoint, New York,14.00
+Chicago,Ill.,Westpoint, New York,34.00
+Charleston,S.C.,Westpoint, New York,28.00
+Cincinnati,Ohio,Westpoint, New York,27.00
+Saint Louis,Mo.,Westpoint, New York,34.92
+Omaha,Nebr.,Westpoint, New York,43.75
+San Francisco,Cal.,Westpoint, New York,95.75
+Boston,Mass.,Charlotte, North Carolina,25.83
+New York,N.Y.,Charlotte, North Carolina,16.33
+Philadelphia,Pa.,Charlotte, North Carolina,13.00
+Baltimore,Md.,Charlotte, North Carolina,11.58
+Washington,D.C.,Charlotte, North Carolina,10.58
+Pittsburg,Pa.,Charlotte, North Carolina,25.25
+Chicago,Ill.,Charlotte, North Carolina,38.00
+Charleston,S.C.,Charlotte, North Carolina,8.25
+Cincinnati,Ohio,Charlotte, North Carolina,30.42
+Saint Louis,Mo.,Charlotte, North Carolina,42.50
+Omaha,Nebr.,Charlotte, North Carolina,58.00
+San Francisco,Cal.,Charlotte, North Carolina,107.75
+Boston,Mass.,Raleigh, North Carolina,25.00
+New York,N.Y.,Raleigh, North Carolina,18.00
+Philadelphia,Pa.,Raleigh, North Carolina,15.17
+Baltimore,Md.,Raleigh, North Carolina,12.67
+Washington,D.C.,Raleigh, North Carolina,11.40
+Pittsburg,Pa.,Raleigh, North Carolina,26.25
+Chicago,Ill.,Raleigh, North Carolina,36.00
+Charleston,S.C.,Raleigh, North Carolina,6.00
+Cincinnati,Ohio,Raleigh, North Carolina,33.08
+Saint Louis,Mo.,Raleigh, North Carolina,45.67
+Omaha,Nebr.,Raleigh, North Carolina,59.00
+San Francisco,Cal.,Raleigh, North Carolina,107.75
+Boston,Mass.,Wilmington, North Carolina,25.00
+New York,N.Y.,Wilmington, North Carolina,19.83
+Philadelphia,Pa.,Wilmington, North Carolina,17.17
+Baltimore,Md.,Wilmington, North Carolina,15.67
+Washington,D.C.,Wilmington, North Carolina,14.40
+Pittsburg,Pa.,Wilmington, North Carolina,25.25
+Chicago,Ill.,Wilmington, North Carolina,38.00
+Charleston,S.C.,Wilmington, North Carolina,7.08
+Cincinnati,Ohio,Wilmington, North Carolina,31.08
+Saint Louis,Mo.,Wilmington, North Carolina,42.67
+Omaha,Nebr.,Wilmington, North Carolina,53.00
+San Francisco,Cal.,Wilmington, North Carolina,105.75
+Boston,Mass.,Cincinnati, Ohio,30.42
+New York,N.Y.,Cincinnati, Ohio,23.00
+Philadelphia,Pa.,Cincinnati, Ohio,20.83
+Baltimore,Md.,Cincinnati, Ohio,17.50
+Washington,D.C.,Cincinnati, Ohio,16.33
+Pittsburg,Pa.,Cincinnati, Ohio,10.42
+Chicago,Ill.,Cincinnati, Ohio,10.00
+Charleston,S.C.,Cincinnati, Ohio,36.75
+Saint Louis,Mo.,Cincinnati, Ohio,10.00
+Omaha,Nebr.,Cincinnati, Ohio,30.75
+San Francisco,Cal.,Cincinnati, Ohio,82.75
+Boston,Mass.,Cleveland, Ohio,23.58
+New York,N.Y.,Cleveland, Ohio,19.13
+Philadelphia,Pa.,Cleveland, Ohio,19.67
+Baltimore,Md.,Cleveland, Ohio,20.33
+Washington,D.C.,Cleveland, Ohio,21.33
+Pittsburg,Pa.,Cleveland, Ohio,6.75
+Chicago,Ill.,Cleveland, Ohio,11.17
+Charleston,S.C.,Cleveland, Ohio,39.75
+Cincinnati,Ohio,Cleveland, Ohio,10.00
+Saint Louis,Mo.,Cleveland, Ohio,18.15
+Omaha,Nebr.,Cleveland, Ohio,29.42
+San Francisco,Cal.,Cleveland, Ohio,79.92
+Boston,Mass.,Columbus, Ohio,26.67
+New York,N.Y.,Columbus, Ohio,19.08
+Philadelphia,Pa.,Columbus, Ohio,16.25
+Baltimore,Md.,Columbus, Ohio,18.67
+Washington,D.C.,Columbus, Ohio,17.67
+Pittsburg,Pa.,Columbus, Ohio,5.67
+Chicago,Ill.,Columbus, Ohio,12.83
+Charleston,S.C.,Columbus, Ohio,35.00
+Cincinnati,Ohio,Columbus, Ohio,4.50
+Saint Louis,Mo.,Columbus, Ohio,14.00
+Omaha,Nebr.,Columbus, Ohio,30.50
+San Francisco,Cal.,Columbus, Ohio,82.25
+Boston,Mass.,Toledo, Ohio,24.67
+New York,N.Y.,Toledo, Ohio,20.58
+Philadelphia,Pa.,Toledo, Ohio,21.83
+Baltimore,Md.,Toledo, Ohio,22.50
+Washington,D.C.,Toledo, Ohio,23.50
+Pittsburg,Pa.,Toledo, Ohio,9.58
+Chicago,Ill.,Toledo, Ohio,7.75
+Charleston,S.C.,Toledo, Ohio,41.75
+Cincinnati,Ohio,Toledo, Ohio,7.00
+Saint Louis,Mo.,Toledo, Ohio,14.42
+Omaha,Nebr.,Toledo, Ohio,25.00
+San Francisco,Cal.,Toledo, Ohio,77.75
+Boston,Mass.,Portland, Oregon,117.33
+New York,N.Y.,Portland, Oregon,114.05
+Philadelphia,Pa.,Portland, Oregon,116.50
+Baltimore,Md.,Portland, Oregon,113.33
+Washington,D.C.,Portland, Oregon,114.50
+Pittsburg,Pa.,Portland, Oregon,105.83
+Chicago,Ill.,Portland, Oregon,87.83
+Charleston,S.C.,Portland, Oregon,125.67
+Cincinnati,Ohio,Portland, Oregon,100.33
+Saint Louis,Mo.,Portland, Oregon,99.83
+Omaha,Nebr.,Portland, Oregon,74.00
+San Francisco,Cal.,Portland, Oregon,39.25
+Boston,Mass.,Salem, Oregon,119.33
+New York,N.Y.,Salem, Oregon,116.50
+Philadelphia,Pa.,Salem, Oregon,118.50
+Baltimore,Md.,Salem, Oregon,115.33
+Washington,D.C.,Salem, Oregon,116.50
+Pittsburg,Pa.,Salem, Oregon,107.83
+Chicago,Ill.,Salem, Oregon,90.83
+Charleston,S.C.,Salem, Oregon,127.75
+Cincinnati,Ohio,Salem, Oregon,102.33
+Saint Louis,Mo.,Salem, Oregon,100.83
+Omaha,Nebr.,Salem, Oregon,76.00
+San Francisco,Cal.,Salem, Oregon,37.75
+Boston,Mass.,Harrisburg, Pennsylvania,12.83
+New York,N.Y.,Harrisburg, Pennsylvania,6.00
+Philadelphia,Pa.,Harrisburg, Pennsylvania,8.08
+Baltimore,Md.,Harrisburg, Pennsylvania,3.00
+Washington,D.C.,Harrisburg, Pennsylvania,4.00
+Pittsburg,Pa.,Harrisburg, Pennsylvania,8.33
+Chicago,Ill.,Harrisburg, Pennsylvania,20.00
+Charleston,S.C.,Harrisburg, Pennsylvania,22.00
+Cincinnati,Ohio,Harrisburg, Pennsylvania,20.00
+Saint Louis,Mo.,Harrisburg, Pennsylvania,25.50
+Omaha,Nebr.,Harrisburg, Pennsylvania,40.25
+San Francisco,Cal.,Harrisburg, Pennsylvania,89.75
+Boston,Mass.,Philadelphia, Pennsylvania,9.83
+New York,N.Y.,Philadelphia, Pennsylvania,3.00
+Baltimore,Md.,Philadelphia, Pennsylvania,2.33
+Washington,D.C.,Philadelphia, Pennsylvania,3.42
+Pittsburg,Pa.,Philadelphia, Pennsylvania,10.00
+Chicago,Ill.,Philadelphia, Pennsylvania,23.25
+Charleston,S.C.,Philadelphia, Pennsylvania,21.00
+Cincinnati,Ohio,Philadelphia, Pennsylvania,20.17
+Saint Louis,Mo.,Philadelphia, Pennsylvania,27.25
+Omaha,Nebr.,Philadelphia, Pennsylvania,41.50
+San Francisco,Cal.,Philadelphia, Pennsylvania,93.75
+Boston,Mass.,Pittsburg, Pennsylvania,20.00
+New York,N.Y.,Pittsburg, Pennsylvania,13.00
+Philadelphia,Pa.,Pittsburg, Pennsylvania,10.08
+Baltimore,Md.,Pittsburg, Pennsylvania,11.50
+Washington,D.C.,Pittsburg, Pennsylvania,12.50
+Chicago,Ill.,Pittsburg, Pennsylvania,13.75
+Charleston,S.C.,Pittsburg, Pennsylvania,32.00
+Cincinnati,Ohio,Pittsburg, Pennsylvania,10.50
+Saint Louis,Mo.,Pittsburg, Pennsylvania,17.75
+Omaha,Nebr.,Pittsburg, Pennsylvania,84.00
+San Francisco,Cal.,Pittsburg, Pennsylvania,86.50
+Boston,Mass.,Scranton, Pennsylvania,12.25
+New York,N.Y.,Scranton, Pennsylvania,4.05
+Philadelphia,Pa.,Scranton, Pennsylvania,8.17
+Baltimore,Md.,Scranton, Pennsylvania,10.52
+Washington,D.C.,Scranton, Pennsylvania,11.75
+Pittsburg,Pa.,Scranton, Pennsylvania,12.00
+Chicago,Ill.,Scranton, Pennsylvania,20.75
+Charleston,S.C.,Scranton, Pennsylvania,26.42
+Cincinnati,Ohio,Scranton, Pennsylvania,24.00
+Saint Louis,Mo.,Scranton, Pennsylvania,36.43
+Omaha,Nebr.,Scranton, Pennsylvania,32.33
+San Francisco,Cal.,Scranton, Pennsylvania,90.17
+Boston,Mass.,Williamsport, Pennsylvania,16.58
+New York,N.Y.,Williamsport, Pennsylvania,11.08
+Philadelphia,Pa.,Williamsport, Pennsylvania,8.00
+Baltimore,Md.,Williamsport, Pennsylvania,8.00
+Washington,D.C.,Williamsport, Pennsylvania,9.00
+Pittsburg,Pa.,Williamsport, Pennsylvania,12.00
+Chicago,Ill.,Williamsport, Pennsylvania,26.58
+Charleston,S.C.,Williamsport, Pennsylvania,27.58
+Cincinnati,Ohio,Williamsport, Pennsylvania,21.00
+Saint Louis,Mo.,Williamsport, Pennsylvania,29.50
+Omaha,Nebr.,Williamsport, Pennsylvania,38.00
+San Francisco,Cal.,Williamsport, Pennsylvania,90.00
+Boston,Mass.,Newport, Rhode Island,2.50
+New York,N.Y.,Newport, Rhode Island,8.50
+Philadelphia,Pa.,Newport, Rhode Island,11.50
+Baltimore,Md.,Newport, Rhode Island,14.50
+Washington,D.C.,Newport, Rhode Island,15.50
+Pittsburg,Pa.,Newport, Rhode Island,22.83
+Chicago,Ill.,Newport, Rhode Island,85.25
+Charleston,S.C.,Newport, Rhode Island,33.25
+Cincinnati,Ohio,Newport, Rhode Island,31.67
+Saint Louis,Mo.,Newport, Rhode Island,44.00
+Omaha,Nebr.,Newport, Rhode Island,53.50
+San Francisco,Cal.,Newport, Rhode Island,103.75
+Boston,Mass.,Providence, Rhode Island,1.00
+New York,N.Y.,Providence, Rhode Island,6.00
+Philadelphia,Pa.,Providence, Rhode Island,9.00
+Baltimore,Md.,Providence, Rhode Island,12.00
+Washington,D.C.,Providence, Rhode Island,13.00
+Pittsburg,Pa.,Providence, Rhode Island,19.33
+Chicago,Ill.,Providence, Rhode Island,82.75
+Charleston,S.C.,Providence, Rhode Island,31.75
+Cincinnati,Ohio,Providence, Rhode Island,29.17
+Saint Louis,Mo.,Providence, Rhode Island,41.50
+Omaha,Nebr.,Providence, Rhode Island,50.00
+San Francisco,Cal.,Providence, Rhode Island,100.75
+Boston,Mass.,Charleston, S.C.,27.33
+New York,N.Y.,Charleston, S.C.,21.33
+Philadelphia,Pa.,Charleston, S.C.,18.67
+Baltimore,Md.,Charleston, S.C.,16.67
+Washington,D.C.,Charleston, S.C.,15.33
+Pittsburg,Pa.,Charleston, S.C.,28.75
+Chicago,Ill.,Charleston, S.C.,40.25
+Cincinnati,Ohio,Charleston, S.C.,30.08
+Saint Louis,Mo.,Charleston, S.C.,36.17
+Omaha,Nebr.,Charleston, S.C.,58.50
+San Francisco,Cal.,Charleston, S.C.,110.75
+Boston,Mass.,Columbia, S.C.,29.58
+New York,N.Y.,Columbia, S.C.,22.05
+Philadelphia,Pa.,Columbia, S.C.,23.75
+Baltimore,Md.,Columbia, S.C.,20.00
+Washington,D.C.,Columbia, S.C.,19.33
+Pittsburg,Pa.,Columbia, S.C.,32.75
+Chicago,Ill.,Columbia, S.C.,42.50
+Charleston,S.C.,Columbia, S.C.,4.00
+Cincinnati,Ohio,Columbia, S.C.,32.50
+Saint Louis,Mo.,Columbia, S.C.,46.17
+Omaha,Nebr.,Columbia, S.C.,58.75
+San Francisco,Cal.,Columbia, S.C.,110.75
+Boston,Mass.,Port Royal, S.C.,31.08
+New York,N.Y.,Port Royal, S.C.,25.08
+Philadelphia,Pa.,Port Royal, S.C.,23.00
+Baltimore,Md.,Port Royal, S.C.,20.00
+Washington,D.C.,Port Royal, S.C.,20.33
+Pittsburg,Pa.,Port Royal, S.C.,32.75
+Chicago,Ill.,Port Royal, S.C.,40.50
+Charleston,S.C.,Port Royal, S.C.,5.00
+Cincinnati,Ohio,Port Royal, S.C.,57.50
+Saint Louis,Mo.,Port Royal, S.C.,39.17
+Omaha,Nebr.,Port Royal, S.C.,60.75
+San Francisco,Cal.,Port Royal, S.C.,112.75
+Boston,Mass.,Chattanooga, Tennessee,39.00
+New York,N.Y.,Chattanooga, Tennessee,31.83
+Philadelphia,Pa.,Chattanooga, Tennessee,29.00
+Baltimore,Md.,Chattanooga, Tennessee,27.38
+Washington,D.C.,Chattanooga, Tennessee,26.38
+Pittsburg,Pa.,Chattanooga, Tennessee,24.00
+Chicago,Ill.,Chattanooga, Tennessee,24.00
+Charleston,S.C.,Chattanooga, Tennessee,27.00
+Cincinnati,Ohio,Chattanooga, Tennessee,12.67
+Saint Louis,Mo.,Chattanooga, Tennessee,18.00
+Omaha,Nebr.,Chattanooga, Tennessee,42.00
+San Francisco,Cal.,Chattanooga, Tennessee,92.75
+Boston,Mass.,Knoxville, Tennessee,35.00
+New York,N.Y.,Knoxville, Tennessee,27.40
+Philadelphia,Pa.,Knoxville, Tennessee,24.00
+Baltimore,Md.,Knoxville, Tennessee,21.88
+Washington,D.C.,Knoxville, Tennessee,20.38
+Pittsburg,Pa.,Knoxville, Tennessee,30.00
+Chicago,Ill.,Knoxville, Tennessee,30.00
+Charleston,S.C.,Knoxville, Tennessee,33.00
+Cincinnati,Ohio,Knoxville, Tennessee,17.67
+Saint Louis,Mo.,Knoxville, Tennessee,25.00
+Omaha,Nebr.,Knoxville, Tennessee,48.00
+San Francisco,Cal.,Knoxville, Tennessee,98.75
+Boston,Mass.,Memphis, Tennessee,49.00
+New York,N.Y.,Memphis, Tennessee,40.00
+Philadelphia,Pa.,Memphis, Tennessee,37.00
+Baltimore,Md.,Memphis, Tennessee,34.88
+Washington,D.C.,Memphis, Tennessee,32.38
+Pittsburg,Pa.,Memphis, Tennessee,31.00
+Chicago,Ill.,Memphis, Tennessee,30.00
+Charleston,S.C.,Memphis, Tennessee,45.00
+Cincinnati,Ohio,Memphis, Tennessee,17.00
+Saint Louis,Mo.,Memphis, Tennessee,23.58
+Omaha,Nebr.,Memphis, Tennessee,36.25
+San Francisco,Cal.,Memphis, Tennessee,88.75
+Boston,Mass.,Nashville, Tennessee,38.50
+New York,N.Y.,Nashville, Tennessee,33.67
+Philadelphia,Pa.,Nashville, Tennessee,31.33
+Baltimore,Md.,Nashville, Tennessee,28.67
+Washington,D.C.,Nashville, Tennessee,27.67
+Pittsburg,Pa.,Nashville, Tennessee,20.67
+Chicago,Ill.,Nashville, Tennessee,22.50
+Charleston,S.C.,Nashville, Tennessee,40.42
+Cincinnati,Ohio,Nashville, Tennessee,10.08
+Saint Louis,Mo.,Nashville, Tennessee,12.33
+Omaha,Nebr.,Nashville, Tennessee,30.67
+San Francisco,Cal.,Nashville, Tennessee,82.75
+Boston,Mass.,Austin, Texas,79.50
+New York,N.Y.,Austin, Texas,71.50
+Philadelphia,Pa.,Austin, Texas,70.25
+Baltimore,Md.,Austin, Texas,67.00
+Washington,D.C.,Austin, Texas,66.00
+Pittsburg,Pa.,Austin, Texas,65.67
+Chicago,Ill.,Austin, Texas,50.33
+Charleston,S.C.,Austin, Texas,61.50
+Cincinnati,Ohio,Austin, Texas,54.33
+Saint Louis,Mo.,Austin, Texas,40.00
+Omaha,Nebr.,Austin, Texas,68.33
+San Francisco,Cal.,Austin, Texas,88.25
+Boston,Mass.,Galveston, Texas,63.33
+New York,N.Y.,Galveston, Texas,56.05
+Philadelphia,Pa.,Galveston, Texas,54.17
+Baltimore,Md.,Galveston, Texas,52.50
+Washington,D.C.,Galveston, Texas,51.50
+Pittsburg,Pa.,Galveston, Texas,64.33
+Chicago,Ill.,Galveston, Texas,51.00
+Charleston,S.C.,Galveston, Texas,55.42
+Cincinnati,Ohio,Galveston, Texas,56.00
+Saint Louis,Mo.,Galveston, Texas,47.75
+Omaha,Nebr.,Galveston, Texas,67.00
+San Francisco,Cal.,Galveston, Texas,95.75
+Boston,Mass.,San Antonio, Texas,69.08
+New York,N.Y.,San Antonio, Texas,63.00
+Philadelphia,Pa.,San Antonio, Texas,59.67
+Baltimore,Md.,San Antonio, Texas,60.00
+Washington,D.C.,San Antonio, Texas,57.00
+Pittsburg,Pa.,San Antonio, Texas,58.83
+Chicago,Ill.,San Antonio, Texas,58.50
+Charleston,S.C.,San Antonio, Texas,62.42
+Cincinnati,Ohio,San Antonio, Texas,59.50
+Saint Louis,Mo.,San Antonio, Texas,49.25
+Omaha,Nebr.,San Antonio, Texas,63.50
+San Francisco,Cal.,San Antonio, Texas,83.75
+Boston,Mass.,Sherman, Texas,69.83
+New York,N.Y.,Sherman, Texas,62.00
+Philadelphia,Pa.,Sherman, Texas,60.00
+Baltimore,Md.,Sherman, Texas,58.50
+Washington,D.C.,Sherman, Texas,57.33
+Pittsburg,Pa.,Sherman, Texas,54.00
+Chicago,Ill.,Sherman, Texas,40.25
+Charleston,S.C.,Sherman, Texas,65.25
+Cincinnati,Ohio,Sherman, Texas,36.83
+Saint Louis,Mo.,Sherman, Texas,28.50
+Omaha,Nebr.,Sherman, Texas,42.00
+San Francisco,Cal.,Sherman, Texas,95.75
+Boston,Mass.,Ogden, Utah,87.05
+New York,N.Y.,Ogden, Utah,70.50
+Philadelphia,Pa.,Ogden, Utah,75.67
+Baltimore,Md.,Ogden, Utah,74.00
+Washington,D.C.,Ogden, Utah,75.00
+Pittsburg,Pa.,Ogden, Utah,60.83
+Chicago,Ill.,Ogden, Utah,44.50
+Charleston,S.C.,Ogden, Utah,93.75
+Cincinnati,Ohio,Ogden, Utah,62.00
+Saint Louis,Mo.,Ogden, Utah,50.50
+Omaha,Nebr.,Ogden, Utah,31.00
+San Francisco,Cal.,Ogden, Utah,29.17
+Boston,Mass.,Salt Lake City, Utah,88.50
+New York,N.Y.,Salt Lake City, Utah,71.50
+Philadelphia,Pa.,Salt Lake City, Utah,76.67
+Baltimore,Md.,Salt Lake City, Utah,75.00
+Washington,D.C.,Salt Lake City, Utah,76.00
+Pittsburg,Pa.,Salt Lake City, Utah,61.83
+Chicago,Ill.,Salt Lake City, Utah,45.50
+Charleston,S.C.,Salt Lake City, Utah,94.75
+Cincinnati,Ohio,Salt Lake City, Utah,61.00
+Saint Louis,Mo.,Salt Lake City, Utah,50.50
+Omaha,Nebr.,Salt Lake City, Utah,34.00
+San Francisco,Cal.,Salt Lake City, Utah,34.75
+Boston,Mass.,Montpelier, Vermont,7.00
+New York,N.Y.,Montpelier, Vermont,10.25
+Philadelphia,Pa.,Montpelier, Vermont,13.08
+Baltimore,Md.,Montpelier, Vermont,16.58
+Washington,D.C.,Montpelier, Vermont,17.58
+Pittsburg,Pa.,Montpelier, Vermont,25.00
+Chicago,Ill.,Montpelier, Vermont,35.33
+Charleston,S.C.,Montpelier, Vermont,34.33
+Cincinnati,Ohio,Montpelier, Vermont,35.58
+Saint Louis,Mo.,Montpelier, Vermont,48.42
+Omaha,Nebr.,Montpelier, Vermont,57.50
+San Francisco,Cal.,Montpelier, Vermont,103.75
+Boston,Mass.,White River Junction, Vermont,5.00
+New York,N.Y.,White River Junction, Vermont,8.25
+Philadelphia,Pa.,White River Junction, Vermont,11.08
+Baltimore,Md.,White River Junction, Vermont,13.58
+Washington,D.C.,White River Junction, Vermont,14.85
+Pittsburg,Pa.,White River Junction, Vermont,23.00
+Chicago,Ill.,White River Junction, Vermont,37.33
+Charleston,S.C.,White River Junction, Vermont,32.00
+Cincinnati,Ohio,White River Junction, Vermont,36.58
+Saint Louis,Mo.,White River Junction, Vermont,46.33
+Omaha,Nebr.,White River Junction, Vermont,55.50
+San Francisco,Cal.,White River Junction, Vermont,105.75
+Boston,Mass.,Lynchburg, Virginia,21.50
+New York,N.Y.,Lynchburg, Virginia,14.33
+Philadelphia,Pa.,Lynchburg, Virginia,11.50
+Baltimore,Md.,Lynchburg, Virginia,7.83
+Washington,D.C.,Lynchburg, Virginia,6.67
+Pittsburg,Pa.,Lynchburg, Virginia,21.75
+Chicago,Ill.,Lynchburg, Virginia,30.83
+Charleston,S.C.,Lynchburg, Virginia,16.58
+Cincinnati,Ohio,Lynchburg, Virginia,26.00
+Saint Louis,Mo.,Lynchburg, Virginia,40.67
+Omaha,Nebr.,Lynchburg, Virginia,54.00
+San Francisco,Cal.,Lynchburg, Virginia,99.75
+Boston,Mass.,Norfolk, Virginia,21.00
+New York,N.Y.,Norfolk, Virginia,15.33
+Philadelphia,Pa.,Norfolk, Virginia,12.28
+Baltimore,Md.,Norfolk, Virginia,9.83
+Washington,D.C.,Norfolk, Virginia,8.67
+Pittsburg,Pa.,Norfolk, Virginia,24.25
+Chicago,Ill.,Norfolk, Virginia,32.75
+Charleston,S.C.,Norfolk, Virginia,19.33
+Cincinnati,Ohio,Norfolk, Virginia,34.42
+Saint Louis,Mo.,Norfolk, Virginia,48.13
+Omaha,Nebr.,Norfolk, Virginia,50.00
+San Francisco,Cal.,Norfolk, Virginia,100.75
+Boston,Mass.,Richmond, Virginia,17.00
+New York,N.Y.,Richmond, Virginia,11.33
+Philadelphia,Pa.,Richmond, Virginia,8.28
+Baltimore,Md.,Richmond, Virginia,5.83
+Washington,D.C.,Richmond, Virginia,4.67
+Pittsburg,Pa.,Richmond, Virginia,20.25
+Chicago,Ill.,Richmond, Virginia,30.75
+Charleston,S.C.,Richmond, Virginia,14.00
+Cincinnati,Ohio,Richmond, Virginia,30.42
+Saint Louis,Mo.,Richmond, Virginia,40.50
+Omaha,Nebr.,Richmond, Virginia,53.00
+San Francisco,Cal.,Richmond, Virginia,99.75
+Boston,Mass.,Staunton, Virginia,20.50
+New York,N.Y.,Staunton, Virginia,14.00
+Philadelphia,Pa.,Staunton, Virginia,13.00
+Baltimore,Md.,Staunton, Virginia,8.50
+Washington,D.C.,Staunton, Virginia,7.25
+Pittsburg,Pa.,Staunton, Virginia,21.00
+Chicago,Ill.,Staunton, Virginia,33.00
+Charleston,S.C.,Staunton, Virginia,16.00
+Cincinnati,Ohio,Staunton, Virginia,20.00
+Saint Louis,Mo.,Staunton, Virginia,33.67
+Omaha,Nebr.,Staunton, Virginia,58.00
+San Francisco,Cal.,Staunton, Virginia,102.75
+Boston,Mass.,Seattle, Washington,106.75
+New York,N.Y.,Seattle, Washington,102.00
+Philadelphia,Pa.,Seattle, Washington,102.42
+Baltimore,Md.,Seattle, Washington,100.33
+Washington,D.C.,Seattle, Washington,102.08
+Pittsburg,Pa.,Seattle, Washington,91.92
+Chicago,Ill.,Seattle, Washington,78.25
+Charleston,S.C.,Seattle, Washington,123.00
+Cincinnati,Ohio,Seattle, Washington,94.08
+Saint Louis,Mo.,Seattle, Washington,91.00
+Omaha,Nebr.,Seattle, Washington,71.75
+San Francisco,Cal.,Seattle, Washington,44.42
+Boston,Mass.,Tacoma, Washington,106.75
+New York,N.Y.,Tacoma, Washington,102.00
+Philadelphia,Pa.,Tacoma, Washington,102.42
+Baltimore,Md.,Tacoma, Washington,100.58
+Washington,D.C.,Tacoma, Washington,102.42
+Pittsburg,Pa.,Tacoma, Washington,91.92
+Chicago,Ill.,Tacoma, Washington,78.25
+Charleston,S.C.,Tacoma, Washington,123.17
+Cincinnati,Ohio,Tacoma, Washington,94.08
+Saint Louis,Mo.,Tacoma, Washington,91.08
+Omaha,Nebr.,Tacoma, Washington,71.02
+San Francisco,Cal.,Tacoma, Washington,44.72
+Boston,Mass.,Olympia, Washington,116.00
+New York,N.Y.,Olympia, Washington,112.00
+Philadelphia,Pa.,Olympia, Washington,112.17
+Baltimore,Md.,Olympia, Washington,110.58
+Washington,D.C.,Olympia, Washington,112.42
+Pittsburg,Pa.,Olympia, Washington,101.25
+Chicago,Ill.,Olympia, Washington,88.25
+Charleston,S.C.,Olympia, Washington,133.17
+Cincinnati,Ohio,Olympia, Washington,104.08
+Saint Louis,Mo.,Olympia, Washington,101.08
+Omaha,Nebr.,Olympia, Washington,80.25
+San Francisco,Cal.,Olympia, Washington,44.03
+Boston,Mass.,Charleston, West Virginia,26.83
+New York,N.Y.,Charleston, West Virginia,20.00
+Philadelphia,Pa.,Charleston, West Virginia,17.00
+Baltimore,Md.,Charleston, West Virginia,15.00
+Washington,D.C.,Charleston, West Virginia,14.50
+Pittsburg,Pa.,Charleston, West Virginia,17.00
+Chicago,Ill.,Charleston, West Virginia,15.57
+Charleston,S.C.,Charleston, West Virginia,32.00
+Cincinnati,Ohio,Charleston, West Virginia,6.00
+Saint Louis,Mo.,Charleston, West Virginia,17.67
+Omaha,Nebr.,Charleston, West Virginia,30.50
+San Francisco,Cal.,Charleston, West Virginia,84.75
+Boston,Mass.,Grafton, West Virginia,19.25
+New York,N.Y.,Grafton, West Virginia,13.50
+Philadelphia,Pa.,Grafton, West Virginia,11.00
+Baltimore,Md.,Grafton, West Virginia,9.75
+Washington,D.C.,Grafton, West Virginia,8.58
+Pittsburg,Pa.,Grafton, West Virginia,11.83
+Chicago,Ill.,Grafton, West Virginia,16.50
+Charleston,S.C.,Grafton, West Virginia,26.25
+Cincinnati,Ohio,Grafton, West Virginia,9.00
+Saint Louis,Mo.,Grafton, West Virginia,19.92
+Omaha,Nebr.,Grafton, West Virginia,45.25
+San Francisco,Cal.,Grafton, West Virginia,85.75
+Boston,Mass.,Huntington, West Virginia,26.67
+New York,N.Y.,Huntington, West Virginia,20.17
+Philadelphia,Pa.,Huntington, West Virginia,18.83
+Baltimore,Md.,Huntington, West Virginia,15.58
+Washington,D.C.,Huntington, West Virginia,14.42
+Pittsburg,Pa.,Huntington, West Virginia,15.67
+Chicago,Ill.,Huntington, West Virginia,14.00
+Charleston,S.C.,Huntington, West Virginia,32.42
+Cincinnati,Ohio,Huntington, West Virginia,5.00
+Saint Louis,Mo.,Huntington, West Virginia,16.33
+Omaha,Nebr.,Huntington, West Virginia,27.17
+San Francisco,Cal.,Huntington, West Virginia,83.75
+Boston,Mass.,Wheeling, West Virginia,20.25
+New York,N.Y.,Wheeling, West Virginia,14.25
+Philadelphia,Pa.,Wheeling, West Virginia,15.00
+Baltimore,Md.,Wheeling, West Virginia,13.25
+Washington,D.C.,Wheeling, West Virginia,12.00
+Pittsburg,Pa.,Wheeling, West Virginia,4.00
+Chicago,Ill.,Wheeling, West Virginia,14.50
+Charleston,S.C.,Wheeling, West Virginia,30.75
+Cincinnati,Ohio,Wheeling, West Virginia,12.33
+Saint Louis,Mo.,Wheeling, West Virginia,22.83
+Omaha,Nebr.,Wheeling, West Virginia,32.92
+San Francisco,Cal.,Wheeling, West Virginia,83.75
+Boston,Mass.,Madison, Wisconsin,33.00
+New York,N.Y.,Madison, Wisconsin,30.00
+Philadelphia,Pa.,Madison, Wisconsin,31.17
+Baltimore,Md.,Madison, Wisconsin,31.50
+Washington,D.C.,Madison, Wisconsin,32.67
+Pittsburg,Pa.,Madison, Wisconsin,17.00
+Chicago,Ill.,Madison, Wisconsin,4.50
+Charleston,S.C.,Madison, Wisconsin,50.25
+Cincinnati,Ohio,Madison, Wisconsin,16.50
+Saint Louis,Mo.,Madison, Wisconsin,16.08
+Omaha,Nebr.,Madison, Wisconsin,22.50
+San Francisco,Cal.,Madison, Wisconsin,73.75
+Boston,Mass.,Milwaukee, Wisconsin,34.33
+New York,N.Y.,Milwaukee, Wisconsin,29.33
+Philadelphia,Pa.,Milwaukee, Wisconsin,27.50
+Baltimore,Md.,Milwaukee, Wisconsin,29.83
+Washington,D.C.,Milwaukee, Wisconsin,30.83
+Pittsburg,Pa.,Milwaukee, Wisconsin,15.67
+Chicago,Ill.,Milwaukee, Wisconsin,2.83
+Charleston,S.C.,Milwaukee, Wisconsin,48.58
+Cincinnati,Ohio,Milwaukee, Wisconsin,14.83
+Saint Louis,Mo.,Milwaukee, Wisconsin,14.42
+Omaha,Nebr.,Milwaukee, Wisconsin,23.83
+San Francisco,Cal.,Milwaukee, Wisconsin,71.75
+Boston,Mass.,Prairie du Chien, Wisconsin,38.50
+New York,N.Y.,Prairie du Chien, Wisconsin,36.67
+Philadelphia,Pa.,Prairie du Chien, Wisconsin,36.83
+Baltimore,Md.,Prairie du Chien, Wisconsin,35.00
+Washington,D.C.,Prairie du Chien, Wisconsin,36.00
+Pittsburg,Pa.,Prairie du Chien, Wisconsin,24.83
+Chicago,Ill.,Prairie du Chien, Wisconsin,11.83
+Charleston,S.C.,Prairie du Chien, Wisconsin,54.75
+Cincinnati,Ohio,Prairie du Chien, Wisconsin,22.00
+Saint Louis,Mo.,Prairie du Chien, Wisconsin,22.58
+Omaha,Nebr.,Prairie du Chien, Wisconsin,23.00
+San Francisco,Cal.,Prairie du Chien, Wisconsin,79.75
+Boston,Mass.,Cheyenne, Wyoming,56.00
+New York,N.Y.,Cheyenne, Wyoming,54.00
+Philadelphia,Pa.,Cheyenne, Wyoming,57.33
+Baltimore,Md.,Cheyenne, Wyoming,56.00
+Washington,D.C.,Cheyenne, Wyoming,55.00
+Pittsburg,Pa.,Cheyenne, Wyoming,45.50
+Chicago,Ill.,Cheyenne, Wyoming,30.00
+Charleston,S.C.,Cheyenne, Wyoming,93.50
+Cincinnati,Ohio,Cheyenne, Wyoming,42.58
+Saint Louis,Mo.,Cheyenne, Wyoming,38.00
+Omaha,Nebr.,Cheyenne, Wyoming,15.67
+San Francisco,Cal.,Cheyenne, Wyoming,44.75

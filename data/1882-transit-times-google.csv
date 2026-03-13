@@ -1,0 +1,1465 @@
+Origin City,Origin State,Destination,Hours
+Decatur,Alabama,Boston,49.1333
+Decatur,Alabama,New York,39.8833
+Decatur,Alabama,Philadelphia,36.7167
+Decatur,Alabama,Baltimore,32.8833
+Decatur,Alabama,Washington,30.3833
+Decatur,Alabama,Pittsburgh,29.9167
+Decatur,Alabama,Chicago,29.9167
+Decatur,Alabama,Charleston,30.6667
+Decatur,Alabama,Cincinnati,16.3333
+Decatur,Alabama,Saint Louis,28.1667
+Decatur,Alabama,Omaha,44.5
+Decatur,Alabama,San Francisco,142.0
+Mobile,Alabama,Boston,65.5167
+Mobile,Alabama,New York,52.4167
+Mobile,Alabama,Philadelphia,50.0
+Mobile,Alabama,Baltimore,47.3333
+Mobile,Alabama,Washington,44.1667
+Mobile,Alabama,Pittsburgh,44.5
+Mobile,Alabama,Chicago,44.4167
+Mobile,Alabama,Charleston,38.9167
+Mobile,Alabama,Cincinnati,30.9167
+Mobile,Alabama,Saint Louis,45.25
+Mobile,Alabama,Omaha,59.75
+Mobile,Alabama,San Francisco,156.75
+Montgomery,Alabama,Boston,57.3333
+Montgomery,Alabama,New York,44.25
+Montgomery,Alabama,Philadelphia,41.8333
+Montgomery,Alabama,Baltimore,39.1667
+Montgomery,Alabama,Washington,36.0
+Montgomery,Alabama,Pittsburgh,37.0833
+Montgomery,Alabama,Chicago,40.75
+Montgomery,Alabama,Charleston,32.0
+Montgomery,Alabama,Cincinnati,23.5
+Montgomery,Alabama,Saint Louis,26.8333
+Montgomery,Alabama,Omaha,52.8333
+Montgomery,Alabama,San Francisco,150.3333
+Tucson,Arizona,Boston,151.5833
+Tucson,Arizona,New York,147.5
+Tucson,Arizona,Philadelphia,144.5
+Tucson,Arizona,Baltimore,144.4167
+Tucson,Arizona,Washington,145.75
+Tucson,Arizona,Pittsburgh,132.5
+Tucson,Arizona,Chicago,119.8333
+Tucson,Arizona,Charleston,190.3333
+Tucson,Arizona,Cincinnati,119.9167
+Tucson,Arizona,Saint Louis,106.7833
+Tucson,Arizona,Omaha,75.0833
+Tucson,Arizona,San Francisco,43.5833
+Fort Smith,Arkansas,Boston,74.25
+Fort Smith,Arkansas,New York,64.2
+Fort Smith,Arkansas,Philadelphia,61.8667
+Fort Smith,Arkansas,Baltimore,57.95
+Fort Smith,Arkansas,Washington,56.75
+Fort Smith,Arkansas,Pittsburgh,50.7667
+Fort Smith,Arkansas,Chicago,37.8
+Fort Smith,Arkansas,Charleston,57.5333
+Fort Smith,Arkansas,Cincinnati,37.5667
+Fort Smith,Arkansas,Saint Louis,26.6167
+Fort Smith,Arkansas,Omaha,48.6667
+Fort Smith,Arkansas,San Francisco,141.35
+Little Rock,Arkansas,Boston,63.5833
+Little Rock,Arkansas,New York,54.2833
+Little Rock,Arkansas,Philadelphia,51.95
+Little Rock,Arkansas,Baltimore,48.0333
+Little Rock,Arkansas,Washington,46.8333
+Little Rock,Arkansas,Pittsburgh,40.85
+Little Rock,Arkansas,Chicago,27.8833
+Little Rock,Arkansas,Charleston,46.2833
+Little Rock,Arkansas,Cincinnati,27.65
+Little Rock,Arkansas,Saint Louis,16.7
+Little Rock,Arkansas,Omaha,38.0
+Little Rock,Arkansas,San Francisco,131.4333
+Los Angeles,California,Boston,173.1667
+Los Angeles,California,New York,169.0833
+Los Angeles,California,Philadelphia,166.0833
+Los Angeles,California,Baltimore,166.0
+Los Angeles,California,Washington,167.3333
+Los Angeles,California,Pittsburgh,154.0833
+Los Angeles,California,Chicago,141.4167
+Los Angeles,California,Charleston,190.3333
+Los Angeles,California,Cincinnati,141.5
+Los Angeles,California,Saint Louis,128.3667
+Los Angeles,California,Omaha,96.6667
+Los Angeles,California,San Francisco,21.3333
+Sacramento,California,Boston,157.1667
+Sacramento,California,New York,146.4167
+Sacramento,California,Philadelphia,142.5833
+Sacramento,California,Baltimore,142.4167
+Sacramento,California,Washington,143.95
+Sacramento,California,Pittsburgh,131.9167
+Sacramento,California,Chicago,114.8333
+Sacramento,California,Charleston,166.95
+Sacramento,California,Cincinnati,117.9167
+Sacramento,California,Saint Louis,107.0833
+Sacramento,California,Omaha,91.5
+Sacramento,California,San Francisco,4.0
+San Francisco,California,Boston,161.1667
+San Francisco,California,New York,150.9167
+San Francisco,California,Philadelphia,147.0833
+San Francisco,California,Baltimore,146.9167
+San Francisco,California,Washington,148.45
+San Francisco,California,Pittsburgh,136.4167
+San Francisco,California,Chicago,119.5
+San Francisco,California,Charleston,171.45
+San Francisco,California,Cincinnati,122.9167
+San Francisco,California,Saint Louis,112.0833
+San Francisco,California,Omaha,96.0
+Denver,Colorado,Boston,83.8167
+Denver,Colorado,New York,81.0667
+Denver,Colorado,Philadelphia,79.9167
+Denver,Colorado,Baltimore,76.0
+Denver,Colorado,Washington,74.1333
+Denver,Colorado,Pittsburgh,67.0833
+Denver,Colorado,Chicago,46.1
+Denver,Colorado,Charleston,99.0333
+Denver,Colorado,Cincinnati,55.7167
+Denver,Colorado,Saint Louis,44.1667
+Denver,Colorado,Omaha,23.0
+Denver,Colorado,San Francisco,75.6667
+Pueblo,Colorado,Boston,83.0833
+Pueblo,Colorado,New York,77.2833
+Pueblo,Colorado,Philadelphia,75.1167
+Pueblo,Colorado,Baltimore,71.2833
+Pueblo,Colorado,Washington,70.0
+Pueblo,Colorado,Pittsburgh,64.0167
+Pueblo,Colorado,Chicago,48.7333
+Pueblo,Colorado,Charleston,94.2333
+Pueblo,Colorado,Cincinnati,50.8167
+Pueblo,Colorado,Saint Louis,39.2333
+Pueblo,Colorado,Omaha,29.5833
+Pueblo,Colorado,San Francisco,82.25
+Hartford,Connecticut,Boston,3.6167
+Hartford,Connecticut,New York,3.25
+Hartford,Connecticut,Philadelphia,8.9
+Hartford,Connecticut,Baltimore,12.7333
+Hartford,Connecticut,Washington,14.0167
+Hartford,Connecticut,Pittsburgh,21.4167
+Hartford,Connecticut,Chicago,35.0333
+Hartford,Connecticut,Charleston,37.65
+Hartford,Connecticut,Cincinnati,32.7333
+Hartford,Connecticut,Saint Louis,41.7333
+Hartford,Connecticut,Omaha,61.45
+Hartford,Connecticut,San Francisco,160.45
+New Haven,Connecticut,Boston,4.5667
+New Haven,Connecticut,New York,2.0833
+New Haven,Connecticut,Philadelphia,7.5833
+New Haven,Connecticut,Baltimore,11.4167
+New Haven,Connecticut,Washington,12.7
+New Haven,Connecticut,Pittsburgh,20.1
+New Haven,Connecticut,Chicago,36.9167
+New Haven,Connecticut,Charleston,36.3333
+New Haven,Connecticut,Cincinnati,31.4167
+New Haven,Connecticut,Saint Louis,40.4167
+New Haven,Connecticut,Omaha,66.3333
+New Haven,Connecticut,San Francisco,162.4833
+Willimantic,Connecticut,Boston,2.75
+Willimantic,Connecticut,New York,4.8667
+Willimantic,Connecticut,Philadelphia,11.4167
+Willimantic,Connecticut,Baltimore,17.0833
+Willimantic,Connecticut,Washington,18.6167
+Willimantic,Connecticut,Pittsburgh,22.75
+Willimantic,Connecticut,Chicago,37.75
+Willimantic,Connecticut,Charleston,42.25
+Willimantic,Connecticut,Cincinnati,33.5
+Willimantic,Connecticut,Saint Louis,45.0833
+Willimantic,Connecticut,Omaha,67.1667
+Willimantic,Connecticut,San Francisco,163.1667
+Bismarck,Dakota,Boston,81.9333
+Bismarck,Dakota,New York,79.4167
+Bismarck,Dakota,Philadelphia,77.0833
+Bismarck,Dakota,Baltimore,76.1667
+Bismarck,Dakota,Washington,75.0
+Bismarck,Dakota,Pittsburgh,68.5
+Bismarck,Dakota,Chicago,45.0
+Bismarck,Dakota,Charleston,98.9833
+Bismarck,Dakota,Cincinnati,56.5833
+Bismarck,Dakota,Saint Louis,58.1667
+Bismarck,Dakota,Omaha,43.0
+Bismarck,Dakota,San Francisco,147.9
+Deadwood,Dakota,Boston,124.3
+Deadwood,Dakota,New York,109.6667
+Deadwood,Dakota,Philadelphia,107.3333
+Deadwood,Dakota,Baltimore,114.0
+Deadwood,Dakota,Washington,112.8333
+Deadwood,Dakota,Pittsburgh,96.9167
+Deadwood,Dakota,Chicago,82.0
+Deadwood,Dakota,Charleston,144.4833
+Deadwood,Dakota,Cincinnati,99.75
+Deadwood,Dakota,Saint Louis,99.9167
+Deadwood,Dakota,Omaha,81.4167
+Deadwood,Dakota,San Francisco,127.1
+Yankton,Dakota,Boston,61.9833
+Yankton,Dakota,New York,59.3833
+Yankton,Dakota,Philadelphia,57.05
+Yankton,Dakota,Baltimore,55.2167
+Yankton,Dakota,Washington,54.05
+Yankton,Dakota,Pittsburgh,46.55
+Yankton,Dakota,Chicago,25.05
+Yankton,Dakota,Charleston,78.9833
+Yankton,Dakota,Cincinnati,37.1167
+Yankton,Dakota,Saint Louis,35.8167
+Yankton,Dakota,Omaha,12.9667
+Yankton,Dakota,San Francisco,127.6167
+Dover,Delaware,Boston,20.1667
+Dover,Delaware,New York,5.5833
+Dover,Delaware,Philadelphia,3.0833
+Dover,Delaware,Baltimore,5.1667
+Dover,Delaware,Washington,6.45
+Dover,Delaware,Pittsburgh,17.0833
+Dover,Delaware,Chicago,38.6667
+Dover,Delaware,Charleston,38.8667
+Dover,Delaware,Cincinnati,27.8333
+Dover,Delaware,Saint Louis,37.3
+Dover,Delaware,Omaha,51.9667
+Dover,Delaware,San Francisco,149.2333
+Wilmington,Delaware,Boston,13.9667
+Wilmington,Delaware,New York,4.0833
+Wilmington,Delaware,Philadelphia,1.0833
+Wilmington,Delaware,Baltimore,1.9167
+Wilmington,Delaware,Washington,3.2
+Wilmington,Delaware,Pittsburgh,15.4667
+Wilmington,Delaware,Chicago,37.05
+Wilmington,Delaware,Charleston,28.7
+Wilmington,Delaware,Cincinnati,26.2167
+Wilmington,Delaware,Saint Louis,35.1667
+Wilmington,Delaware,Omaha,49.6667
+Wilmington,Delaware,San Francisco,147.2667
+Washington,Dist. of Columbia,Boston,18.5
+Washington,Dist. of Columbia,New York,6.3333
+Washington,Dist. of Columbia,Philadelphia,4.0
+Washington,Dist. of Columbia,Baltimore,1.3333
+Washington,Dist. of Columbia,Pittsburgh,10.6667
+Washington,Dist. of Columbia,Chicago,25.6667
+Washington,Dist. of Columbia,Charleston,20.0
+Washington,Dist. of Columbia,Cincinnati,18.1667
+Washington,Dist. of Columbia,Saint Louis,30.0
+Washington,Dist. of Columbia,Omaha,48.6667
+Washington,Dist. of Columbia,San Francisco,145.25
+Cedar Keys,Florida,Boston,71.35
+Cedar Keys,Florida,New York,58.25
+Cedar Keys,Florida,Philadelphia,55.8333
+Cedar Keys,Florida,Baltimore,53.1667
+Cedar Keys,Florida,Washington,50.6667
+Cedar Keys,Florida,Pittsburgh,61.9167
+Cedar Keys,Florida,Chicago,83.8333
+Cedar Keys,Florida,Charleston,26.0833
+Cedar Keys,Florida,Cincinnati,71.0
+Cedar Keys,Florida,Saint Louis,83.1667
+Cedar Keys,Florida,Omaha,99.5
+Cedar Keys,Florida,San Francisco,197.0
+Jacksonville,Florida,Boston,54.9167
+Jacksonville,Florida,New York,45.75
+Jacksonville,Florida,Philadelphia,42.4167
+Jacksonville,Florida,Baltimore,38.5833
+Jacksonville,Florida,Washington,36.5
+Jacksonville,Florida,Pittsburgh,48.25
+Jacksonville,Florida,Chicago,69.8333
+Jacksonville,Florida,Charleston,12.1667
+Jacksonville,Florida,Cincinnati,60.0
+Jacksonville,Florida,Saint Louis,72.1667
+Jacksonville,Florida,Omaha,88.5
+Jacksonville,Florida,San Francisco,186.0
+Tallahassee,Florida,Boston,69.4167
+Tallahassee,Florida,New York,60.25
+Tallahassee,Florida,Philadelphia,56.9167
+Tallahassee,Florida,Baltimore,53.0833
+Tallahassee,Florida,Washington,51.0
+Tallahassee,Florida,Pittsburgh,64.0
+Tallahassee,Florida,Chicago,88.0
+Tallahassee,Florida,Charleston,26.6667
+Tallahassee,Florida,Cincinnati,71.0
+Tallahassee,Florida,Saint Louis,83.1667
+Tallahassee,Florida,Omaha,99.3333
+Tallahassee,Florida,San Francisco,196.8333
+Atlanta,Georgia,Boston,50.3333
+Atlanta,Georgia,New York,37.25
+Atlanta,Georgia,Philadelphia,34.8333
+Atlanta,Georgia,Baltimore,32.1667
+Atlanta,Georgia,Washington,26.0833
+Atlanta,Georgia,Pittsburgh,29.25
+Atlanta,Georgia,Chicago,30.75
+Atlanta,Georgia,Charleston,17.4167
+Atlanta,Georgia,Cincinnati,18.0833
+Atlanta,Georgia,Saint Louis,30.9167
+Atlanta,Georgia,Omaha,58.0
+Atlanta,Georgia,San Francisco,150.5
+Augusta,Georgia,Boston,47.0833
+Augusta,Georgia,New York,33.9167
+Augusta,Georgia,Philadelphia,31.5
+Augusta,Georgia,Baltimore,28.8333
+Augusta,Georgia,Washington,25.6667
+Augusta,Georgia,Pittsburgh,36.9167
+Augusta,Georgia,Chicago,49.5833
+Augusta,Georgia,Charleston,6.0
+Augusta,Georgia,Cincinnati,34.0
+Augusta,Georgia,Saint Louis,48.25
+Augusta,Georgia,Omaha,64.5833
+Augusta,Georgia,San Francisco,162.0833
+Macon,Georgia,Boston,55.9167
+Macon,Georgia,New York,46.75
+Macon,Georgia,Philadelphia,43.4167
+Macon,Georgia,Baltimore,39.5833
+Macon,Georgia,Washington,33.3333
+Macon,Georgia,Pittsburgh,47.5
+Macon,Georgia,Chicago,35.5
+Macon,Georgia,Charleston,13.3333
+Macon,Georgia,Cincinnati,23.0
+Macon,Georgia,Saint Louis,34.1667
+Macon,Georgia,Omaha,50.5
+Macon,Georgia,San Francisco,148.0
+Savannah,Georgia,Boston,48.3333
+Savannah,Georgia,New York,39.1667
+Savannah,Georgia,Philadelphia,36.1667
+Savannah,Georgia,Baltimore,32.0
+Savannah,Georgia,Washington,29.9167
+Savannah,Georgia,Pittsburgh,41.6667
+Savannah,Georgia,Chicago,58.1667
+Savannah,Georgia,Charleston,5.5833
+Savannah,Georgia,Cincinnati,44.6667
+Savannah,Georgia,Saint Louis,56.8333
+Savannah,Georgia,Omaha,73.1667
+Savannah,Georgia,San Francisco,170.6667
+Cairo,Illinois,Boston,53.9667
+Cairo,Illinois,New York,41.2167
+Cairo,Illinois,Philadelphia,38.5
+Cairo,Illinois,Baltimore,31.1667
+Cairo,Illinois,Washington,30.0833
+Cairo,Illinois,Pittsburgh,23.25
+Cairo,Illinois,Chicago,15.0
+Cairo,Illinois,Charleston,58.15
+Cairo,Illinois,Cincinnati,15.0833
+Cairo,Illinois,Saint Louis,6.3333
+Cairo,Illinois,Omaha,31.4167
+Cairo,Illinois,San Francisco,130.5167
+Chicago,Illinois,Boston,38.8833
+Chicago,Illinois,New York,26.1667
+Chicago,Illinois,Philadelphia,23.8333
+Chicago,Illinois,Baltimore,29.25
+Chicago,Illinois,Washington,28.0
+Chicago,Illinois,Pittsburgh,14.0
+Chicago,Illinois,Charleston,53.2333
+Chicago,Illinois,Cincinnati,10.5833
+Chicago,Illinois,Saint Louis,10.9167
+Chicago,Illinois,Omaha,21.5
+Chicago,Illinois,San Francisco,121.4
+Rock Island,Illinois,Boston,47.9667
+Rock Island,Illinois,New York,33.4167
+Rock Island,Illinois,Philadelphia,31.0833
+Rock Island,Illinois,Baltimore,37.75
+Rock Island,Illinois,Washington,36.5833
+Rock Island,Illinois,Pittsburgh,20.6667
+Rock Island,Illinois,Chicago,6.5
+Rock Island,Illinois,Charleston,60.3167
+Rock Island,Illinois,Cincinnati,18.0
+Rock Island,Illinois,Saint Louis,11.5833
+Rock Island,Illinois,Omaha,15.4167
+Rock Island,Illinois,San Francisco,116.65
+Springfield,Illinois,Boston,46.9667
+Springfield,Illinois,New York,35.3333
+Springfield,Illinois,Philadelphia,32.75
+Springfield,Illinois,Baltimore,33.5833
+Springfield,Illinois,Washington,32.4167
+Springfield,Illinois,Pittsburgh,21.4167
+Springfield,Illinois,Chicago,7.1667
+Springfield,Illinois,Charleston,54.9167
+Springfield,Illinois,Cincinnati,10.4167
+Springfield,Illinois,Saint Louis,3.5833
+Springfield,Illinois,Omaha,18.4167
+Springfield,Illinois,San Francisco,117.4167
+Evansville,Indiana,Boston,44.0
+Evansville,Indiana,New York,35.0833
+Evansville,Indiana,Philadelphia,32.5833
+Evansville,Indiana,Baltimore,31.9167
+Evansville,Indiana,Washington,33.45
+Evansville,Indiana,Pittsburgh,21.4167
+Evansville,Indiana,Chicago,21.5
+Evansville,Indiana,Charleston,44.6
+Evansville,Indiana,Cincinnati,7.9167
+Evansville,Indiana,Saint Louis,8.0
+Evansville,Indiana,Omaha,24.5
+Evansville,Indiana,San Francisco,120.6667
+Fort Wayne,Indiana,Boston,31.6667
+Fort Wayne,Indiana,New York,25.5833
+Fort Wayne,Indiana,Philadelphia,23.1667
+Fort Wayne,Indiana,Baltimore,22.4167
+Fort Wayne,Indiana,Washington,25.95
+Fort Wayne,Indiana,Pittsburgh,11.5833
+Fort Wayne,Indiana,Chicago,5.3333
+Fort Wayne,Indiana,Charleston,46.75
+Fort Wayne,Indiana,Cincinnati,7.0
+Fort Wayne,Indiana,Saint Louis,11.0833
+Fort Wayne,Indiana,Omaha,29.3333
+Fort Wayne,Indiana,San Francisco,123.1667
+Indianapolis,Indiana,Boston,34.0833
+Indianapolis,Indiana,New York,23.0
+Indianapolis,Indiana,Philadelphia,25.6333
+Indianapolis,Indiana,Baltimore,24.3333
+Indianapolis,Indiana,Washington,25.8667
+Indianapolis,Indiana,Pittsburgh,13.8333
+Indianapolis,Indiana,Chicago,6.9167
+Indianapolis,Indiana,Charleston,47.0167
+Indianapolis,Indiana,Cincinnati,3.5167
+Indianapolis,Indiana,Saint Louis,7.5
+Indianapolis,Indiana,Omaha,21.7167
+Indianapolis,Indiana,San Francisco,118.05
+Vinita,Indian Territory,Boston,60.05
+Vinita,Indian Territory,New York,55.1833
+Vinita,Indian Territory,Philadelphia,53.0167
+Vinita,Indian Territory,Baltimore,49.1
+Vinita,Indian Territory,Washington,47.2333
+Vinita,Indian Territory,Pittsburgh,42.0833
+Vinita,Indian Territory,Chicago,27.8667
+Vinita,Indian Territory,Charleston,72.1
+Vinita,Indian Territory,Cincinnati,28.05
+Vinita,Indian Territory,Saint Louis,17.1333
+Vinita,Indian Territory,Omaha,18.1
+Vinita,Indian Territory,San Francisco,116.45
+Burlington,Iowa,Boston,50.05
+Burlington,Iowa,New York,35.3333
+Burlington,Iowa,Philadelphia,33.0
+Burlington,Iowa,Baltimore,40.5833
+Burlington,Iowa,Washington,39.4167
+Burlington,Iowa,Pittsburgh,20.75
+Burlington,Iowa,Chicago,8.5833
+Burlington,Iowa,Charleston,62.9
+Burlington,Iowa,Cincinnati,17.25
+Burlington,Iowa,Saint Louis,10.25
+Burlington,Iowa,Omaha,12.5
+Burlington,Iowa,San Francisco,113.4833
+Des Moines,Iowa,Boston,56.4667
+Des Moines,Iowa,New York,41.9167
+Des Moines,Iowa,Philadelphia,39.5833
+Des Moines,Iowa,Baltimore,46.3333
+Des Moines,Iowa,Washington,45.0833
+Des Moines,Iowa,Pittsburgh,29.3333
+Des Moines,Iowa,Chicago,15.0
+Des Moines,Iowa,Charleston,68.7333
+Des Moines,Iowa,Cincinnati,27.1667
+Des Moines,Iowa,Saint Louis,13.5833
+Des Moines,Iowa,Omaha,6.8333
+Des Moines,Iowa,San Francisco,106.7333
+Dubuque,Iowa,Boston,48.25
+Dubuque,Iowa,New York,33.75
+Dubuque,Iowa,Philadelphia,31.4167
+Dubuque,Iowa,Baltimore,40.5833
+Dubuque,Iowa,Washington,39.3333
+Dubuque,Iowa,Pittsburgh,31.3333
+Dubuque,Iowa,Chicago,6.9167
+Dubuque,Iowa,Charleston,60.9
+Dubuque,Iowa,Cincinnati,20.3333
+Dubuque,Iowa,Saint Louis,16.1667
+Dubuque,Iowa,Omaha,25.1667
+Dubuque,Iowa,San Francisco,124.9
+Sioux City,Iowa,Boston,60.6833
+Sioux City,Iowa,New York,57.9167
+Sioux City,Iowa,Philadelphia,55.5833
+Sioux City,Iowa,Baltimore,55.1333
+Sioux City,Iowa,Washington,53.9667
+Sioux City,Iowa,Pittsburgh,44.8
+Sioux City,Iowa,Chicago,23.75
+Sioux City,Iowa,Charleston,77.65
+Sioux City,Iowa,Cincinnati,35.05
+Sioux City,Iowa,Saint Louis,26.2333
+Sioux City,Iowa,Omaha,5.7
+Sioux City,Iowa,San Francisco,105.6
+Atchison,Kansas,Boston,52.6
+Atchison,Kansas,New York,47.1167
+Atchison,Kansas,Philadelphia,45.3333
+Atchison,Kansas,Baltimore,45.1667
+Atchison,Kansas,Washington,46.45
+Atchison,Kansas,Pittsburgh,34.9167
+Atchison,Kansas,Chicago,20.75
+Atchison,Kansas,Charleston,69.3667
+Atchison,Kansas,Cincinnati,26.1167
+Atchison,Kansas,Saint Louis,14.7
+Atchison,Kansas,Omaha,6.55
+Atchison,Kansas,San Francisco,108.1167
+Leavenworth,Kansas,Boston,51.5667
+Leavenworth,Kansas,New York,47.3667
+Leavenworth,Kansas,Philadelphia,45.5833
+Leavenworth,Kansas,Baltimore,45.4167
+Leavenworth,Kansas,Washington,46.7833
+Leavenworth,Kansas,Pittsburgh,35.1667
+Leavenworth,Kansas,Chicago,21.0
+Leavenworth,Kansas,Charleston,68.3333
+Leavenworth,Kansas,Cincinnati,25.0833
+Leavenworth,Kansas,Saint Louis,13.6667
+Leavenworth,Kansas,Omaha,7.6667
+Leavenworth,Kansas,San Francisco,109.15
+Topeka,Kansas,Boston,54.6833
+Topeka,Kansas,New York,50.1167
+Topeka,Kansas,Philadelphia,48.3333
+Topeka,Kansas,Baltimore,48.1667
+Topeka,Kansas,Washington,49.45
+Topeka,Kansas,Pittsburgh,37.9167
+Topeka,Kansas,Chicago,23.75
+Topeka,Kansas,Charleston,70.5333
+Topeka,Kansas,Cincinnati,26.95
+Topeka,Kansas,Saint Louis,17.1667
+Topeka,Kansas,Omaha,7.0833
+Topeka,Kansas,San Francisco,107.8333
+Frankfort,Kentucky,Boston,44.8333
+Frankfort,Kentucky,New York,36.4167
+Frankfort,Kentucky,Philadelphia,33.6667
+Frankfort,Kentucky,Baltimore,32.75
+Frankfort,Kentucky,Washington,34.2833
+Frankfort,Kentucky,Pittsburgh,22.25
+Frankfort,Kentucky,Chicago,21.5
+Frankfort,Kentucky,Charleston,43.4167
+Frankfort,Kentucky,Cincinnati,9.4167
+Frankfort,Kentucky,Saint Louis,22.1667
+Frankfort,Kentucky,Omaha,47.5833
+Frankfort,Kentucky,San Francisco,147.5
+Henderson,Kentucky,Boston,45.4167
+Henderson,Kentucky,New York,37.0
+Henderson,Kentucky,Philadelphia,34.25
+Henderson,Kentucky,Baltimore,33.3333
+Henderson,Kentucky,Washington,34.8667
+Henderson,Kentucky,Pittsburgh,22.8333
+Henderson,Kentucky,Chicago,22.6667
+Henderson,Kentucky,Charleston,48.3333
+Henderson,Kentucky,Cincinnati,9.3333
+Henderson,Kentucky,Saint Louis,9.1667
+Henderson,Kentucky,Omaha,26.5
+Henderson,Kentucky,San Francisco,124.0
+Louisville,Kentucky,Boston,39.2667
+Louisville,Kentucky,New York,30.35
+Louisville,Kentucky,Philadelphia,27.9833
+Louisville,Kentucky,Baltimore,26.6667
+Louisville,Kentucky,Washington,28.2
+Louisville,Kentucky,Pittsburgh,16.1833
+Louisville,Kentucky,Chicago,12.0
+Louisville,Kentucky,Charleston,30.9167
+Louisville,Kentucky,Cincinnati,4.0167
+Louisville,Kentucky,Saint Louis,11.0833
+Louisville,Kentucky,Omaha,26.75
+Louisville,Kentucky,San Francisco,122.75
+Morgan City,Louisiana,Boston,74.5833
+Morgan City,Louisiana,New York,65.4167
+Morgan City,Louisiana,Philadelphia,62.0833
+Morgan City,Louisiana,Baltimore,58.25
+Morgan City,Louisiana,Washington,52.0
+Morgan City,Louisiana,Pittsburgh,50.5833
+Morgan City,Louisiana,Chicago,42.0
+Morgan City,Louisiana,Charleston,48.5833
+Morgan City,Louisiana,Cincinnati,38.5833
+Morgan City,Louisiana,Saint Louis,33.3333
+Morgan City,Louisiana,Omaha,57.3333
+Morgan City,Louisiana,San Francisco,156.3333
+New Orleans,Louisiana,Boston,70.6167
+New Orleans,Louisiana,New York,61.45
+New Orleans,Louisiana,Philadelphia,58.1167
+New Orleans,Louisiana,Baltimore,54.2833
+New Orleans,Louisiana,Washington,48.0333
+New Orleans,Louisiana,Pittsburgh,46.9167
+New Orleans,Louisiana,Chicago,38.3333
+New Orleans,Louisiana,Charleston,44.6167
+New Orleans,Louisiana,Cincinnati,34.9167
+New Orleans,Louisiana,Saint Louis,29.6667
+New Orleans,Louisiana,Omaha,50.8333
+New Orleans,Louisiana,San Francisco,148.3333
+Shreveport,Louisiana,Boston,80.0833
+Shreveport,Louisiana,New York,70.7833
+Shreveport,Louisiana,Philadelphia,68.45
+Shreveport,Louisiana,Baltimore,64.5333
+Shreveport,Louisiana,Washington,63.3333
+Shreveport,Louisiana,Pittsburgh,57.35
+Shreveport,Louisiana,Chicago,44.2167
+Shreveport,Louisiana,Charleston,62.7833
+Shreveport,Louisiana,Cincinnati,44.15
+Shreveport,Louisiana,Saint Louis,33.0333
+Shreveport,Louisiana,Omaha,54.3333
+Shreveport,Louisiana,San Francisco,147.7667
+Augusta,Maine,Boston,7.2
+Augusta,Maine,New York,16.05
+Augusta,Maine,Philadelphia,21.0333
+Augusta,Maine,Baltimore,23.8667
+Augusta,Maine,Washington,25.15
+Augusta,Maine,Pittsburgh,34.3333
+Augusta,Maine,Chicago,44.2
+Augusta,Maine,Charleston,45.5333
+Augusta,Maine,Cincinnati,45.0833
+Augusta,Maine,Saint Louis,56.6667
+Augusta,Maine,Omaha,73.6167
+Augusta,Maine,San Francisco,169.6167
+Eastport,Maine,Boston,29.5
+Eastport,Maine,New York,39.3667
+Eastport,Maine,Philadelphia,45.9167
+Eastport,Maine,Baltimore,51.5833
+Eastport,Maine,Washington,53.1167
+Eastport,Maine,Pittsburgh,56.25
+Eastport,Maine,Chicago,67.0
+Eastport,Maine,Charleston,76.75
+Eastport,Maine,Cincinnati,67.0
+Eastport,Maine,Saint Louis,79.5833
+Eastport,Maine,Omaha,106.5833
+Eastport,Maine,San Francisco,202.5833
+Portland,Maine,Boston,4.1667
+Portland,Maine,New York,13.0167
+Portland,Maine,Philadelphia,18.0
+Portland,Maine,Baltimore,19.8333
+Portland,Maine,Washington,21.1167
+Portland,Maine,Pittsburgh,31.25
+Portland,Maine,Chicago,41.1667
+Portland,Maine,Charleston,41.5
+Portland,Maine,Cincinnati,42.0
+Portland,Maine,Saint Louis,53.5833
+Portland,Maine,Omaha,70.5833
+Portland,Maine,San Francisco,166.5833
+Annapolis,Maryland,Boston,18.65
+Annapolis,Maryland,New York,6.9
+Annapolis,Maryland,Philadelphia,4.2333
+Annapolis,Maryland,Baltimore,1.9
+Annapolis,Maryland,Washington,1.8333
+Annapolis,Maryland,Pittsburgh,10.1667
+Annapolis,Maryland,Chicago,26.15
+Annapolis,Maryland,Charleston,23.65
+Annapolis,Maryland,Cincinnati,21.15
+Annapolis,Maryland,Saint Louis,33.15
+Annapolis,Maryland,Omaha,49.2333
+Annapolis,Maryland,San Francisco,144.8167
+Baltimore,Maryland,Boston,16.75
+Baltimore,Maryland,New York,5.0
+Baltimore,Maryland,Philadelphia,2.3333
+Baltimore,Maryland,Washington,1.3333
+Baltimore,Maryland,Pittsburgh,8.2667
+Baltimore,Maryland,Chicago,24.8
+Baltimore,Maryland,Charleston,21.75
+Baltimore,Maryland,Cincinnati,19.25
+Baltimore,Maryland,Saint Louis,31.25
+Baltimore,Maryland,Omaha,47.3333
+Baltimore,Maryland,San Francisco,142.9167
+Cumberland,Maryland,Boston,27.0
+Cumberland,Maryland,New York,14.0
+Cumberland,Maryland,Philadelphia,9.7833
+Cumberland,Maryland,Baltimore,5.3333
+Cumberland,Maryland,Washington,4.3333
+Cumberland,Maryland,Pittsburgh,6.05
+Cumberland,Maryland,Chicago,27.3
+Cumberland,Maryland,Charleston,25.2167
+Cumberland,Maryland,Cincinnati,12.65
+Cumberland,Maryland,Saint Louis,25.1667
+Cumberland,Maryland,Omaha,41.1667
+Cumberland,Maryland,San Francisco,136.75
+Boston,Massachusetts,New York,6.35
+Boston,Massachusetts,Philadelphia,11.6667
+Boston,Massachusetts,Baltimore,15.5
+Boston,Massachusetts,Washington,16.7833
+Boston,Massachusetts,Pittsburgh,20.25
+Boston,Massachusetts,Chicago,36.1667
+Boston,Massachusetts,Charleston,37.1667
+Boston,Massachusetts,Cincinnati,31.0
+Boston,Massachusetts,Saint Louis,42.5833
+Boston,Massachusetts,Omaha,65.5833
+Boston,Massachusetts,San Francisco,161.5833
+Springfield,Massachusetts,Boston,2.7
+Springfield,Massachusetts,New York,3.7167
+Springfield,Massachusetts,Philadelphia,12.4167
+Springfield,Massachusetts,Baltimore,15.25
+Springfield,Massachusetts,Washington,16.5333
+Springfield,Massachusetts,Pittsburgh,22.2333
+Springfield,Massachusetts,Chicago,32.6667
+Springfield,Massachusetts,Charleston,36.9167
+Springfield,Massachusetts,Cincinnati,30.3
+Springfield,Massachusetts,Saint Louis,41.7167
+Springfield,Massachusetts,Omaha,62.0833
+Springfield,Massachusetts,San Francisco,158.0833
+Bay City,Michigan,Boston,30.1667
+Bay City,Michigan,New York,27.0
+Bay City,Michigan,Philadelphia,28.9167
+Bay City,Michigan,Baltimore,31.1667
+Bay City,Michigan,Washington,32.6167
+Bay City,Michigan,Pittsburgh,19.75
+Bay City,Michigan,Chicago,12.6667
+Bay City,Michigan,Charleston,58.9167
+Bay City,Michigan,Cincinnati,18.75
+Bay City,Michigan,Saint Louis,24.0833
+Bay City,Michigan,Omaha,33.1667
+Bay City,Michigan,San Francisco,135.2833
+Detroit,Michigan,Boston,26.6667
+Detroit,Michigan,New York,21.4167
+Detroit,Michigan,Philadelphia,23.0
+Detroit,Michigan,Baltimore,24.0
+Detroit,Michigan,Washington,25.5333
+Detroit,Michigan,Pittsburgh,12.0833
+Detroit,Michigan,Chicago,10.0833
+Detroit,Michigan,Charleston,47.7
+Detroit,Michigan,Cincinnati,11.3333
+Detroit,Michigan,Saint Louis,17.1667
+Detroit,Michigan,Omaha,32.2833
+Detroit,Michigan,San Francisco,131.0333
+Kalamazoo,Michigan,Boston,31.75
+Kalamazoo,Michigan,New York,29.0333
+Kalamazoo,Michigan,Philadelphia,29.55
+Kalamazoo,Michigan,Baltimore,28.8333
+Kalamazoo,Michigan,Washington,30.1667
+Kalamazoo,Michigan,Pittsburgh,17.55
+Kalamazoo,Michigan,Chicago,5.25
+Kalamazoo,Michigan,Charleston,52.3333
+Kalamazoo,Michigan,Cincinnati,11.55
+Kalamazoo,Michigan,Saint Louis,16.6667
+Kalamazoo,Michigan,Omaha,27.3667
+Kalamazoo,Michigan,San Francisco,126.2
+Lansing,Michigan,Boston,32.5833
+Lansing,Michigan,New York,26.9167
+Lansing,Michigan,Philadelphia,28.5
+Lansing,Michigan,Baltimore,31.5
+Lansing,Michigan,Washington,32.8333
+Lansing,Michigan,Pittsburgh,20.1667
+Lansing,Michigan,Chicago,8.4167
+Lansing,Michigan,Charleston,55.6667
+Lansing,Michigan,Cincinnati,17.8333
+Lansing,Michigan,Saint Louis,20.0
+Lansing,Michigan,Omaha,30.5333
+Lansing,Michigan,San Francisco,129.3667
+Duluth,Minnesota,Boston,72.2167
+Duluth,Minnesota,New York,57.6667
+Duluth,Minnesota,Philadelphia,55.3333
+Duluth,Minnesota,Baltimore,62.0667
+Duluth,Minnesota,Washington,60.8167
+Duluth,Minnesota,Pittsburgh,44.8833
+Duluth,Minnesota,Chicago,30.0
+Duluth,Minnesota,Charleston,92.4833
+Duluth,Minnesota,Cincinnati,47.7167
+Duluth,Minnesota,Saint Louis,47.6333
+Duluth,Minnesota,Omaha,25.4667
+Duluth,Minnesota,San Francisco,125.5667
+St. Paul,Minnesota,Boston,60.2167
+St. Paul,Minnesota,New York,45.6667
+St. Paul,Minnesota,Philadelphia,43.3333
+St. Paul,Minnesota,Baltimore,50.0667
+St. Paul,Minnesota,Washington,48.8167
+St. Paul,Minnesota,Pittsburgh,33.25
+St. Paul,Minnesota,Chicago,18.0
+St. Paul,Minnesota,Charleston,80.4833
+St. Paul,Minnesota,Cincinnati,29.3833
+St. Paul,Minnesota,Saint Louis,25.5833
+St. Paul,Minnesota,Omaha,17.55
+St. Paul,Minnesota,San Francisco,117.7333
+Winona,Minnesota,Boston,56.2167
+Winona,Minnesota,New York,41.4833
+Winona,Minnesota,Philadelphia,39.15
+Winona,Minnesota,Baltimore,45.2333
+Winona,Minnesota,Washington,43.9833
+Winona,Minnesota,Pittsburgh,28.4167
+Winona,Minnesota,Chicago,13.8167
+Winona,Minnesota,Charleston,78.2167
+Winona,Minnesota,Cincinnati,25.2333
+Winona,Minnesota,Saint Louis,21.5667
+Winona,Minnesota,Omaha,24.75
+Winona,Minnesota,San Francisco,124.85
+Jackson,Mississippi,Boston,62.3
+Jackson,Mississippi,New York,55.55
+Jackson,Mississippi,Philadelphia,51.7167
+Jackson,Mississippi,Baltimore,51.0
+Jackson,Mississippi,Washington,48.6667
+Jackson,Mississippi,Pittsburgh,55.4667
+Jackson,Mississippi,Chicago,30.8833
+Jackson,Mississippi,Charleston,54.4167
+Jackson,Mississippi,Cincinnati,41.9667
+Jackson,Mississippi,Saint Louis,22.3
+Jackson,Mississippi,Omaha,42.1667
+Jackson,Mississippi,San Francisco,139.6667
+Vicksburgh,Mississippi,Boston,69.9167
+Vicksburgh,Mississippi,New York,62.6667
+Vicksburgh,Mississippi,Philadelphia,58.9667
+Vicksburgh,Mississippi,Baltimore,54.0833
+Vicksburgh,Mississippi,Washington,51.75
+Vicksburgh,Mississippi,Pittsburgh,62.3
+Vicksburgh,Mississippi,Chicago,37.8833
+Vicksburgh,Mississippi,Charleston,59.5
+Vicksburgh,Mississippi,Cincinnati,48.8833
+Vicksburgh,Mississippi,Saint Louis,29.3
+Vicksburgh,Mississippi,Omaha,46.9167
+Vicksburgh,Mississippi,San Francisco,144.4167
+Hannibal,Missouri,Boston,44.3833
+Hannibal,Missouri,New York,39.2667
+Hannibal,Missouri,Philadelphia,36.0833
+Hannibal,Missouri,Baltimore,37.5833
+Hannibal,Missouri,Washington,37.8833
+Hannibal,Missouri,Pittsburgh,24.9833
+Hannibal,Missouri,Chicago,18.9167
+Hannibal,Missouri,Charleston,59.0167
+Hannibal,Missouri,Cincinnati,14.3667
+Hannibal,Missouri,Saint Louis,6.5833
+Hannibal,Missouri,Omaha,15.4167
+Hannibal,Missouri,San Francisco,121.5667
+Jefferson City,Missouri,Boston,48.1833
+Jefferson City,Missouri,New York,42.9167
+Jefferson City,Missouri,Philadelphia,40.75
+Jefferson City,Missouri,Baltimore,36.6667
+Jefferson City,Missouri,Washington,35.4667
+Jefferson City,Missouri,Pittsburgh,29.65
+Jefferson City,Missouri,Chicago,18.0
+Jefferson City,Missouri,Charleston,59.7
+Jefferson City,Missouri,Cincinnati,16.2833
+Jefferson City,Missouri,Saint Louis,5.0
+Jefferson City,Missouri,Omaha,17.8333
+Jefferson City,Missouri,San Francisco,119.7
+Kansas City,Missouri,Boston,49.35
+Kansas City,Missouri,New York,46.6
+Kansas City,Missouri,Philadelphia,44.3333
+Kansas City,Missouri,Baltimore,44.1667
+Kansas City,Missouri,Washington,45.45
+Kansas City,Missouri,Pittsburgh,33.9167
+Kansas City,Missouri,Chicago,19.75
+Kansas City,Missouri,Charleston,66.5333
+Kansas City,Missouri,Cincinnati,22.1167
+Kansas City,Missouri,Saint Louis,11.3667
+Kansas City,Missouri,Omaha,8.8333
+Kansas City,Missouri,San Francisco,111.45
+St. Louis,Missouri,Boston,42.9667
+St. Louis,Missouri,New York,35.4167
+St. Louis,Missouri,Philadelphia,34.25
+St. Louis,Missouri,Baltimore,30.1667
+St. Louis,Missouri,Washington,28.9667
+St. Louis,Missouri,Pittsburgh,23.15
+St. Louis,Missouri,Chicago,11.5
+St. Louis,Missouri,Charleston,58.2
+St. Louis,Missouri,Cincinnati,9.7833
+St. Louis,Missouri,Omaha,15.7167
+St. Louis,Missouri,San Francisco,118.4
+Lincoln,Nebraska,Boston,64.3
+Lincoln,Nebraska,New York,52.1167
+Lincoln,Nebraska,Philadelphia,49.7833
+Lincoln,Nebraska,Baltimore,55.1167
+Lincoln,Nebraska,Washington,53.95
+Lincoln,Nebraska,Pittsburgh,47.95
+Lincoln,Nebraska,Chicago,22.25
+Lincoln,Nebraska,Charleston,80.9
+Lincoln,Nebraska,Cincinnati,34.75
+Lincoln,Nebraska,Saint Louis,22.6167
+Lincoln,Nebraska,Omaha,2.6667
+Lincoln,Nebraska,San Francisco,97.0167
+Omaha,Nebraska,Boston,62.9667
+Omaha,Nebraska,New York,49.9167
+Omaha,Nebraska,Philadelphia,47.5833
+Omaha,Nebraska,Baltimore,46.0
+Omaha,Nebraska,Washington,45.8333
+Omaha,Nebraska,Pittsburgh,30.1667
+Omaha,Nebraska,Chicago,21.5
+Omaha,Nebraska,Charleston,71.4833
+Omaha,Nebraska,Cincinnati,27.3
+Omaha,Nebraska,Saint Louis,15.1667
+Omaha,Nebraska,San Francisco,97.0833
+Carson City,Nevada,Boston,146.25
+Carson City,Nevada,New York,129.4167
+Carson City,Nevada,Philadelphia,130.4167
+Carson City,Nevada,Baltimore,130.3333
+Carson City,Nevada,Washington,131.8667
+Carson City,Nevada,Pittsburgh,117.4167
+Carson City,Nevada,Chicago,102.6667
+Carson City,Nevada,Charleston,154.8667
+Carson City,Nevada,Cincinnati,106.25
+Carson City,Nevada,Saint Louis,95.4167
+Carson City,Nevada,Omaha,79.3333
+Carson City,Nevada,San Francisco,30.35
+Elko,Nevada,Boston,134.4167
+Elko,Nevada,New York,117.5833
+Elko,Nevada,Philadelphia,118.5833
+Elko,Nevada,Baltimore,118.5
+Elko,Nevada,Washington,120.0333
+Elko,Nevada,Pittsburgh,105.5833
+Elko,Nevada,Chicago,90.8333
+Elko,Nevada,Charleston,143.0333
+Elko,Nevada,Cincinnati,94.4167
+Elko,Nevada,Saint Louis,83.5833
+Elko,Nevada,Omaha,67.5
+Elko,Nevada,San Francisco,27.6833
+Concord,New Hampshire,Boston,2.8333
+Concord,New Hampshire,New York,10.8667
+Concord,New Hampshire,Philadelphia,18.4167
+Concord,New Hampshire,Baltimore,23.0833
+Concord,New Hampshire,Washington,24.6167
+Concord,New Hampshire,Pittsburgh,27.75
+Concord,New Hampshire,Chicago,38.5833
+Concord,New Hampshire,Charleston,45.1667
+Concord,New Hampshire,Cincinnati,38.5
+Concord,New Hampshire,Saint Louis,50.0833
+Concord,New Hampshire,Omaha,68.0
+Concord,New Hampshire,San Francisco,166.0
+Cape May,New Jersey,Boston,22.5833
+Cape May,New Jersey,New York,6.25
+Cape May,New Jersey,Philadelphia,2.6667
+Cape May,New Jersey,Baltimore,9.9167
+Cape May,New Jersey,Washington,10.2833
+Cape May,New Jersey,Pittsburgh,17.25
+Cape May,New Jersey,Chicago,38.8333
+Cape May,New Jersey,Charleston,33.4167
+Cape May,New Jersey,Cincinnati,28.0
+Cape May,New Jersey,Saint Louis,37.3333
+Cape May,New Jersey,Omaha,51.6667
+Cape May,New Jersey,San Francisco,147.6667
+Trenton,New Jersey,Boston,11.75
+Trenton,New Jersey,New York,1.5
+Trenton,New Jersey,Philadelphia,1.0833
+Trenton,New Jersey,Baltimore,4.8333
+Trenton,New Jersey,Washington,6.2
+Trenton,New Jersey,Pittsburgh,11.25
+Trenton,New Jersey,Chicago,32.8333
+Trenton,New Jersey,Charleston,33.5
+Trenton,New Jersey,Cincinnati,22.0
+Trenton,New Jersey,Saint Louis,31.4167
+Trenton,New Jersey,Omaha,45.75
+Trenton,New Jersey,San Francisco,141.75
+Mesilla,New Mexico,Boston,113.8333
+Mesilla,New Mexico,New York,107.2833
+Mesilla,New Mexico,Philadelphia,104.1167
+Mesilla,New Mexico,Baltimore,107.7
+Mesilla,New Mexico,Washington,106.5333
+Mesilla,New Mexico,Pittsburgh,94.0167
+Mesilla,New Mexico,Chicago,82.7
+Mesilla,New Mexico,Charleston,24.0667
+Mesilla,New Mexico,Cincinnati,82.65
+Mesilla,New Mexico,Saint Louis,69.9
+Mesilla,New Mexico,Omaha,66.75
+Mesilla,New Mexico,San Francisco,60.65
+Santa Fe,New Mexico,Boston,100.0833
+Santa Fe,New Mexico,New York,93.5333
+Santa Fe,New Mexico,Philadelphia,90.3667
+Santa Fe,New Mexico,Baltimore,93.95
+Santa Fe,New Mexico,Washington,92.7833
+Santa Fe,New Mexico,Pittsburgh,80.2667
+Santa Fe,New Mexico,Chicago,68.95
+Santa Fe,New Mexico,Charleston,110.3167
+Santa Fe,New Mexico,Cincinnati,68.9
+Santa Fe,New Mexico,Saint Louis,56.15
+Santa Fe,New Mexico,Omaha,53.0
+Santa Fe,New Mexico,San Francisco,71.6833
+Albany,New York,Boston,7.3333
+Albany,New York,New York,4.0833
+Albany,New York,Philadelphia,8.25
+Albany,New York,Baltimore,13.0833
+Albany,New York,Washington,14.6167
+Albany,New York,Pittsburgh,18.5833
+Albany,New York,Chicago,29.0
+Albany,New York,Charleston,37.75
+Albany,New York,Cincinnati,26.5
+Albany,New York,Saint Louis,31.0
+Albany,New York,Omaha,56.6667
+Albany,New York,San Francisco,154.4167
+Buffalo,New York,Boston,17.4167
+Buffalo,New York,New York,13.5833
+Buffalo,New York,Philadelphia,17.25
+Buffalo,New York,Baltimore,17.3333
+Buffalo,New York,Washington,18.7
+Buffalo,New York,Pittsburgh,14.0833
+Buffalo,New York,Chicago,19.5833
+Buffalo,New York,Charleston,41.3333
+Buffalo,New York,Cincinnati,17.3333
+Buffalo,New York,Saint Louis,23.0833
+Buffalo,New York,Omaha,45.75
+Buffalo,New York,San Francisco,143.5
+New York,New York,Boston,6.75
+New York,New York,Philadelphia,2.0
+New York,New York,Baltimore,5.4167
+New York,New York,Washington,6.7
+New York,New York,Pittsburgh,11.3167
+New York,New York,Chicago,25.6667
+New York,New York,Charleston,27.0833
+New York,New York,Cincinnati,23.5833
+New York,New York,Saint Louis,35.5
+New York,New York,Omaha,61.5
+New York,New York,San Francisco,159.25
+Rome,New York,Boston,10.75
+Rome,New York,New York,7.8667
+Rome,New York,Philadelphia,12.0
+Rome,New York,Baltimore,17.6667
+Rome,New York,Washington,19.2
+Rome,New York,Pittsburgh,22.3333
+Rome,New York,Chicago,25.4667
+Rome,New York,Charleston,42.0833
+Rome,New York,Cincinnati,23.3667
+Rome,New York,Saint Louis,27.9667
+Rome,New York,Omaha,54.3333
+Rome,New York,San Francisco,152.0833
+West Point,New York,Boston,8.25
+West Point,New York,New York,1.5
+West Point,New York,Philadelphia,5.4167
+West Point,New York,Baltimore,10.9167
+West Point,New York,Washington,12.45
+West Point,New York,Pittsburgh,15.75
+West Point,New York,Chicago,32.0
+West Point,New York,Charleston,36.3333
+West Point,New York,Cincinnati,26.5
+West Point,New York,Saint Louis,33.8333
+West Point,New York,Omaha,65.5333
+West Point,New York,San Francisco,162.5333
+Charlotte,North Carolina,Boston,33.6667
+Charlotte,North Carolina,New York,25.6667
+Charlotte,North Carolina,Philadelphia,19.3333
+Charlotte,North Carolina,Baltimore,15.3333
+Charlotte,North Carolina,Washington,14.0
+Charlotte,North Carolina,Pittsburgh,24.6667
+Charlotte,North Carolina,Chicago,35.6667
+Charlotte,North Carolina,Charleston,11.75
+Charlotte,North Carolina,Cincinnati,32.1667
+Charlotte,North Carolina,Saint Louis,44.0
+Charlotte,North Carolina,Omaha,62.75
+Charlotte,North Carolina,San Francisco,158.1667
+Raleigh,North Carolina,Boston,32.2333
+Raleigh,North Carolina,New York,24.2333
+Raleigh,North Carolina,Philadelphia,20.2333
+Raleigh,North Carolina,Baltimore,18.7333
+Raleigh,North Carolina,Washington,14.6167
+Raleigh,North Carolina,Pittsburgh,25.2833
+Raleigh,North Carolina,Chicago,40.2833
+Raleigh,North Carolina,Charleston,18.9667
+Raleigh,North Carolina,Cincinnati,32.7833
+Raleigh,North Carolina,Saint Louis,44.6167
+Raleigh,North Carolina,Omaha,63.2833
+Raleigh,North Carolina,San Francisco,158.8667
+Wilmington,North Carolina,Boston,35.6667
+Wilmington,North Carolina,New York,27.6667
+Wilmington,North Carolina,Philadelphia,19.1333
+Wilmington,North Carolina,Baltimore,17.3
+Wilmington,North Carolina,Washington,15.9667
+Wilmington,North Carolina,Pittsburgh,26.6333
+Wilmington,North Carolina,Chicago,41.6333
+Wilmington,North Carolina,Charleston,7.8333
+Wilmington,North Carolina,Cincinnati,34.1333
+Wilmington,North Carolina,Saint Louis,45.9667
+Wilmington,North Carolina,Omaha,64.6333
+Wilmington,North Carolina,San Francisco,160.2167
+Cincinnati,Ohio,Boston,32.9167
+Cincinnati,Ohio,New York,22.6667
+Cincinnati,Ohio,Philadelphia,20.5
+Cincinnati,Ohio,Baltimore,22.4167
+Cincinnati,Ohio,Washington,21.4167
+Cincinnati,Ohio,Pittsburgh,10.75
+Cincinnati,Ohio,Chicago,11.1667
+Cincinnati,Ohio,Charleston,44.8333
+Cincinnati,Ohio,Saint Louis,10.0
+Cincinnati,Ohio,Omaha,26.9167
+Cincinnati,Ohio,San Francisco,123.75
+Cleveland,Ohio,Boston,23.1667
+Cleveland,Ohio,New York,19.5
+Cleveland,Ohio,Philadelphia,17.0833
+Cleveland,Ohio,Baltimore,16.9167
+Cleveland,Ohio,Washington,15.9167
+Cleveland,Ohio,Pittsburgh,6.4167
+Cleveland,Ohio,Chicago,10.5
+Cleveland,Ohio,Charleston,41.9167
+Cleveland,Ohio,Cincinnati,9.5
+Cleveland,Ohio,Saint Louis,18.1667
+Cleveland,Ohio,Omaha,33.8667
+Cleveland,Ohio,San Francisco,132.7
+Columbus,Ohio,Boston,29.1667
+Columbus,Ohio,New York,21.1667
+Columbus,Ohio,Philadelphia,18.8333
+Columbus,Ohio,Baltimore,17.6667
+Columbus,Ohio,Washington,18.1667
+Columbus,Ohio,Pittsburgh,7.0
+Columbus,Ohio,Chicago,15.3333
+Columbus,Ohio,Charleston,43.8333
+Columbus,Ohio,Cincinnati,4.3333
+Columbus,Ohio,Saint Louis,13.5833
+Columbus,Ohio,Omaha,27.3333
+Columbus,Ohio,San Francisco,124.0
+Toledo,Ohio,Boston,27.75
+Toledo,Ohio,New York,24.5833
+Toledo,Ohio,Philadelphia,25.0
+Toledo,Ohio,Baltimore,21.1667
+Toledo,Ohio,Washington,20.1667
+Toledo,Ohio,Pittsburgh,13.0
+Toledo,Ohio,Chicago,8.3167
+Toledo,Ohio,Charleston,45.5
+Toledo,Ohio,Cincinnati,7.4167
+Toledo,Ohio,Saint Louis,14.9167
+Toledo,Ohio,Omaha,30.4333
+Toledo,Ohio,San Francisco,129.2667
+Harrisburg,Pennsylvania,Boston,15.5833
+Harrisburg,Pennsylvania,New York,5.8333
+Harrisburg,Pennsylvania,Philadelphia,3.0833
+Harrisburg,Pennsylvania,Baltimore,3.3333
+Harrisburg,Pennsylvania,Washington,4.3667
+Harrisburg,Pennsylvania,Pittsburgh,6.9167
+Harrisburg,Pennsylvania,Chicago,28.5
+Harrisburg,Pennsylvania,Charleston,26.8333
+Harrisburg,Pennsylvania,Cincinnati,17.6667
+Harrisburg,Pennsylvania,Saint Louis,29.1667
+Harrisburg,Pennsylvania,Omaha,43.0
+Harrisburg,Pennsylvania,San Francisco,141.15
+Philadelphia,Pennsylvania,Boston,11.75
+Philadelphia,Pennsylvania,New York,2.0
+Philadelphia,Pennsylvania,Baltimore,2.5
+Philadelphia,Pennsylvania,Washington,4.0333
+Philadelphia,Pennsylvania,Pittsburgh,9.0667
+Philadelphia,Pennsylvania,Chicago,23.4167
+Philadelphia,Pennsylvania,Charleston,24.4167
+Philadelphia,Pennsylvania,Cincinnati,20.9167
+Philadelphia,Pennsylvania,Saint Louis,32.0
+Philadelphia,Pennsylvania,Omaha,45.9167
+Philadelphia,Pennsylvania,San Francisco,143.9167
+Pittsburgh,Pennsylvania,Boston,23.0
+Pittsburgh,Pennsylvania,New York,12.8167
+Pittsburgh,Pennsylvania,Philadelphia,10.4833
+Pittsburgh,Pennsylvania,Baltimore,10.2333
+Pittsburgh,Pennsylvania,Washington,11.4833
+Pittsburgh,Pennsylvania,Chicago,13.9833
+Pittsburgh,Pennsylvania,Charleston,35.0833
+Pittsburgh,Pennsylvania,Cincinnati,10.75
+Pittsburgh,Pennsylvania,Saint Louis,20.3333
+Pittsburgh,Pennsylvania,Omaha,34.25
+Pittsburgh,Pennsylvania,San Francisco,132.25
+Williamsport,Pennsylvania,Boston,20.0833
+Williamsport,Pennsylvania,New York,10.3333
+Williamsport,Pennsylvania,Philadelphia,7.3333
+Williamsport,Pennsylvania,Baltimore,7.4167
+Williamsport,Pennsylvania,Washington,8.7833
+Williamsport,Pennsylvania,Pittsburgh,14.9333
+Williamsport,Pennsylvania,Chicago,36.5167
+Williamsport,Pennsylvania,Charleston,31.25
+Williamsport,Pennsylvania,Cincinnati,25.6833
+Williamsport,Pennsylvania,Saint Louis,35.0
+Williamsport,Pennsylvania,Omaha,39.3333
+Williamsport,Pennsylvania,San Francisco,135.8333
+Newport,Rhode Island,Boston,2.4167
+Newport,Rhode Island,New York,6.5
+Newport,Rhode Island,Philadelphia,11.1667
+Newport,Rhode Island,Baltimore,15.5833
+Newport,Rhode Island,Washington,17.1167
+Newport,Rhode Island,Pittsburgh,26.25
+Newport,Rhode Island,Chicago,41.1667
+Newport,Rhode Island,Charleston,40.75
+Newport,Rhode Island,Cincinnati,37.0
+Newport,Rhode Island,Saint Louis,48.5833
+Newport,Rhode Island,Omaha,70.5833
+Newport,Rhode Island,San Francisco,166.5833
+Providence,Rhode Island,Boston,1.4167
+Providence,Rhode Island,New York,5.35
+Providence,Rhode Island,Philadelphia,10.1667
+Providence,Rhode Island,Baltimore,14.5833
+Providence,Rhode Island,Washington,16.1167
+Providence,Rhode Island,Pittsburgh,24.0167
+Providence,Rhode Island,Chicago,38.0833
+Providence,Rhode Island,Charleston,39.75
+Providence,Rhode Island,Cincinnati,35.3333
+Providence,Rhode Island,Saint Louis,44.3333
+Providence,Rhode Island,Omaha,67.5
+Providence,Rhode Island,San Francisco,163.5
+Charleston,South Carolina,Boston,43.9167
+Charleston,South Carolina,New York,34.75
+Charleston,South Carolina,Philadelphia,31.5
+Charleston,South Carolina,Baltimore,27.3333
+Charleston,South Carolina,Washington,25.25
+Charleston,South Carolina,Pittsburgh,37.0
+Charleston,South Carolina,Chicago,56.75
+Charleston,South Carolina,Cincinnati,43.25
+Charleston,South Carolina,Saint Louis,55.4167
+Charleston,South Carolina,Omaha,71.75
+Charleston,South Carolina,San Francisco,169.25
+Columbia,South Carolina,Boston,41.5833
+Columbia,South Carolina,New York,32.4167
+Columbia,South Carolina,Philadelphia,29.4167
+Columbia,South Carolina,Baltimore,25.25
+Columbia,South Carolina,Washington,21.6833
+Columbia,South Carolina,Pittsburgh,36.6667
+Columbia,South Carolina,Chicago,49.3333
+Columbia,South Carolina,Charleston,4.5
+Columbia,South Carolina,Cincinnati,36.6667
+Columbia,South Carolina,Saint Louis,49.25
+Columbia,South Carolina,Omaha,65.25
+Columbia,South Carolina,San Francisco,162.75
+Port Royal,South Carolina,Boston,47.5833
+Port Royal,South Carolina,New York,33.4167
+Port Royal,South Carolina,Philadelphia,35.4167
+Port Royal,South Carolina,Baltimore,31.25
+Port Royal,South Carolina,Washington,29.1667
+Port Royal,South Carolina,Pittsburgh,41.0
+Port Royal,South Carolina,Chicago,60.75
+Port Royal,South Carolina,Charleston,4.8333
+Port Royal,South Carolina,Cincinnati,47.25
+Port Royal,South Carolina,Saint Louis,59.4167
+Port Royal,South Carolina,Omaha,75.75
+Port Royal,South Carolina,San Francisco,173.25
+Chattanooga,Tennessee,Boston,46.75
+Chattanooga,Tennessee,New York,35.0833
+Chattanooga,Tennessee,Philadelphia,31.75
+Chattanooga,Tennessee,Baltimore,27.9167
+Chattanooga,Tennessee,Washington,25.5833
+Chattanooga,Tennessee,Pittsburgh,26.8333
+Chattanooga,Tennessee,Chicago,26.0
+Chattanooga,Tennessee,Charleston,23.0
+Chattanooga,Tennessee,Cincinnati,11.5
+Chattanooga,Tennessee,Saint Louis,26.1667
+Chattanooga,Tennessee,Omaha,41.0833
+Chattanooga,Tennessee,San Francisco,137.0833
+Knoxville,Tennessee,Boston,42.5833
+Knoxville,Tennessee,New York,30.9167
+Knoxville,Tennessee,Philadelphia,27.5833
+Knoxville,Tennessee,Baltimore,23.75
+Knoxville,Tennessee,Washington,18.4167
+Knoxville,Tennessee,Pittsburgh,39.3833
+Knoxville,Tennessee,Chicago,39.3
+Knoxville,Tennessee,Charleston,34.7
+Knoxville,Tennessee,Cincinnati,26.8
+Knoxville,Tennessee,Saint Louis,37.9667
+Knoxville,Tennessee,Omaha,54.4667
+Knoxville,Tennessee,San Francisco,150.4667
+Memphis,Tennessee,Boston,56.1667
+Memphis,Tennessee,New York,47.0
+Memphis,Tennessee,Philadelphia,43.6667
+Memphis,Tennessee,Baltimore,39.8333
+Memphis,Tennessee,Washington,37.5
+Memphis,Tennessee,Pittsburgh,32.6667
+Memphis,Tennessee,Chicago,44.3333
+Memphis,Tennessee,Charleston,44.3333
+Memphis,Tennessee,Cincinnati,20.5
+Memphis,Tennessee,Saint Louis,30.8333
+Memphis,Tennessee,Omaha,46.8333
+Memphis,Tennessee,San Francisco,145.0
+Nashville,Tennessee,Boston,45.6667
+Nashville,Tennessee,New York,38.0833
+Nashville,Tennessee,Philadelphia,35.0833
+Nashville,Tennessee,Baltimore,35.1667
+Nashville,Tennessee,Washington,36.5
+Nashville,Tennessee,Pittsburgh,23.0833
+Nashville,Tennessee,Chicago,17.8333
+Nashville,Tennessee,Charleston,28.9167
+Nashville,Tennessee,Cincinnati,11.1667
+Nashville,Tennessee,Saint Louis,21.3333
+Nashville,Tennessee,Omaha,40.5
+Nashville,Tennessee,San Francisco,133.6667
+Austin,Texas,Boston,93.1333
+Austin,Texas,New York,86.5833
+Austin,Texas,Philadelphia,84.4167
+Austin,Texas,Baltimore,80.1667
+Austin,Texas,Washington,59.1333
+Austin,Texas,Pittsburgh,78.3167
+Austin,Texas,Chicago,61.6667
+Austin,Texas,Charleston,84.1167
+Austin,Texas,Cincinnati,59.95
+Austin,Texas,Saint Louis,50.1667
+Austin,Texas,Omaha,65.8833
+Austin,Texas,San Francisco,165.5667
+Galveston,Texas,Boston,93.2167
+Galveston,Texas,New York,86.6667
+Galveston,Texas,Philadelphia,84.5
+Galveston,Texas,Baltimore,80.25
+Galveston,Texas,Washington,59.2
+Galveston,Texas,Pittsburgh,73.4
+Galveston,Texas,Chicago,61.75
+Galveston,Texas,Charleston,84.2
+Galveston,Texas,Cincinnati,60.0333
+Galveston,Texas,Saint Louis,50.25
+Galveston,Texas,Omaha,65.9667
+Galveston,Texas,San Francisco,165.65
+San Antonio,Texas,Boston,97.1333
+San Antonio,Texas,New York,90.5833
+San Antonio,Texas,Philadelphia,88.4167
+San Antonio,Texas,Baltimore,84.1667
+San Antonio,Texas,Washington,63.1333
+San Antonio,Texas,Pittsburgh,77.3167
+San Antonio,Texas,Chicago,65.6667
+San Antonio,Texas,Charleston,88.1167
+San Antonio,Texas,Cincinnati,63.95
+San Antonio,Texas,Saint Louis,54.1667
+San Antonio,Texas,Omaha,69.8833
+San Antonio,Texas,San Francisco,169.5667
+Sherman,Texas,Boston,71.7167
+Sherman,Texas,New York,65.1667
+Sherman,Texas,Philadelphia,63.0
+Sherman,Texas,Baltimore,58.9167
+Sherman,Texas,Washington,57.7167
+Sherman,Texas,Pittsburgh,51.9
+Sherman,Texas,Chicago,39.6667
+Sherman,Texas,Charleston,70.5333
+Sherman,Texas,Cincinnati,40.7
+Sherman,Texas,Saint Louis,28.2833
+Sherman,Texas,Omaha,46.3333
+Sherman,Texas,San Francisco,143.6667
+Ogden City,Utah,Boston,118.75
+Ogden City,Utah,New York,103.6667
+Ogden City,Utah,Philadelphia,104.25
+Ogden City,Utah,Baltimore,104.0
+Ogden City,Utah,Washington,105.5333
+Ogden City,Utah,Pittsburgh,91.1667
+Ogden City,Utah,Chicago,76.4167
+Ogden City,Utah,Charleston,140.5
+Ogden City,Utah,Cincinnati,80.0
+Ogden City,Utah,Saint Louis,69.1667
+Ogden City,Utah,Omaha,53.0833
+Ogden City,Utah,San Francisco,41.5833
+Salt Lake City,Utah,Boston,122.0833
+Salt Lake City,Utah,New York,107.0
+Salt Lake City,Utah,Philadelphia,107.5833
+Salt Lake City,Utah,Baltimore,107.3333
+Salt Lake City,Utah,Washington,108.8667
+Salt Lake City,Utah,Pittsburgh,94.5
+Salt Lake City,Utah,Chicago,79.75
+Salt Lake City,Utah,Charleston,143.8333
+Salt Lake City,Utah,Cincinnati,83.3333
+Salt Lake City,Utah,Saint Louis,72.5
+Salt Lake City,Utah,Omaha,56.4167
+Salt Lake City,Utah,San Francisco,43.9167
+Montpelier,Vermont,Boston,8.9167
+Montpelier,Vermont,New York,13.0
+Montpelier,Vermont,Philadelphia,20.3667
+Montpelier,Vermont,Baltimore,24.3333
+Montpelier,Vermont,Washington,25.6167
+Montpelier,Vermont,Pittsburgh,33.8667
+Montpelier,Vermont,Chicago,44.6667
+Montpelier,Vermont,Charleston,46.0
+Montpelier,Vermont,Cincinnati,44.6167
+Montpelier,Vermont,Saint Louis,56.2
+Montpelier,Vermont,Omaha,74.0833
+Montpelier,Vermont,San Francisco,170.0833
+White River Junction,Vermont,Boston,5.5833
+White River Junction,Vermont,New York,9.6667
+White River Junction,Vermont,Philadelphia,18.1667
+White River Junction,Vermont,Baltimore,21.0
+White River Junction,Vermont,Washington,22.2833
+White River Junction,Vermont,Pittsburgh,31.25
+White River Junction,Vermont,Chicago,41.3333
+White River Junction,Vermont,Charleston,42.6667
+White River Junction,Vermont,Cincinnati,42.0
+White River Junction,Vermont,Saint Louis,53.5833
+White River Junction,Vermont,Omaha,70.75
+White River Junction,Vermont,San Francisco,166.75
+Lynchburg,Virginia,Boston,24.7833
+Lynchburg,Virginia,New York,16.45
+Lynchburg,Virginia,Philadelphia,10.2833
+Lynchburg,Virginia,Baltimore,7.45
+Lynchburg,Virginia,Washington,6.1167
+Lynchburg,Virginia,Pittsburgh,16.7833
+Lynchburg,Virginia,Chicago,31.7833
+Lynchburg,Virginia,Charleston,24.75
+Lynchburg,Virginia,Cincinnati,24.2833
+Lynchburg,Virginia,Saint Louis,36.1167
+Lynchburg,Virginia,Omaha,54.7833
+Lynchburg,Virginia,San Francisco,150.3667
+Norfolk,Virginia,Boston,28.75
+Norfolk,Virginia,New York,20.4167
+Norfolk,Virginia,Philadelphia,12.3333
+Norfolk,Virginia,Baltimore,11.1167
+Norfolk,Virginia,Washington,8.3333
+Norfolk,Virginia,Pittsburgh,19.0
+Norfolk,Virginia,Chicago,24.0
+Norfolk,Virginia,Charleston,18.8333
+Norfolk,Virginia,Cincinnati,26.5
+Norfolk,Virginia,Saint Louis,33.3333
+Norfolk,Virginia,Omaha,57.0
+Norfolk,Virginia,San Francisco,152.5833
+Richmond,Virginia,Boston,25.25
+Richmond,Virginia,New York,11.1667
+Richmond,Virginia,Philadelphia,8.8667
+Richmond,Virginia,Baltimore,6.2167
+Richmond,Virginia,Washington,4.9667
+Richmond,Virginia,Pittsburgh,15.55
+Richmond,Virginia,Chicago,30.55
+Richmond,Virginia,Charleston,16.3333
+Richmond,Virginia,Cincinnati,23.05
+Richmond,Virginia,Saint Louis,34.8833
+Richmond,Virginia,Omaha,53.55
+Richmond,Virginia,San Francisco,149.1333
+Staunton,Virginia,Boston,31.4167
+Staunton,Virginia,New York,13.6667
+Staunton,Virginia,Philadelphia,11.3333
+Staunton,Virginia,Baltimore,8.6667
+Staunton,Virginia,Washington,7.3333
+Staunton,Virginia,Pittsburgh,18.0
+Staunton,Virginia,Chicago,33.0
+Staunton,Virginia,Charleston,31.5833
+Staunton,Virginia,Cincinnati,25.5
+Staunton,Virginia,Saint Louis,37.3333
+Staunton,Virginia,Omaha,56.0
+Staunton,Virginia,San Francisco,151.5833
+Charleston,West Virginia,Boston,42.0
+Charleston,West Virginia,New York,26.9667
+Charleston,West Virginia,Philadelphia,24.6333
+Charleston,West Virginia,Baltimore,21.9667
+Charleston,West Virginia,Washington,20.6333
+Charleston,West Virginia,Pittsburgh,34.7667
+Charleston,West Virginia,Chicago,46.3
+Charleston,West Virginia,Charleston,37.05
+Charleston,West Virginia,Cincinnati,38.8
+Charleston,West Virginia,Saint Louis,50.6333
+Charleston,West Virginia,Omaha,69.3
+Charleston,West Virginia,San Francisco,164.8833
+Grafton,West Virginia,Boston,33.0
+Grafton,West Virginia,New York,21.25
+Grafton,West Virginia,Philadelphia,14.9167
+Grafton,West Virginia,Baltimore,9.9167
+Grafton,West Virginia,Washington,8.9167
+Grafton,West Virginia,Pittsburgh,6.2833
+Grafton,West Virginia,Chicago,20.9167
+Grafton,West Virginia,Charleston,28.8833
+Grafton,West Virginia,Cincinnati,11.8
+Grafton,West Virginia,Saint Louis,22.8
+Grafton,West Virginia,Omaha,40.2
+Grafton,West Virginia,San Francisco,135.7833
+Huntington,West Virginia,Boston,44.5
+Huntington,West Virginia,New York,29.5
+Huntington,West Virginia,Philadelphia,27.1667
+Huntington,West Virginia,Baltimore,24.5
+Huntington,West Virginia,Washington,23.1667
+Huntington,West Virginia,Pittsburgh,33.8333
+Huntington,West Virginia,Chicago,48.8333
+Huntington,West Virginia,Charleston,42.4167
+Huntington,West Virginia,Cincinnati,41.3333
+Huntington,West Virginia,Saint Louis,53.1667
+Huntington,West Virginia,Omaha,71.8333
+Huntington,West Virginia,San Francisco,167.4167
+Wheeling,West Virginia,Boston,33.4167
+Wheeling,West Virginia,New York,21.4167
+Wheeling,West Virginia,Philadelphia,17.4167
+Wheeling,West Virginia,Baltimore,14.8333
+Wheeling,West Virginia,Washington,13.65
+Wheeling,West Virginia,Pittsburgh,4.8333
+Wheeling,West Virginia,Chicago,18.0
+Wheeling,West Virginia,Charleston,33.65
+Wheeling,West Virginia,Cincinnati,16.5833
+Wheeling,West Virginia,Saint Louis,21.9167
+Wheeling,West Virginia,Omaha,39.0
+Wheeling,West Virginia,San Francisco,134.5833
+Madison,Wisconsin,Boston,47.5833
+Madison,Wisconsin,New York,33.0333
+Madison,Wisconsin,Philadelphia,30.7
+Madison,Wisconsin,Baltimore,37.7
+Madison,Wisconsin,Washington,36.5333
+Madison,Wisconsin,Pittsburgh,20.3
+Madison,Wisconsin,Chicago,5.3667
+Madison,Wisconsin,Charleston,64.7667
+Madison,Wisconsin,Cincinnati,19.5833
+Madison,Wisconsin,Saint Louis,19.75
+Madison,Wisconsin,Omaha,32.4167
+Madison,Wisconsin,San Francisco,132.3167
+Milwaukee,Wisconsin,Boston,44.8833
+Milwaukee,Wisconsin,New York,30.3333
+Milwaukee,Wisconsin,Philadelphia,28.0
+Milwaukee,Wisconsin,Baltimore,34.75
+Milwaukee,Wisconsin,Washington,33.5833
+Milwaukee,Wisconsin,Pittsburgh,17.5833
+Milwaukee,Wisconsin,Chicago,2.6667
+Milwaukee,Wisconsin,Charleston,56.9833
+Milwaukee,Wisconsin,Cincinnati,15.4167
+Milwaukee,Wisconsin,Saint Louis,15.5833
+Milwaukee,Wisconsin,Omaha,26.5
+Milwaukee,Wisconsin,San Francisco,125.2333
+Prairie du Chien,Wisconsin,Boston,53.5333
+Prairie du Chien,Wisconsin,New York,42.6667
+Prairie du Chien,Wisconsin,Philadelphia,40.3333
+Prairie du Chien,Wisconsin,Baltimore,46.9833
+Prairie du Chien,Wisconsin,Washington,45.7333
+Prairie du Chien,Wisconsin,Pittsburgh,35.1667
+Prairie du Chien,Wisconsin,Chicago,12.4167
+Prairie du Chien,Wisconsin,Charleston,66.4
+Prairie du Chien,Wisconsin,Cincinnati,23.75
+Prairie du Chien,Wisconsin,Saint Louis,23.6667
+Prairie du Chien,Wisconsin,Omaha,28.0
+Prairie du Chien,Wisconsin,San Francisco,128.1
+Cheyenne City,Wyoming,Boston,87.5833
+Cheyenne City,Wyoming,New York,73.0333
+Cheyenne City,Wyoming,Philadelphia,70.7
+Cheyenne City,Wyoming,Baltimore,75.8833
+Cheyenne City,Wyoming,Washington,74.55
+Cheyenne City,Wyoming,Pittsburgh,63.3667
+Cheyenne City,Wyoming,Chicago,46.1167
+Cheyenne City,Wyoming,Charleston,96.0167
+Cheyenne City,Wyoming,Cincinnati,50.2
+Cheyenne City,Wyoming,Saint Louis,39.2
+Cheyenne City,Wyoming,Omaha,23.8333
+Cheyenne City,Wyoming,San Francisco,63.15

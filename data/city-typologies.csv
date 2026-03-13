@@ -1,0 +1,364 @@
+city,state,year,mean_h,cv,ew_ratio,cluster,typology
+Prescott,Arizona,1892,102.7,0.2313,1.5245,2,Far West
+Prescott,Arizona,1902,86.27,0.2349,1.5303,2,Far West
+Tucson,Arizona,1882,126.82,0.3025,1.7842,2,Far West
+Tucson,Arizona,1892,98.0,0.2223,1.5232,2,Far West
+Tucson,Arizona,1902,90.7,0.2181,1.5005,2,Far West
+Los Angeles,California,1882,142.95,0.3183,1.7742,2,Far West
+Los Angeles,California,1892,102.58,0.2757,1.5878,2,Far West
+Los Angeles,California,1902,95.41,0.2875,1.6978,2,Far West
+Sacramento,California,1882,122.23,0.3525,1.8892,2,Far West
+Sacramento,California,1892,99.35,0.3433,1.7632,2,Far West
+Sacramento,California,1902,91.15,0.3313,1.646,2,Far West
+San Diego,California,1892,107.65,0.2665,1.5514,2,Far West
+San Diego,California,1902,101.8,0.262,1.5154,2,Far West
+Deadwood,Dakota,1882,108.31,0.1685,1.2168,2,Far West
+Boise,Idaho,1902,81.9,0.2052,1.5504,2,Far West
+Boise City,Idaho,1892,109.97,0.2002,1.4682,2,Far West
+Helena,Montana,1902,77.99,0.1883,1.4248,2,Far West
+Carson City,Nevada,1882,112.88,0.299,1.7831,2,Far West
+Carson City,Nevada,1892,97.93,0.3069,1.7873,2,Far West
+Carson City,Nevada,1902,94.06,0.2986,1.7404,2,Far West
+Elko,Nevada,1882,101.81,0.312,1.8599,2,Far West
+Elko,Nevada,1892,83.65,0.281,1.7562,2,Far West
+Elko,Nevada,1902,76.61,0.2755,1.7626,2,Far West
+Albuquerque,New Mexico,1892,80.45,0.2081,1.4964,2,Far West
+Las Cruces,New Mexico,1892,92.05,0.1818,1.3576,2,Far West
+Las Cruces,New Mexico,1902,77.17,0.2388,1.6473,2,Far West
+Mesilla,New Mexico,1882,85.02,0.3098,1.3417,2,Far West
+Santa Fe,New Mexico,1882,81.67,0.22,1.5508,2,Far West
+Santa Fe,New Mexico,1892,77.71,0.2168,1.4996,2,Far West
+Portland,Oregon,1892,105.62,0.2542,1.6316,2,Far West
+Portland,Oregon,1902,100.7,0.2388,1.5539,2,Far West
+Salem,Oregon,1892,107.3,0.2586,1.636,2,Far West
+Salem,Oregon,1902,102.46,0.2426,1.5584,2,Far West
+Ogden City,Utah,1882,90.68,0.3088,1.8778,2,Far West
+Salt Lake City,Utah,1882,93.93,0.2998,1.8389,2,Far West
+Salt Lake City,Utah,1892,72.9,0.2733,1.6748,2,Far West
+Olympia,Washington,1892,109.84,0.2545,1.6728,2,Far West
+Olympia,Washington,1902,101.27,0.2223,1.4803,2,Far West
+Seattle,Washington,1902,92.33,0.2172,1.4869,2,Far West
+Tacoma,Washington,1892,108.61,0.255,1.6817,2,Far West
+Tacoma,Washington,1902,92.37,0.2177,1.4905,2,Far West
+Hartford,Connecticut,1882,36.08,1.1899,0.1789,0,Hub-Adjacent
+Hartford,Connecticut,1892,28.87,1.0468,0.2035,0,Hub-Adjacent
+Hartford,Connecticut,1902,27.44,0.9726,0.2159,0,Hub-Adjacent
+New Haven,Connecticut,1882,36.03,1.2215,0.1626,0,Hub-Adjacent
+New Haven,Connecticut,1892,28.96,1.0581,0.2442,0,Hub-Adjacent
+New Haven,Connecticut,1902,25.91,1.0234,0.1888,0,Hub-Adjacent
+Willimantic,Connecticut,1882,38.87,1.1158,0.2065,0,Hub-Adjacent
+Willimantic,Connecticut,1892,30.43,1.0179,0.233,0,Hub-Adjacent
+Willimantic,Connecticut,1902,26.74,1.0194,0.1816,0,Hub-Adjacent
+Dover,Delaware,1882,33.45,1.1932,0.1908,0,Hub-Adjacent
+Dover,Delaware,1892,26.02,1.2492,0.1402,0,Hub-Adjacent
+Dover,Delaware,1902,23.65,1.1159,0.1644,0,Hub-Adjacent
+Wilmington,Delaware,1882,30.32,1.3237,0.1312,0,Hub-Adjacent
+Wilmington,Delaware,1892,26.14,1.3312,0.1209,0,Hub-Adjacent
+Wilmington,Delaware,1902,22.39,1.1581,0.1492,0,Hub-Adjacent
+Augusta,Maine,1882,46.86,0.9153,0.269,0,Hub-Adjacent
+Portland,Maine,1882,43.57,0.9869,0.2363,0,Hub-Adjacent
+Annapolis,Maryland,1882,28.49,1.3789,0.1504,0,Hub-Adjacent
+Annapolis,Maryland,1892,25.81,1.2206,0.1349,0,Hub-Adjacent
+Annapolis,Maryland,1902,23.44,1.1198,0.1577,0,Hub-Adjacent
+Cumberland,Maryland,1882,27.9,1.2941,0.2479,0,Hub-Adjacent
+Cumberland,Maryland,1892,25.11,1.1,0.2593,0,Hub-Adjacent
+Cumberland,Maryland,1902,22.44,1.0088,0.2854,0,Hub-Adjacent
+Springfield,Massachusetts,1882,36.22,1.1586,0.1981,0,Hub-Adjacent
+Springfield,Massachusetts,1892,27.69,1.0784,0.1928,0,Hub-Adjacent
+Springfield,Massachusetts,1902,26.65,1.0042,0.2044,0,Hub-Adjacent
+Detroit,Michigan,1882,31.86,1.0326,0.5888,0,Hub-Adjacent
+Concord,New Hampshire,1882,42.83,0.9973,0.2582,0,Hub-Adjacent
+Concord,New Hampshire,1902,31.56,0.8737,0.2467,0,Hub-Adjacent
+Manchester,New Hampshire,1902,35.55,0.8717,0.215,0,Hub-Adjacent
+Cape May,New Jersey,1882,33.82,1.1488,0.206,0,Hub-Adjacent
+Cape May,New Jersey,1892,28.82,1.0927,0.2045,0,Hub-Adjacent
+Cape May,New Jersey,1902,25.33,1.0185,0.1904,0,Hub-Adjacent
+Trenton,New Jersey,1882,28.66,1.3447,0.1559,0,Hub-Adjacent
+Trenton,New Jersey,1892,26.32,1.187,0.2416,0,Hub-Adjacent
+Trenton,New Jersey,1902,22.14,1.145,0.1683,0,Hub-Adjacent
+Albany,New York,1882,33.44,1.2242,0.2093,0,Hub-Adjacent
+Albany,New York,1892,27.31,1.018,0.2913,0,Hub-Adjacent
+Albany,New York,1902,28.55,0.9897,0.4931,0,Hub-Adjacent
+Buffalo,New York,1882,32.41,1.1255,0.3611,0,Hub-Adjacent
+Rome,New York,1882,34.59,1.1354,0.2811,0,Hub-Adjacent
+Rome,New York,1892,27.03,0.9504,0.3352,0,Hub-Adjacent
+West Point,New York,1882,34.25,1.2892,0.1698,0,Hub-Adjacent
+West Point,New York,1892,28.42,1.0558,0.1811,0,Hub-Adjacent
+Westpoint,New York,1902,25.94,0.9976,0.1978,0,Hub-Adjacent
+Charlotte,North Carolina,1882,39.76,1.005,0.2656,0,Hub-Adjacent
+Charlotte,North Carolina,1902,32.29,0.8705,0.2317,0,Hub-Adjacent
+Raleigh,North Carolina,1882,41.18,0.9598,0.2801,0,Hub-Adjacent
+Raleigh,North Carolina,1902,33.0,0.852,0.2368,0,Hub-Adjacent
+Wilmington,North Carolina,1882,41.4,0.9777,0.2637,0,Hub-Adjacent
+Wilmington,North Carolina,1892,35.51,0.9985,0.2119,0,Hub-Adjacent
+Cleveland,Ohio,1882,28.8,1.1878,0.4593,0,Hub-Adjacent
+Columbus,Ohio,1882,28.37,1.1233,0.5505,0,Hub-Adjacent
+Columbus,Ohio,1892,26.82,0.9933,0.5882,0,Hub-Adjacent
+Toledo,Ohio,1882,30.63,1.0703,0.5983,0,Hub-Adjacent
+Harrisburg,Pennsylvania,1882,27.12,1.4066,0.1627,0,Hub-Adjacent
+Harrisburg,Pennsylvania,1902,21.64,1.1098,0.2124,0,Hub-Adjacent
+Harrisburgh,Pennsylvania,1892,24.77,1.2021,0.1641,0,Hub-Adjacent
+Scranton,Pennsylvania,1902,24.07,0.9606,0.2714,0,Hub-Adjacent
+Williamsport,Pennsylvania,1882,31.04,1.1306,0.2303,0,Hub-Adjacent
+Williamsport,Pennsylvania,1892,27.65,1.0272,0.2481,0,Hub-Adjacent
+Williamsport,Pennsylvania,1902,24.78,0.9193,0.2906,0,Hub-Adjacent
+Newport,Rhode Island,1882,40.31,1.1023,0.1907,0,Hub-Adjacent
+Newport,Rhode Island,1892,33.69,0.9334,0.2586,0,Hub-Adjacent
+Newport,Rhode Island,1902,35.56,0.887,0.1995,0,Hub-Adjacent
+Providence,Rhode Island,1882,38.35,1.1414,0.1859,0,Hub-Adjacent
+Providence,Rhode Island,1892,31.69,1.0112,0.2324,0,Hub-Adjacent
+Providence,Rhode Island,1902,33.02,0.9489,0.1764,0,Hub-Adjacent
+Montpelier,Vermont,1882,46.81,0.9208,0.2671,0,Hub-Adjacent
+White River Junction,Vermont,1882,43.75,0.9836,0.2394,0,Hub-Adjacent
+White River Junction,Vermont,1892,35.62,0.9261,0.2428,0,Hub-Adjacent
+White River Junction,Vermont,1902,32.44,0.8664,0.2307,0,Hub-Adjacent
+Lynchburg,Virginia,1882,33.66,1.1642,0.2193,0,Hub-Adjacent
+Lynchburg,Virginia,1902,29.28,0.8922,0.2321,0,Hub-Adjacent
+Lynchburgh,Virginia,1892,34.96,0.9343,0.1887,0,Hub-Adjacent
+Norfolk,Virginia,1882,34.35,1.1467,0.2492,0,Hub-Adjacent
+Norfolk,Virginia,1892,33.12,0.8984,0.2326,0,Hub-Adjacent
+Richmond,Virginia,1882,31.63,1.2503,0.181,0,Hub-Adjacent
+Richmond,Virginia,1892,30.02,1.061,0.168,0,Hub-Adjacent
+Richmond,Virginia,1902,27.98,0.9651,0.1819,0,Hub-Adjacent
+Staunton,Virginia,1882,35.45,1.1062,0.2495,0,Hub-Adjacent
+Staunton,Virginia,1892,32.35,0.9517,0.3021,0,Hub-Adjacent
+Staunton,Virginia,1902,28.97,0.9354,0.2323,0,Hub-Adjacent
+Charleston,West Virginia,1892,25.44,0.9832,0.486,0,Hub-Adjacent
+Grafton,West Virginia,1882,29.56,1.1845,0.3547,0,Hub-Adjacent
+Grafton,West Virginia,1892,25.42,1.0639,0.338,0,Hub-Adjacent
+Grafton,West Virginia,1902,23.05,0.9655,0.3517,0,Hub-Adjacent
+Wheeling,West Virginia,1882,30.77,1.1079,0.4196,0,Hub-Adjacent
+Wheeling,West Virginia,1892,25.93,1.0046,0.418,0,Hub-Adjacent
+Mobile,Alabama,1882,56.66,0.5785,0.6496,1,Interior Middle
+Fort Smith,Arkansas,1882,59.61,0.4848,0.9762,1,Interior Middle
+Fort Smith,Arkansas,1892,53.55,0.4317,1.2852,1,Interior Middle
+Fort Smith,Arkansas,1902,52.18,0.3843,1.4055,1,Interior Middle
+Helena,Arkansas,1892,58.19,0.3597,1.2772,1,Interior Middle
+Helena,Arkansas,1902,57.6,0.3403,1.3215,1,Interior Middle
+Hot Springs,Arkansas,1892,51.05,0.4198,1.0692,1,Interior Middle
+Hot Springs,Arkansas,1902,49.18,0.3502,1.1504,1,Interior Middle
+Little Rock,Arkansas,1882,49.46,0.5844,0.9687,1,Interior Middle
+Little Rock,Arkansas,1892,42.3,0.5197,1.0281,1,Interior Middle
+Little Rock,Arkansas,1902,41.5,0.4881,1.0772,1,Interior Middle
+Denver,Colorado,1882,67.14,0.3144,1.743,1,Interior Middle
+Denver,Colorado,1892,53.94,0.3471,1.5764,1,Interior Middle
+Denver,Colorado,1902,50.32,0.3085,1.6776,1,Interior Middle
+Pueblo,Colorado,1882,65.47,0.2977,1.5716,1,Interior Middle
+Pueblo,Colorado,1892,56.73,0.3019,1.5736,1,Interior Middle
+Pueblo,Colorado,1902,55.17,0.2813,1.6995,1,Interior Middle
+Bismarck,Dakota,1882,75.64,0.3685,1.1076,1,Interior Middle
+Bismarck,Dakota,1892,54.66,0.3757,1.1898,1,Interior Middle
+Bismarck,Dakota,1902,57.08,0.318,1.2735,1,Interior Middle
+Deadwood,Dakota,1892,63.98,0.325,1.3707,1,Interior Middle
+Deadwood,Dakota,1902,59.79,0.3319,1.4528,1,Interior Middle
+Yankton,Dakota,1882,54.32,0.5365,1.2134,1,Interior Middle
+Yankton,Dakota,1892,45.03,0.4291,1.5495,1,Interior Middle
+Yankton,Dakota,1902,43.58,0.4118,1.5424,1,Interior Middle
+Cedar Keys,Florida,1882,75.98,0.5602,0.4536,1,Interior Middle
+Cedar Keys,Florida,1892,57.76,0.4973,0.51,1,Interior Middle
+Cedar Keys,Florida,1902,56.26,0.4507,0.5241,1,Interior Middle
+Key West,Florida,1892,79.54,0.3608,0.6207,1,Interior Middle
+Keywest,Florida,1902,69.56,0.4099,0.5212,1,Interior Middle
+Tallahassee,Florida,1882,76.64,0.5528,0.4527,1,Interior Middle
+Tallahassee,Florida,1892,56.74,0.51,0.5246,1,Interior Middle
+Tampa,Florida,1892,61.22,0.4783,0.5292,1,Interior Middle
+Tampa,Florida,1902,55.47,0.4963,0.4663,1,Interior Middle
+Cairo,Illinois,1902,33.71,0.5448,1.2138,1,Interior Middle
+Rock Island,Illinois,1892,31.96,0.6151,1.3407,1,Interior Middle
+Rock Island,Illinois,1902,31.48,0.5951,1.3755,1,Interior Middle
+Springfield,Illinois,1892,32.91,0.6871,1.3265,1,Interior Middle
+Springfield,Illinois,1902,31.35,0.6805,1.4715,1,Interior Middle
+Vinita,Indian Territory,1882,48.86,0.5576,1.2501,1,Interior Middle
+Vinita,Indian Territory,1892,43.27,0.4546,1.1936,1,Interior Middle
+Vinita,Indian Territory,1902,39.31,0.5386,1.1027,1,Interior Middle
+Burlington,Iowa,1892,30.9,0.6619,1.5219,1,Interior Middle
+Burlington,Iowa,1902,28.31,0.6137,1.5698,1,Interior Middle
+Des Moines,Iowa,1882,41.4,0.6635,1.3981,1,Interior Middle
+Des Moines,Iowa,1892,38.19,0.5337,1.7852,1,Interior Middle
+Des Moines,Iowa,1902,35.68,0.5064,1.9484,1,Interior Middle
+Dubuque,Iowa,1892,36.33,0.5816,1.3796,1,Interior Middle
+Dubuque,Iowa,1902,33.88,0.4876,1.6665,1,Interior Middle
+Sioux City,Iowa,1882,50.17,0.523,1.4919,1,Interior Middle
+Sioux City,Iowa,1892,45.5,0.4486,1.8721,1,Interior Middle
+Sioux City,Iowa,1902,43.79,0.4452,2.0011,1,Interior Middle
+Atchison,Kansas,1882,43.1,0.6273,1.3591,1,Interior Middle
+Atchison,Kansas,1892,39.43,0.521,1.5668,1,Interior Middle
+Atchison,Kansas,1902,37.33,0.5053,1.9797,1,Interior Middle
+Leavenworth,Kansas,1882,43.07,0.6306,1.3425,1,Interior Middle
+Leavenworth,Kansas,1892,38.76,0.5335,1.5347,1,Interior Middle
+Leavenworth,Kansas,1902,35.89,0.4964,1.8819,1,Interior Middle
+Topeka,Kansas,1882,45.17,0.5896,1.3745,1,Interior Middle
+Topeka,Kansas,1892,41.53,0.4954,1.5032,1,Interior Middle
+Topeka,Kansas,1902,39.31,0.4773,1.7677,1,Interior Middle
+Morgan City,Louisiana,1882,61.59,0.52,0.8326,1,Interior Middle
+Morgan City,Louisiana,1892,52.25,0.3306,0.9477,1,Interior Middle
+Morgan City,Louisiana,1902,49.09,0.3868,0.8894,1,Interior Middle
+New Orleans,Louisiana,1882,57.18,0.5407,0.8412,1,Interior Middle
+New Orleans,Louisiana,1892,45.12,0.3791,0.9133,1,Interior Middle
+New Orleans,Louisiana,1902,41.84,0.4359,0.8477,1,Interior Middle
+Shreveport,Louisiana,1882,65.9,0.4384,0.9784,1,Interior Middle
+Shreveport,Louisiana,1892,55.83,0.3223,0.9315,1,Interior Middle
+Shreveport,Louisiana,1902,53.55,0.3291,0.9981,1,Interior Middle
+Eastport,Maine,1882,72.94,0.6261,0.4333,1,Interior Middle
+Eastport,Maine,1892,60.74,0.4741,0.4952,1,Interior Middle
+Eastport,Maine,1902,55.14,0.459,0.4987,1,Interior Middle
+Duluth,Minnesota,1882,60.15,0.4528,1.1679,1,Interior Middle
+Duluth,Minnesota,1892,37.46,0.4694,0.917,1,Interior Middle
+Duluth,Minnesota,1902,38.2,0.4807,1.1459,1,Interior Middle
+Saint Paul,Minnesota,1902,33.67,0.5574,1.1144,1,Interior Middle
+St. Paul,Minnesota,1882,47.51,0.6018,1.2247,1,Interior Middle
+Winona,Minnesota,1882,45.24,0.6747,1.0966,1,Interior Middle
+Jackson,Mississippi,1882,54.68,0.5311,0.9181,1,Interior Middle
+Jackson,Mississippi,1892,47.61,0.4399,1.0374,1,Interior Middle
+Jackson,Mississippi,1902,45.15,0.4097,1.0223,1,Interior Middle
+Vicksburg,Mississippi,1892,50.4,0.4213,1.0463,1,Interior Middle
+Vicksburg,Mississippi,1902,45.92,0.4088,1.0252,1,Interior Middle
+Vicksburgh,Mississippi,1882,60.55,0.4741,0.9203,1,Interior Middle
+Hannibal,Missouri,1892,34.25,0.6427,1.4193,1,Interior Middle
+Hannibal,Missouri,1902,33.38,0.6265,1.4466,1,Interior Middle
+Jefferson City,Missouri,1892,34.64,0.5916,1.5184,1,Interior Middle
+Jefferson City,Missouri,1902,33.54,0.5622,1.5957,1,Interior Middle
+Kansas City,Missouri,1882,41.99,0.6627,1.3053,1,Interior Middle
+Kansas City,Missouri,1892,36.38,0.5642,1.6049,1,Interior Middle
+Kansas City,Missouri,1902,33.4,0.5569,1.7484,1,Interior Middle
+Helena,Montana,1892,77.26,0.2379,1.4227,1,Interior Middle
+Lincoln,Nebraska,1882,48.62,0.5331,1.6426,1,Interior Middle
+Lincoln,Nebraska,1892,38.07,0.5096,1.886,1,Interior Middle
+Lincoln,Nebraska,1902,35.86,0.4935,1.8956,1,Interior Middle
+Albuquerque,New Mexico,1902,69.74,0.2684,1.7607,1,Interior Middle
+Santa Fe,New Mexico,1902,69.56,0.2699,1.7611,1,Interior Middle
+Memphis,Tennessee,1892,39.77,0.5114,0.8536,1,Interior Middle
+Memphis,Tennessee,1902,38.74,0.4638,0.8895,1,Interior Middle
+Austin,Texas,1882,80.76,0.3702,0.9468,1,Interior Middle
+Austin,Texas,1892,69.17,0.1826,1.1521,1,Interior Middle
+Austin,Texas,1902,65.22,0.1963,1.1225,1,Interior Middle
+Galveston,Texas,1882,80.42,0.3727,0.9469,1,Interior Middle
+Galveston,Texas,1892,68.81,0.2331,1.0997,1,Interior Middle
+Galveston,Texas,1902,59.57,0.2148,0.8489,1,Interior Middle
+San Antonio,Texas,1882,84.34,0.3553,0.9492,1,Interior Middle
+San Antonio,Texas,1892,65.06,0.1959,1.1917,1,Interior Middle
+San Antonio,Texas,1902,62.04,0.1333,0.9704,1,Interior Middle
+Sherman,Texas,1882,61.47,0.4733,1.0003,1,Interior Middle
+Sherman,Texas,1892,61.48,0.4009,1.1964,1,Interior Middle
+Sherman,Texas,1902,55.85,0.3188,1.2039,1,Interior Middle
+Ogden,Utah,1892,70.96,0.2695,1.6611,1,Interior Middle
+Ogden,Utah,1902,62.83,0.3282,2.0449,1,Interior Middle
+Salt Lake City,Utah,1902,64.17,0.3089,1.9521,1,Interior Middle
+Prairie du Chien,Wisconsin,1882,45.56,0.6557,1.0256,1,Interior Middle
+Prairie du Chien,Wisconsin,1892,36.52,0.5695,1.1126,1,Interior Middle
+Prairie du Chien,Wisconsin,1902,35.15,0.5089,1.1556,1,Interior Middle
+Cheyenne,Wyoming,1892,53.53,0.4168,1.9615,1,Interior Middle
+Cheyenne,Wyoming,1902,49.03,0.3827,1.9303,1,Interior Middle
+Cheyenne City,Wyoming,1882,63.64,0.3248,1.8486,1,Interior Middle
+Decatur,Alabama,1882,42.54,0.7625,0.5988,3,Southern Corridor
+Decatur,Alabama,1892,36.78,0.6546,0.7095,3,Southern Corridor
+Decatur,Alabama,1902,33.81,0.5699,0.7552,3,Southern Corridor
+Mobile,Alabama,1892,45.33,0.6107,0.5998,3,Southern Corridor
+Mobile,Alabama,1902,41.28,0.5219,0.626,3,Southern Corridor
+Montgomery,Alabama,1882,48.49,0.6904,0.617,3,Southern Corridor
+Montgomery,Alabama,1892,38.01,0.6078,0.589,3,Southern Corridor
+Montgomery,Alabama,1902,34.94,0.5778,0.5872,3,Southern Corridor
+Jacksonville,Florida,1882,62.92,0.6912,0.3687,3,Southern Corridor
+Jacksonville,Florida,1892,50.09,0.5764,0.4716,3,Southern Corridor
+Jacksonville,Florida,1902,44.42,0.6151,0.3761,3,Southern Corridor
+Tallahassee,Florida,1902,50.76,0.5564,0.4081,3,Southern Corridor
+Atlanta,Georgia,1882,42.97,0.8333,0.4888,3,Southern Corridor
+Atlanta,Georgia,1892,38.44,0.7233,0.5146,3,Southern Corridor
+Atlanta,Georgia,1902,33.53,0.7142,0.4028,3,Southern Corridor
+Augusta,Georgia,1882,47.37,0.8228,0.3554,3,Southern Corridor
+Augusta,Georgia,1892,40.1,0.7546,0.4696,3,Southern Corridor
+Augusta,Georgia,1902,34.11,0.7126,0.3831,3,Southern Corridor
+Macon,Georgia,1882,47.58,0.7099,0.5776,3,Southern Corridor
+Macon,Georgia,1892,42.46,0.6702,0.5463,3,Southern Corridor
+Macon,Georgia,1902,35.47,0.6487,0.4847,3,Southern Corridor
+Savannah,Georgia,1882,53.03,0.7673,0.3552,3,Southern Corridor
+Savannah,Georgia,1892,41.21,0.8463,0.3052,3,Southern Corridor
+Savannah,Georgia,1902,35.5,0.7021,0.3781,3,Southern Corridor
+Cairo,Illinois,1882,39.56,0.822,0.9206,3,Southern Corridor
+Cairo,Illinois,1892,36.98,0.672,1.0033,3,Southern Corridor
+Rock Island,Illinois,1882,36.33,0.8183,1.0972,3,Southern Corridor
+Springfield,Illinois,1882,34.53,0.8805,1.0732,3,Southern Corridor
+Evansville,Indiana,1882,35.47,0.8271,0.8459,3,Southern Corridor
+Evansville,Indiana,1892,33.24,0.6772,1.2004,3,Southern Corridor
+Evansville,Indiana,1902,30.17,0.6314,1.2312,3,Southern Corridor
+Fort Wayne,Indiana,1882,30.25,1.0423,0.6928,3,Southern Corridor
+Fort Wayne,Indiana,1902,23.92,0.8279,0.9032,3,Southern Corridor
+Ft. Wayne,Indiana,1892,27.25,0.8776,0.7626,3,Southern Corridor
+Indianapolis,Indiana,1882,29.29,1.0418,0.778,3,Southern Corridor
+Indianapolis,Indiana,1892,25.71,0.8963,0.8753,3,Southern Corridor
+Indianapolis,Indiana,1902,24.21,0.8051,0.9836,3,Southern Corridor
+Burlington,Iowa,1882,37.01,0.7943,1.2028,3,Southern Corridor
+Dubuque,Iowa,1882,39.92,0.7617,0.9789,3,Southern Corridor
+Frankfort,Kentucky,1882,41.32,0.8535,0.6293,3,Southern Corridor
+Frankfort,Kentucky,1892,32.8,0.7073,0.9195,3,Southern Corridor
+Frankfort,Kentucky,1902,31.57,0.6376,0.9924,3,Southern Corridor
+Henderson,Kentucky,1882,37.31,0.802,0.8527,3,Southern Corridor
+Henderson,Kentucky,1892,33.78,0.6427,1.067,3,Southern Corridor
+Henderson,Kentucky,1902,33.15,0.6436,1.0379,3,Southern Corridor
+Louisville,Kentucky,1882,31.35,0.9735,0.7084,3,Southern Corridor
+Louisville,Kentucky,1892,30.6,0.7618,0.9593,3,Southern Corridor
+Louisville,Kentucky,1902,28.13,0.7255,0.9655,3,Southern Corridor
+Augusta,Maine,1892,46.13,0.6979,0.3673,3,Southern Corridor
+Augusta,Maine,1902,34.92,0.74,0.3409,3,Southern Corridor
+Portland,Maine,1892,44.63,0.7237,0.3332,3,Southern Corridor
+Portland,Maine,1902,33.44,0.8103,0.3049,3,Southern Corridor
+Bay City,Michigan,1882,37.71,0.8687,0.6783,3,Southern Corridor
+Bay City,Michigan,1892,35.2,0.6592,0.7482,3,Southern Corridor
+Bay City,Michigan,1902,30.4,0.6101,0.8438,3,Southern Corridor
+Detroit,Michigan,1892,32.69,0.7694,0.723,3,Southern Corridor
+Detroit,Michigan,1902,26.88,0.7098,0.842,3,Southern Corridor
+Kalamazoo,Michigan,1882,33.85,0.9287,0.7661,3,Southern Corridor
+Kalamazoo,Michigan,1892,32.05,0.7363,0.7958,3,Southern Corridor
+Kalamazoo,Michigan,1902,28.95,0.6272,1.134,3,Southern Corridor
+Lansing,Michigan,1882,36.19,0.8702,0.7363,3,Southern Corridor
+Lansing,Michigan,1892,33.5,0.6541,0.8148,3,Southern Corridor
+Lansing,Michigan,1902,31.38,0.5786,0.9777,3,Southern Corridor
+St Paul,Minnesota,1892,32.53,0.5252,0.9861,3,Southern Corridor
+Winona,Minnesota,1892,31.28,0.614,0.8264,3,Southern Corridor
+Winona,Minnesota,1902,32.56,0.5896,1.098,3,Southern Corridor
+Hannibal,Missouri,1882,38.0,0.7958,1.043,3,Southern Corridor
+Jefferson City,Missouri,1882,39.18,0.7583,1.095,3,Southern Corridor
+Concord,New Hampshire,1892,36.3,0.8277,0.2817,3,Southern Corridor
+Manchester,New Hampshire,1892,35.84,0.8417,0.2755,3,Southern Corridor
+Buffalo,New York,1892,28.79,0.8633,0.4918,3,Southern Corridor
+Buffalo,New York,1902,29.14,0.9279,0.7242,3,Southern Corridor
+Rome,New York,1902,25.33,0.8611,0.3638,3,Southern Corridor
+Charlotte,North Carolina,1892,37.59,0.8563,0.2662,3,Southern Corridor
+Raleigh,North Carolina,1892,42.0,0.8296,0.2883,3,Southern Corridor
+Wilmington,North Carolina,1902,32.91,0.803,0.2761,3,Southern Corridor
+Cleveland,Ohio,1892,28.0,0.8898,0.7216,3,Southern Corridor
+Cleveland,Ohio,1902,24.93,0.779,0.6913,3,Southern Corridor
+Columbus,Ohio,1902,23.59,0.872,0.6369,3,Southern Corridor
+Toledo,Ohio,1892,26.53,0.884,0.7814,3,Southern Corridor
+Toledo,Ohio,1902,24.69,0.7791,0.8263,3,Southern Corridor
+Columbia,South Carolina,1882,46.23,0.8608,0.3161,3,Southern Corridor
+Columbia,South Carolina,1892,38.89,0.7674,0.3867,3,Southern Corridor
+Columbia,South Carolina,1902,36.84,0.7414,0.3065,3,Southern Corridor
+Port Royal,South Carolina,1882,53.26,0.7873,0.3281,3,Southern Corridor
+Port Royal,South Carolina,1892,43.16,0.6755,0.4375,3,Southern Corridor
+Port Royal,South Carolina,1902,38.99,0.7202,0.3278,3,Southern Corridor
+Chattanooga,Tennessee,1882,38.23,0.8473,0.5502,3,Southern Corridor
+Chattanooga,Tennessee,1892,34.08,0.7364,0.5951,3,Southern Corridor
+Chattanooga,Tennessee,1902,32.83,0.6239,0.6812,3,Southern Corridor
+Knoxville,Tennessee,1882,43.86,0.7962,0.4204,3,Southern Corridor
+Knoxville,Tennessee,1892,35.86,0.7444,0.4864,3,Southern Corridor
+Knoxville,Tennessee,1902,34.26,0.6375,0.5342,3,Southern Corridor
+Memphis,Tennessee,1882,49.06,0.6439,0.6704,3,Southern Corridor
+Nashville,Tennessee,1882,38.92,0.8102,0.6857,3,Southern Corridor
+Nashville,Tennessee,1892,33.39,0.6606,0.8779,3,Southern Corridor
+Nashville,Tennessee,1902,31.61,0.5887,0.9006,3,Southern Corridor
+Montpelier,Vermont,1892,41.16,0.8622,0.2605,3,Southern Corridor
+Montpelier,Vermont,1902,33.7,0.8009,0.2689,3,Southern Corridor
+Norfolk,Virginia,1902,31.39,0.8237,0.2488,3,Southern Corridor
+Charleston,West Virginia,1882,48.16,0.8152,0.3488,3,Southern Corridor
+Charleston,West Virginia,1902,24.73,0.8194,0.5627,3,Southern Corridor
+Huntington,West Virginia,1882,50.64,0.7765,0.3736,3,Southern Corridor
+Huntington,West Virginia,1892,28.83,0.8745,0.6224,3,Southern Corridor
+Huntington,West Virginia,1902,24.17,0.8323,0.6046,3,Southern Corridor
+Wheeling,West Virginia,1902,22.99,0.905,0.4567,3,Southern Corridor
+Madison,Wisconsin,1882,40.0,0.8193,0.879,3,Southern Corridor
+Madison,Wisconsin,1892,31.96,0.6748,1.1122,3,Southern Corridor
+Madison,Wisconsin,1902,29.91,0.6044,1.1903,3,Southern Corridor
+Milwaukee,Wisconsin,1882,35.96,0.878,0.8963,3,Southern Corridor
+Milwaukee,Wisconsin,1892,30.77,0.7398,1.0528,3,Southern Corridor
+Milwaukee,Wisconsin,1902,28.64,0.6269,1.1841,3,Southern Corridor
