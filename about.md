@@ -1,27 +1,45 @@
 ## About This Project
 
-This visualization shows how long it took for mail to travel by railroad between major American cities during the late 1800s and early 1900s, drawing on transit time tables published by the U.S. Post Office Department.
+In January of 1882, a letter mailed from New York City to San Francisco would take nearly **a full week** to travel across the country. By 1902, that same journey had been cut to a little more than **four days**.
 
-### What is this showing and not showing?
+This map uses a series of tables published by the U.S. Post Office Department in the late 1800s and early 1900s recording how many hours it took for mail to travel via railway between **12 major railroad depots** and more than **100 cities** across the country. Visualizing these transit tables shows the distances separating Americans in different parts of the country and how these shrank over time with the expansion of a national railway network and the [world's most expansive communications network](https://cblevins.github.io/paper-trails/).
 
-Starting in 1882, the U.S. Post Office Department published a table showing how long it would take a piece of mail to travel between twelve major railroad depots and more than 100+ cities across the country. This time in transit is the "ideal" time it would take based on railroad schedules - assuming no delays, missed connections, etc. It does not include the additional time a piece of mail would take on either end of its journey; ie. a letter would need additional time to be transported from a railroad depot and its actual destination post office for pick-up.
+### What is this showing?
+
+Mail transit times were computed by the U.S. Post Office Department using railroad schedules, and reflect **ideal** conditions - ie. no delays or missed connections. They also capture only one leg of the journey: the time spent moving between railroad stations, not the additional time required to get a piece of mail to and from a depot on either end. The actual time between dropping off a letter at a post office and arriving in the hands of its recipient would therefore be
 
 ### How was this made?
 
-This visualization was built in February and March 2026 by [Cameron Blevins](https://cblevins.github.io/) using Generative AI tools. Blevins used Gemini 3.1 Pro to extract data from scanned PDFs of the United States Official Postal Guide. He then used Claude Code (Opus 4.6 and Sonnet 4.6) to process the data and build the visualization.
+This visualization was built in early 2026 by [Cameron Blevins](https://cblevins.github.io/) and relied extensively on Generative AI tools. It was done over the following steps:
 
-### Where does the data come from?
+- Located mail transit time tables in a selection of [United States Postal Guides found on HathiTrust](https://catalog.hathitrust.org/Record/002137107) and downloaded relevant pages as separate PDF files ([see an example here](https://github.com/cblevins/mail-time/blob/main/source-docs/1883-transit-times.pdf)).
+- Used Google's Gemini 3.1 Pro to extract transit time data from each PDF and reformat it into a separate CSV file.
+- Used Claude Code (Sonnet 4.6) to combine yearly data into a single dataset, then identify and fix potential transcription errors (ex. a value of `33:15` getting incorrectly transcribed as `83:15`).
+- Used Claude Code (Opus 4.6 and Sonnet 4.6) to design the visualization.
+
+### About the Data
 
 #### Mail Transit Time Data
-  - [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=mdp.39015063600780&seq=609) (January 1882), p. 579-582.
-  - [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=njp.32101068314788&seq=654) (January 1883), p. 612-615.
-  - [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=uc1.b2919442&seq=737) (January 1892), p. 735-738.
-  - [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=hvd.hn4jgx&seq=859) (January 1902), p. 845-848.
-  - [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=njp.32101068315199&seq=1061) (January 1908), p. 845-848
-<br>
 
-#### Railroad Data 
+The full dataset of mail transit times can [be downloaded as a CSV file here](https://github.com/cblevins/mail-time/blob/main/data/transit-times-merged.csv). This dataset came from the following sources:
 
-- Jeremy Atack, ["Historical Geographic Information Systems (GIS) database of U.S. Railroads for 1826-1911"](https://my.vanderbilt.edu/jeremyatack/data-downloads/) (May 2016; revised Oct 31, 2023)
+- [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=mdp.39015063600780&seq=609) (January 1882), p. 579-582.
+- [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=njp.32101068314788&seq=654) (January 1883), p. 612-615.
+- [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=uc1.b2919442&seq=737) (January 1892), p. 735-738.
+- [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=hvd.hn4jgx&seq=859) (January 1902), p. 845-848.
+- [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=njp.32101068315199&seq=1061) (January 1908), p. 845-848.
 
+#### Railroad Data
 
+Many thanks to Jeremy Atack for building an extensive dataset of historical railroad lines: Jeremy Atack, ["Historical Geographic Information Systems (GIS) database of U.S. Railroads for 1826-1911"](https://my.vanderbilt.edu/jeremyatack/data-downloads/) (May 2016; revised Oct 31, 2023).
+
+### Historical Background
+
+Mail had been traveling by railroad in the United States since the 1830s, but the real breakthrough came with the creation of [the Railway Mail Service](https://www.archives.gov/publications/prologue/2005/fall/fast-mail-1.html) in 1864, when the Post Office Department began sorting letters aboard moving trains. By the 1880s and 1890s, these railroad postal routes had become the backbone of the nation's mail system.
+
+### How to Cite This
+
+<div class="citation-box">
+  <p class="citation-text">Cameron Blevins, &#x201C;How Fast Was the Mail?&#x201D; 2026, <a href="https://cblevins.github.io/mail-time/">https://cblevins.github.io/mail-time/</a>.</p>
+  <button class="citation-copy-btn" data-cite='Cameron Blevins, \u201cHow Fast Was the Mail?\u201d interactive data visualization, 2026, https://cblevins.github.io/mail-time/.' onclick="(function(btn){navigator.clipboard.writeText('Cameron Blevins, \u201cHow Fast Was the Mail?\u201d 2026, https://cblevins.github.io/mail-time/.').then(function(){btn.textContent='Copied \u2713';setTimeout(function(){btn.textContent='Copy'},2000);})})(this)" aria-label="Copy citation to clipboard">Copy</button>
+</div>
