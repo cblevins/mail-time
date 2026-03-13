@@ -610,23 +610,27 @@
       /* About button in header */
       #about-btn {
         position: absolute;
-        top: 50%;
+        top: 2.4rem;
         right: 1.5rem;
         transform: translateY(-50%);
         background: transparent;
-        border: 2px solid rgba(244, 240, 232, 0.6);
-        border-radius: 20px;
-        padding: 0.65rem 2rem;
+        border: none;
+        border-bottom: 1.5px solid rgba(244, 240, 232, 0.45);
+        border-radius: 0;
+        padding: 0.15rem 0;
         font-family: "Source Sans Pro", sans-serif;
-        font-size: 1.1rem;
+        font-size: 1.05rem;
         font-weight: 600;
         color: #f4f0e8;
         cursor: pointer;
-        transition: all 0.2s;
+        letter-spacing: 0.01em;
+        transition: border-color 0.18s, color 0.18s;
       }
-      #about-btn:hover {
-        background: rgba(244, 240, 232, 0.12);
-        border-color: #f4f0e8;
+      #about-btn:hover,
+      #about-btn:focus {
+        border-bottom-color: #f4f0e8;
+        color: #ffffff;
+        outline: none;
       }
 
       /* About modal overlay */
@@ -884,8 +888,8 @@
           position: static;
           transform: none;
           margin-top: 0.6rem;
-          padding: 0.4rem 1.2rem;
-          font-size: 0.9rem;
+          font-size: 0.95rem;
+          padding: 0.15rem 0;
         }
       }
 
@@ -907,9 +911,9 @@
       <button
         id="about-btn"
         onclick="document.getElementById('about-modal').style.display = 'flex'"
-        aria-label="About this visualization"
+        aria-label="About this project"
       >
-        About
+        About This Project
       </button>
     </header>
 
@@ -10213,6 +10217,7 @@ const CSV_DATA = `year,origin_city,origin_state,destination_city,destination_sta
       // INITIALIZE
       // ============================================================
       createMarkers();
+      updateMapColors();
       updateHubTable();
       computeStats();
       updateRRLayer();

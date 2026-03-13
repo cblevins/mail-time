@@ -2,7 +2,7 @@
 
 In January of 1882, a letter mailed from New York City to San Francisco would take nearly **a full week** to travel across the country. By 1902, that same journey had been cut to a little more than **four days**.
 
-This map uses a series of tables published by the U.S. Post Office Department in the late 1800s and early 1900s recording how many hours it took for mail to travel via railway between **12 major railroad depots** and more than **100 cities** across the country. Visualizing these transit tables shows the distances separating Americans in different parts of the country and how these shrank over time with the expansion of a national railway network and the [world's most expansive communications network](https://cblevins.github.io/paper-trails/).
+This map uses a series of tables published by the U.S. Post Office Department in the late 1800s and early 1900s recording how many hours it took for mail to travel via railway between **12 major railroad depots** and more than **100 cities** across the country. Visualizing these transit tables shows the distances separating Americans in different parts of the country and how these shrank over time with the growth of a national railway system alongside the [world's most expansive communications network, the U.S. Post](https://cblevins.github.io/paper-trails/).
 
 ### What is this showing?
 
@@ -10,7 +10,7 @@ Mail transit times were computed by the U.S. Post Office Department using railro
 
 ### How was this made?
 
-This visualization was built in early 2026 by [Cameron Blevins](https://cblevins.github.io/) and relied extensively on Generative AI tools. It was done over the following steps:
+This visualization was built in early 2026 by [Cameron Blevins](https://cblevins.github.io/) and relied extensively on Generative AI tools. It was completed over the following steps:
 
 - Located mail transit time tables in a selection of [United States Postal Guides found on HathiTrust](https://catalog.hathitrust.org/Record/002137107) and downloaded relevant pages as separate PDF files ([see an example here](https://github.com/cblevins/mail-time/blob/main/source-docs/1883-transit-times.pdf)).
 - Used Google's Gemini 3.1 Pro to extract transit time data from each PDF and reformat it into a separate CSV file.
