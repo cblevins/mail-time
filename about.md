@@ -1,10 +1,10 @@
-## About this project
+## About This Project
 
 This visualization shows how long it took for mail to travel by railroad between major American cities during the late 1800s and early 1900s, drawing on transit time tables published by the U.S. Post Office Department.
 
 ### What is this showing and not showing?
 
-Starting in 1882, the Post Office Department published a table showing how long it would take a piece of mail to travel between twelve major railroad depots and more than 100+ cities across the country. This time in transit is the "idealized" time it would take based on railroad schedules assuming no delays, missed connections, etc. It also does not include additional time in transit, such as the time to travel between a railroad depot and the destination post office.
+Starting in 1882, the U.S. Post Office Department published a table showing how long it would take a piece of mail to travel between twelve major railroad depots and more than 100+ cities across the country. This time in transit is the "ideal" time it would take based on railroad schedules - assuming no delays, missed connections, etc. It does not include the additional time a piece of mail would take on either end of its journey; ie. a letter would need additional time to be transported from a railroad depot and its actual destination post office for pick-up.
 
 ### How was this made?
 
@@ -18,8 +18,10 @@ This visualization was built in February and March 2026 by [Cameron Blevins](htt
   - [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=uc1.b2919442&seq=737) (January 1892), p. 735-738.
   - [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=hvd.hn4jgx&seq=859) (January 1902), p. 845-848.
   - [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=njp.32101068315199&seq=1061) (January 1908), p. 845-848
+<br>
 
 #### Railroad Data 
+
 - Jeremy Atack, ["Historical Geographic Information Systems (GIS) database of U.S. Railroads for 1826-1911"](https://my.vanderbilt.edu/jeremyatack/data-downloads/) (May 2016; revised Oct 31, 2023)
 
 
