@@ -293,7 +293,9 @@
       }
       #legend-body {
         overflow: hidden;
-        transition: max-height 0.25s ease, opacity 0.2s ease;
+        transition:
+          max-height 0.25s ease,
+          opacity 0.2s ease;
         max-height: 200px;
         opacity: 1;
       }
@@ -686,7 +688,9 @@
         color: #f4f0e8;
         cursor: pointer;
         letter-spacing: 0.01em;
-        transition: border-color 0.18s, color 0.18s;
+        transition:
+          border-color 0.18s,
+          color 0.18s;
       }
       #about-btn:hover,
       #about-btn:focus {
@@ -709,7 +713,7 @@
         background: #f4f0e8;
         border: 1px solid #c4b99a;
         border-radius: 6px;
-        max-width: 560px;
+        max-width: 780px;
         width: 90%;
         max-height: 80vh;
         overflow: hidden;
@@ -774,6 +778,21 @@
       }
       #about-content a {
         color: #8b4513;
+      }
+      #about-content img {
+        max-width: 100%;
+        height: auto;
+        display: block;
+        margin: 0.75rem auto 0.25rem;
+        border-radius: 4px;
+        border: 1px solid #c4b99a;
+      }
+      #about-content .img-caption {
+        text-align: center;
+        font-size: 0.8rem;
+        color: #8b7355;
+        font-style: italic;
+        margin: 0 0 0.75rem;
       }
       .citation-box {
         background: #e8e2d4;
@@ -9582,7 +9601,7 @@ const CSV_DATA = `year,origin_city,origin_state,destination_city,destination_sta
             layer.on("mouseover", function (e) {
               showTooltip(
                 e,
-                `Railroad lines in operation by ${feature.properties.InOpBy}`,
+                `Railroad line in operation by ${feature.properties.InOpBy}`,
               );
             });
             layer.on("mouseout", hideTooltip);

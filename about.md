@@ -10,18 +10,19 @@ Mail transit times were computed by the U.S. Post Office Department using railro
 
 ### How was this made?
 
-This visualization was built in early 2026 by [Cameron Blevins](https://cblevins.github.io/) and relied extensively on Generative AI tools. It was completed over the following steps:
+This project was completed in early 2026 by [Cameron Blevins](https://cblevins.github.io/) over several steps. First, mail transit time tables were located in a selection of [United States Postal Guides found on HathiTrust](https://catalog.hathitrust.org/Record/002137107) and then downloaded as separate PDF files.
 
-- Located mail transit time tables in a selection of [United States Postal Guides found on HathiTrust](https://catalog.hathitrust.org/Record/002137107) and downloaded relevant pages as separate PDF files ([see an example here](https://github.com/cblevins/mail-time/blob/main/source-docs/1883-transit-times.pdf)).
-- Used Google's Gemini 3.1 Pro to extract transit time data from each PDF and reformat it into a separate CSV file.
-- Used Claude Code (Sonnet 4.6) to combine yearly data into a single dataset, then identify and fix potential transcription errors (ex. a value of `33:15` getting incorrectly transcribed as `83:15`).
-- Used Claude Code (Opus 4.6 and Sonnet 4.6) to design the visualization.
+![Example page from an 1883 U.S. Official Postal Guide showing mail transit times](https://raw.githubusercontent.com/cblevins/mail-time/main/images/1883-table-example.png)
+
+<p class="img-caption">Excerpt of transit time table from <a href="https://babel.hathitrust.org/cgi/pt?id=njp.32101068314788&seq=657">1883 U.S. Official Postal Guide</a></p>
+
+The remaining steps relied extensively on Generative AI tools: Google's Gemini 3.1 Pro was used to extract data from each transit table PDF and process it into a CSV file. Claude Code (Sonnet 4.6) was used to combine yearly data into a single dataset, then identify and fix potential transcription errors (ex. a value of `33:15` getting incorrectly transcribed as `83:15`). Finally, Claude Code (Opus 4.6 and Sonnet 4.6) was used to build, design, and deploy the visualization.
 
 ### About the Data
 
 #### Mail Transit Time Data
 
-The full dataset of mail transit times can [be downloaded as a CSV file here](https://github.com/cblevins/mail-time/blob/main/data/transit-times-merged.csv). This dataset came from the following sources:
+This dataset comes transcribed from the following sources:
 
 - [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=mdp.39015063600780&seq=609) (January 1882), p. 579-582.
 - [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=njp.32101068314788&seq=654) (January 1883), p. 612-615.
@@ -29,9 +30,11 @@ The full dataset of mail transit times can [be downloaded as a CSV file here](ht
 - [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=hvd.hn4jgx&seq=859) (January 1902), p. 845-848.
 - [United States Official Postal Guide](https://babel.hathitrust.org/cgi/pt?id=njp.32101068315199&seq=1061) (January 1908), p. 845-848.
 
+The full dataset of mail transit times can [be downloaded as a CSV file](https://github.com/cblevins/mail-time/blob/main/data/transit-times-merged.csv).
+
 #### Railroad Data
 
-Many thanks to Jeremy Atack for building an extensive dataset of historical railroad lines: Jeremy Atack, ["Historical Geographic Information Systems (GIS) database of U.S. Railroads for 1826-1911"](https://my.vanderbilt.edu/jeremyatack/data-downloads/) (May 2016; revised Oct 31, 2023).
+All railroad data comes from: Jeremy Atack, ["Historical Geographic Information Systems (GIS) database of U.S. Railroads for 1826-1911"](https://my.vanderbilt.edu/jeremyatack/data-downloads/) (May 2016; revised Oct 31, 2023).
 
 ### Historical Background
 
