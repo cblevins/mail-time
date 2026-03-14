@@ -1,8 +1,6 @@
 ## About This Project
 
-In January of 1882, a letter mailed from New York City to San Francisco would take nearly **a full week** to travel across the country. By 1902, that same journey had been cut to a little more than **four days**.
-
-This map uses a series of tables published by the U.S. Post Office Department in the late 1800s and early 1900s recording how many hours it took for mail to travel via railway between **12 major railroad depots** and more than **100 cities** across the country. Visualizing these transit tables shows the distances separating Americans in different parts of the country and how these shrank over time with the growth of a national railway system.
+In January of 1882, a letter mailed from New York City to San Francisco would take nearly **a full week** to travel across the country. By 1902, that same journey had been cut to a little more than **four days**. This map uses a series of tables published by the U.S. Post Office Department in the late 1800s and early 1900s recording how many hours it took for mail to travel via railway between **12 major railroad depots** and roughly **120-130 cities** across the country. Visualizing these transit tables shows the distances separating Americans in different parts of the country and how the US Post and an expanding national railway system connected them.
 
 ### What is this showing?
 

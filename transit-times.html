@@ -698,6 +698,9 @@
         color: #ffffff;
         outline: none;
       }
+      .about-icon {
+        display: none;
+      }
 
       /* About modal overlay */
       #about-modal {
@@ -972,11 +975,50 @@
           font-size: 0.95rem;
           padding: 0.15rem 0;
         }
+        #dest-selector {
+          flex-wrap: nowrap;
+          overflow-x: auto;
+          overflow-y: hidden;
+          max-height: none;
+          justify-content: flex-start;
+          padding: 0.4rem 0.5rem;
+        }
+        #dest-selector .label {
+          flex-shrink: 0;
+        }
+        .dest-btn {
+          flex-shrink: 0;
+        }
       }
 
       @media (max-width: 480px) {
+        header {
+          padding: 0.5rem 1rem 0.5rem;
+          position: relative;
+        }
         header p {
           display: none;
+        }
+        header h1 {
+          font-size: 1.25rem;
+          padding-right: 2rem;
+        }
+        .about-text {
+          display: none;
+        }
+        .about-icon {
+          display: inline;
+          font-size: 1.3rem;
+          line-height: 1;
+        }
+        #about-btn {
+          position: absolute;
+          top: 0.6rem;
+          right: 0.75rem;
+          transform: none;
+          margin-top: 0;
+          padding: 0.2rem 0.3rem;
+          border-bottom: none;
         }
       }
     </style>
@@ -994,7 +1036,8 @@
         onclick="document.getElementById('about-modal').style.display = 'flex'"
         aria-label="About this project"
       >
-        About This Project
+        <span class="about-text">About This Project</span>
+        <span class="about-icon" aria-hidden="true">ⓘ</span>
       </button>
     </header>
 
