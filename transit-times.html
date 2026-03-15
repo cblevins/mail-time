@@ -414,20 +414,24 @@
       }
 
       #back-btn {
-        display: none;
+        display: block;
         background: none;
-        border: none;
-        padding: 0.5rem 1rem 0;
+        border: 1px solid #c4b99a;
+        border-radius: 4px;
+        margin-top: 1.1rem;
+        padding: 0.45rem 0.85rem;
         font-family: "Source Sans Pro", sans-serif;
-        font-size: 0.8rem;
-        color: #8b7355;
+        font-size: 0.9rem;
+        font-weight: 600;
+        color: #5a4a36;
         cursor: pointer;
         text-align: left;
-        transition: color 0.15s;
+        transition: background 0.15s, color 0.15s;
       }
 
       #back-btn:hover {
-        color: #5a4a36;
+        background: #ede8dc;
+        color: #3b2a1a;
       }
 
       /* Detail content */
@@ -495,6 +499,12 @@
         white-space: nowrap;
         overflow: hidden;
         text-overflow: ellipsis;
+        cursor: pointer;
+        transition: color 0.15s;
+      }
+      .bar-label:hover {
+        color: #8b4513;
+        text-decoration: underline;
       }
 
       .bar-track {
@@ -1139,13 +1149,6 @@
       </div>
 
       <div id="detail-panel" class="empty" aria-live="polite">
-        <button
-          id="back-btn"
-          onclick="resetView()"
-          aria-label="Return to all cities view"
-        >
-          ← All cities
-        </button>
         <div id="search-container">
           <input
             type="text"
@@ -9161,18 +9164,18 @@ const CSV_DATA = `year,origin_city,origin_state,destination_city,destination_sta
       // The 12 hub destinations (display names)
       // ============================================================
       const DESTINATIONS = [
-        "Boston",
-        "New York",
-        "Philadelphia",
-        "Baltimore",
-        "Washington, D.C.",
-        "Pittsburgh",
-        "Chicago",
-        "Charleston",
-        "Cincinnati",
-        "St. Louis",
-        "Omaha",
-        "San Francisco",
+        "San Francisco",   // 122.4°W
+        "Omaha",           //  95.9°W
+        "St. Louis",       //  90.2°W
+        "Chicago",         //  87.6°W
+        "Cincinnati",      //  84.5°W
+        "Pittsburgh",      //  80.0°W
+        "Charleston",      //  79.9°W
+        "Washington, D.C.",//  77.0°W
+        "Baltimore",       //  76.6°W
+        "Philadelphia",    //  75.2°W
+        "New York",        //  74.0°W
+        "Boston",          //  71.1°W
       ];
 
       // Map destination CSV values → display names used in DESTINATIONS array
@@ -9679,7 +9682,6 @@ const CSV_DATA = `year,origin_city,origin_state,destination_city,destination_sta
           .forEach((b) => b.classList.remove("active"));
         updateMapColors();
         updateHubTable();
-        document.getElementById("back-btn").style.display = "none";
       }
 
       // ============================================================
@@ -9840,6 +9842,7 @@ const CSV_DATA = `year,origin_city,origin_state,destination_city,destination_sta
             showTooltip(e, html);
             if (selectedCity !== city.key)
               this.setStyle({ radius: 11, weight: 2.5 });
+            // if (viewMode === "city" && selectedCity) showHoverArc(destName);
           });
 
           marker.on("mousemove", function (e) {
@@ -9853,6 +9856,7 @@ const CSV_DATA = `year,origin_city,origin_state,destination_city,destination_sta
             hideTooltip();
             if (selectedCity !== city.key)
               this.setStyle({ radius: 9, weight: 1.5 });
+            // hideHoverArc();
           });
 
           marker.on("click", function () {
@@ -9965,7 +9969,6 @@ const CSV_DATA = `year,origin_city,origin_state,destination_city,destination_sta
           document
             .querySelectorAll(".dest-btn")
             .forEach((b) => b.classList.remove("active"));
-          document.getElementById("back-btn").style.display = "inline-block";
           updateMapColors();
           updateDetailPanel(city);
         }
@@ -10010,13 +10013,22 @@ const CSV_DATA = `year,origin_city,origin_state,destination_city,destination_sta
           }
         });
 
-        let barsHtml = DESTINATIONS.map((dest) => {
+        const sortedDests = [...DESTINATIONS].sort((a, b) => {
+          const va = city.times[a];
+          const vb = city.times[b];
+          if (va === null && vb === null) return 0;
+          if (va === null) return 1;
+          if (vb === null) return -1;
+          return va - vb;
+        });
+
+        let barsHtml = sortedDests.map((dest) => {
           const v = city.times[dest];
           const isFastest = dest === minDest;
           const isSlowest = dest === maxDest;
           const cls = isFastest ? "fastest" : isSlowest ? "slowest" : "";
           if (v === null) {
-            return `<div class="bar-row ${cls}">
+            return `<div class="bar-row ${cls}" data-dest="${dest}">
                 <div class="bar-label">${dest}</div>
                 <div class="bar-track"><div class="bar-fill" style="width: 0; background: #ccc;"></div></div>
                 <div class="bar-time" style="color: #b0a490; font-style: italic;">N/A</div>
@@ -10025,7 +10037,7 @@ const CSV_DATA = `year,origin_city,origin_state,destination_city,destination_sta
           const pct =
             maxForScale > 0 ? Math.max(1, (v / maxForScale) * 100) : 0;
           const color = getColor(v);
-          return `<div class="bar-row ${cls}">
+          return `<div class="bar-row ${cls}" data-dest="${dest}">
             <div class="bar-label">${dest}</div>
             <div class="bar-track"><div class="bar-fill" style="width: ${pct}%; background: ${color};"></div></div>
             <div class="bar-time">${formatTimeHtml(v)}</div>
@@ -10037,6 +10049,7 @@ const CSV_DATA = `year,origin_city,origin_state,destination_city,destination_sta
         <div class="city-state">${city.state}</div>
         <div class="city-year-label"><span class="dynamic-year">${currentYear}</span> mail transit times to:</div>
         ${barsHtml}
+        <button id="back-btn" onclick="resetView()" aria-label="Return to all cities view">← All cities</button>
     `;
       }
 
@@ -10147,25 +10160,30 @@ const CSV_DATA = `year,origin_city,origin_state,destination_city,destination_sta
       // ============================================================
       // DESTINATION SELECTOR BUTTONS
       // ============================================================
+      function selectDestHub(dest) {
+        viewMode = "hub";
+        currentDest = dest;
+        selectedCity = null;
+        document
+          .querySelectorAll(".dest-btn")
+          .forEach((b) => b.classList.remove("active"));
+        const activeBtn = [...document.querySelectorAll(".dest-btn")].find(
+          (b) => b.textContent === dest
+        );
+        if (activeBtn) activeBtn.classList.add("active");
+        updateMapColors();
+        updateHubTable();
+        const query = document.getElementById("search-input").value;
+        if (query.length > 0) updateSearchResults(query);
+      }
+
       const selectorEl = document.getElementById("dest-selector");
 
       DESTINATIONS.forEach((dest) => {
         const btn = document.createElement("button");
         btn.className = "dest-btn" + (dest === currentDest ? " active" : "");
         btn.textContent = dest;
-        btn.addEventListener("click", () => {
-          viewMode = "hub";
-          currentDest = dest;
-          selectedCity = null;
-          document
-            .querySelectorAll(".dest-btn")
-            .forEach((b) => b.classList.remove("active"));
-          btn.classList.add("active");
-          updateMapColors();
-          updateHubTable();
-          const query = document.getElementById("search-input").value;
-          if (query.length > 0) updateSearchResults(query);
-        });
+        btn.addEventListener("click", () => selectDestHub(dest));
         selectorEl.appendChild(btn);
       });
 
@@ -10362,6 +10380,102 @@ const CSV_DATA = `year,origin_city,origin_state,destination_city,destination_sta
         </div>
     `;
       }
+
+      // ============================================================
+      // HOVER ARC (disabled — uncomment to re-enable)
+      // ============================================================
+      /* let currentArcDest = null;
+
+      function getArcSvg() {
+        return document.querySelector(".leaflet-overlay-pane svg");
+      }
+
+      function getOrCreateArcPath() {
+        const svg = getArcSvg();
+        if (!svg) return null;
+        let path = svg.getElementById("hover-arc");
+        if (!path) {
+          path = document.createElementNS("http://www.w3.org/2000/svg", "path");
+          path.id = "hover-arc";
+          path.setAttribute("fill", "none");
+          path.setAttribute("stroke", "#7a3a10");
+          path.setAttribute("stroke-width", "4");
+          path.setAttribute("stroke-linecap", "round");
+          path.setAttribute("opacity", "0.85");
+          path.setAttribute("pointer-events", "none");
+          svg.appendChild(path);
+        }
+        return path;
+      }
+
+      function drawArc(destName) {
+        const originCity = cityMarkers[selectedCity]?.city;
+        if (!originCity) return;
+        const destKey = DEST_TO_KEY[destName];
+        const destCity = cities.find((c) => c.key === destKey);
+        if (!destCity) return;
+
+        const p1 = map.latLngToLayerPoint(
+          L.latLng(originCity.coords[0], originCity.coords[1])
+        );
+        const p2 = map.latLngToLayerPoint(
+          L.latLng(destCity.coords[0], destCity.coords[1])
+        );
+
+        // Quadratic bezier control point: perpendicular offset at midpoint
+        const mx = (p1.x + p2.x) / 2;
+        const my = (p1.y + p2.y) / 2;
+        const dx = p2.x - p1.x;
+        const dy = p2.y - p1.y;
+        const len = Math.sqrt(dx * dx + dy * dy);
+        if (len < 1) return;
+        const bow = len * 0.22;
+        // Offset perpendicular, always bow northward (upward in screen coords = negative y)
+        const px = -dy / len;
+        const py = dx / len;
+        // Choose the direction that bows upward (negative screen y)
+        const sign = py < 0 ? 1 : -1;
+        const cx = mx + sign * px * bow;
+        const cy = my + sign * py * bow;
+
+        const d = `M ${p1.x},${p1.y} Q ${cx},${cy} ${p2.x},${p2.y}`;
+        const path = getOrCreateArcPath();
+        if (path) path.setAttribute("d", d);
+      }
+
+      function showHoverArc(destName) {
+        currentArcDest = destName;
+        drawArc(destName);
+      }
+
+      function hideHoverArc() {
+        currentArcDest = null;
+        const path = document.getElementById("hover-arc");
+        if (path) path.setAttribute("d", "");
+      }
+
+      // Redraw arc on map move/zoom so it stays anchored
+      map.on("move zoom", () => {
+        if (currentArcDest) drawArc(currentArcDest);
+      });
+
+      // Event delegation on detail-content for bar row hover
+      document.getElementById("detail-content").addEventListener("mouseover", (e) => {
+        const row = e.target.closest(".bar-row[data-dest]");
+        if (row) showHoverArc(row.dataset.dest);
+      });
+      document.getElementById("detail-content").addEventListener("mouseout", (e) => {
+        const row = e.target.closest(".bar-row[data-dest]");
+        if (row) hideHoverArc();
+      }); */
+
+      // Click a bar label to switch to that hub city's view
+      document.getElementById("detail-content").addEventListener("click", (e) => {
+        if (e.target.classList.contains("bar-label")) {
+          const row = e.target.closest(".bar-row[data-dest]");
+          if (row) selectDestHub(row.dataset.dest);
+        }
+      });
 
       // ============================================================
       // INITIALIZE
