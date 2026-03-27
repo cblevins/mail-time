@@ -6,7 +6,7 @@ An interactive data visualization exploring how long it took mail to travel by r
 
 ✏️ Read more about this visualization at: Cameron Blevins, ["Bottlenecks, Side Quests, and the Calculus of Historical Research"](cblevins.github.io/posts/bottleneck-side-quests/) (March 27, 2026)
 
-This visualization was created by Cameron Blevins using Claude Code.
+_This visualization was created by [Cameron Blevins](https://cblevins.github.io/) using Claude Code_
 
 ---
 
